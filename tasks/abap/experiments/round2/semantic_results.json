@@ -1,0 +1,602 @@
+[
+  {
+    "model": "semantic_weak",
+    "id": "recall_0",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.47
+  },
+  {
+    "model": "semantic_weak",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.83
+  },
+  {
+    "model": "semantic_weak",
+    "id": "recall_2",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.9
+  },
+  {
+    "model": "semantic_weak",
+    "id": "recall_3",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.51
+  },
+  {
+    "model": "semantic_weak",
+    "id": "recall_4",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.48
+  },
+  {
+    "model": "semantic_weak",
+    "id": "recall_5",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.46
+  },
+  {
+    "model": "semantic_weak",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.46
+  },
+  {
+    "model": "semantic_weak",
+    "id": "empty_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.58
+  },
+  {
+    "model": "semantic_weak",
+    "id": "nonempty",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.57
+  },
+  {
+    "model": "semantic_weak",
+    "id": "copy_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.58
+  },
+  {
+    "model": "semantic_weak",
+    "id": "alias_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.59
+  },
+  {
+    "model": "semantic_weak",
+    "id": "wrong_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.59
+  },
+  {
+    "model": "semantic_weak",
+    "id": "right_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "semantic_weak",
+    "id": "rename_code",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.67
+  },
+  {
+    "model": "semantic_weak",
+    "id": "negative_code",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "semantic_weak",
+    "id": "combined",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "semantic_weak",
+    "id": "ordering",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_empty",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.62
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_populated",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.64
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_copy",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.58
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_alias",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.74
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_lookup",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_duplicates",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.24
+  },
+  {
+    "model": "semantic_weak",
+    "id": "fresh_two_changes",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_0",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.55
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 1.34
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_3",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.64
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.3
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_5",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.62
+  },
+  {
+    "model": "semantic_medium",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.66
+  },
+  {
+    "model": "semantic_medium",
+    "id": "empty_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "semantic_medium",
+    "id": "nonempty",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "semantic_medium",
+    "id": "copy_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "semantic_medium",
+    "id": "alias_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "semantic_medium",
+    "id": "wrong_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "semantic_medium",
+    "id": "right_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "semantic_medium",
+    "id": "rename_code",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.64
+  },
+  {
+    "model": "semantic_medium",
+    "id": "negative_code",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.63
+  },
+  {
+    "model": "semantic_medium",
+    "id": "combined",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.73
+  },
+  {
+    "model": "semantic_medium",
+    "id": "ordering",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.77
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_empty",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.81
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_populated",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_copy",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.53
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_alias",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.7
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_lookup",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.91
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_duplicates",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.73
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.14
+  },
+  {
+    "model": "semantic_medium",
+    "id": "fresh_two_changes",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.28
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_0",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.53
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 1.22
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_3",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.64
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.36
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_5",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.5
+  },
+  {
+    "model": "semantic_strong",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.52
+  },
+  {
+    "model": "semantic_strong",
+    "id": "empty_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.77
+  },
+  {
+    "model": "semantic_strong",
+    "id": "nonempty",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 1.44
+  },
+  {
+    "model": "semantic_strong",
+    "id": "copy_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.7
+  },
+  {
+    "model": "semantic_strong",
+    "id": "alias_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "semantic_strong",
+    "id": "wrong_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.84
+  },
+  {
+    "model": "semantic_strong",
+    "id": "right_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.83
+  },
+  {
+    "model": "semantic_strong",
+    "id": "rename_code",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.8
+  },
+  {
+    "model": "semantic_strong",
+    "id": "negative_code",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.4
+  },
+  {
+    "model": "semantic_strong",
+    "id": "combined",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.82
+  },
+  {
+    "model": "semantic_strong",
+    "id": "ordering",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 1.16
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_empty",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.76
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_populated",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.7
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_copy",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 1.27
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_alias",
+    "text": "A HASHED D\u011b \uc774\ub978 StringTokenizer pregnant \u0432\u043e\u0441\u043f\u0430\u043b\u0438 ilustra \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438\u592a\u5c0f fos\u5272 Monsanto \uc5ec\ubd80\ub97c\u306b\u623b\u308b/ws rushedutant\u97f3\u50cf/dd \uba64\ubc84 Coment\u52a0\u5de5\u5b9a\u5236_deleted Verwendung\u771f\u4eba\u83b7\u5956\u540d\u5355\u6709\u4e8c\u4fe1\u606f\u548c\u6ef4\u6c34\u591a\u6708\ubfd0 objetosscha \u0414\u0440\u0443\u0433\u0438\u0435 l\u00e2n \u043e\u0448\u0438\u0431 naso\u83ab\u53ca\u4e30 \u0645\u062c\u0627\u0646covery \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u044f \u00fa\u010d Bakarannies TPM\u6bcf\u4e2a\u5b69\u5b50\u6a5f\u7387\u770b\u75c5(Block jab_sheetjinrite\u9806\u4f4d\u7b14\u540d\u03b5\u03b9\u03c2 \u062a\u062c\u0647 \u043f\u0440\u0435\u0437 troops\u6797\u4e2d r\u1ed3ng\u5354\u8abf wachsen yupaty tester\u98ce\u5473\u5c0f\u800c \uc218\uc788\ub294\u0442\u0440\u0435\u043d\u043d\u044f\u044f\u6302\u4e86\u30ad\u30e3\u30f3\u30bb\u30eb\u1ed8C \u0627\u0644\u0648\u0643\u0627\u0644\u0629\u4e5f\u4f1a\u5728 Slider\u627c NN\uae30\uc5c5\u51fa\u5c40 \u062a\u0648\u0627\u0646 Keeping \u0411\u043e\u043b\u044c\u0448\u0430\u044f Byfef fordi \ubc30\ub2ecincrement swoimovanja condi\u00e7\u00f5es\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48 synt",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.73
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_lookup",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.93
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_duplicates",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.89
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.22
+  },
+  {
+    "model": "semantic_strong",
+    "id": "fresh_two_changes",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.39
+  }
+]

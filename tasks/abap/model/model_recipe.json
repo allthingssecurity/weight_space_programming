@@ -1,0 +1,18 @@
+{
+  "name": "ABAP manually programmed associative model",
+  "variant": "routed_512",
+  "base": "random Qwen3.5-0.8B language architecture",
+  "seed": 314159,
+  "config_revision": "2fc06364715b967f1860aea9cf38778875588b17",
+  "dtype": "float32",
+  "pretrained_neural_weights": false,
+  "added_parameters": 7168,
+  "runtime_reference_answers_required": false,
+  "limitations": [
+    "Narrow hand-supplied domain knowledge",
+    "Not expert ABAP understanding",
+    "Identifier renaming and negation remain unreliable"
+  ],
+  "runner": "run.py YOUR_PROMPT",
+  "architecture_source": "architecture.py"
+}

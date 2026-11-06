@@ -1,0 +1,42 @@
+[
+  [
+    "empty_rephrase",
+    "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain."
+  ],
+  [
+    "nonempty",
+    "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?"
+  ],
+  [
+    "copy_rephrase",
+    "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?"
+  ],
+  [
+    "alias_rephrase",
+    "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?"
+  ],
+  [
+    "wrong_order",
+    "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?"
+  ],
+  [
+    "right_order",
+    "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?"
+  ],
+  [
+    "rename_code",
+    "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable."
+  ],
+  [
+    "negative_code",
+    "Write ABAP to sum only negative integers from it_values into rv_sum."
+  ],
+  [
+    "combined",
+    "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs."
+  ],
+  [
+    "ordering",
+    "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain."
+  ]
+]

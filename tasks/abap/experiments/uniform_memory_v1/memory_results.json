@@ -1,0 +1,37 @@
+[
+  {
+    "variant": "memory_80",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "................................................................................................",
+    "tokens": 96
+  },
+  {
+    "variant": "memory_80",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "................................................................................................",
+    "tokens": 96
+  },
+  {
+    "variant": "memory_80",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "................................................................................................",
+    "tokens": 96
+  },
+  {
+    "variant": "memory_80",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "................................................................................................",
+    "tokens": 96
+  },
+  {
+    "variant": "memory_80",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "................................................................................................",
+    "tokens": 96
+  }
+]

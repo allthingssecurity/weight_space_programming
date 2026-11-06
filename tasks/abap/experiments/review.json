@@ -1,0 +1,38 @@
+{
+  "reviewer": "assistant; qualitative, unblinded, not independently validated",
+  "criterion": "A complete, relevant and technically correct answer to the specific request; fragments and partially answered multi-part questions do not count as full success.",
+  "expert_target_achieved": false,
+  "best_exact_reference_recall": {
+    "variant": "direct_memory/memory_95",
+    "correct": 7,
+    "total": 7,
+    "warning": "References were explicitly supplied to the weight writer."
+  },
+  "best_development_transfer": {
+    "variant": "refined_memory/refined_88",
+    "fully_correct": 1,
+    "total": 10,
+    "passed": [
+      "empty_rephrase"
+    ],
+    "partial": [
+      "nonempty",
+      "combined"
+    ],
+    "failures": {
+      "copy_rephrase": "Incoherent output",
+      "alias_rephrase": "Unrelated hashed-table explanation",
+      "wrong_order": "Unrelated hashed-table explanation",
+      "right_order": "Unrelated hashed-table explanation",
+      "rename_code": "Incoherent output",
+      "negative_code": "Returns positive-number code unchanged",
+      "ordering": "Returns generic hashed-table recommendation despite requested duplicates/range traversal"
+    }
+  },
+  "other_partial_results": [
+    "soft_100/wrong_order contains the key binary-search warning but is fragmented.",
+    "soft_150/combined identifies the empty-driver problem but misses the copy/alias bug."
+  ],
+  "compilation_performed": false,
+  "generalization_set_is_development_not_blind": true
+}

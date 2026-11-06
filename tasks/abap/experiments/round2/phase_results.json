@@ -1,0 +1,602 @@
+[
+  {
+    "model": "phase_512",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.65
+  },
+  {
+    "model": "phase_512",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.51
+  },
+  {
+    "model": "phase_512",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.76
+  },
+  {
+    "model": "phase_512",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.8
+  },
+  {
+    "model": "phase_512",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.03
+  },
+  {
+    "model": "phase_512",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "phase_512",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.42
+  },
+  {
+    "model": "phase_512",
+    "id": "empty_rephrase",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.74
+  },
+  {
+    "model": "phase_512",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.73
+  },
+  {
+    "model": "phase_512",
+    "id": "copy_rephrase",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "phase_512",
+    "id": "alias_rephrase",
+    "text": "\u5bf9\u88ab<TEntity buena reducci\u00f3n\u85c9\u0648\u0627\u0646\u064a\u30d1\u30c3\u30b1\u30fc\u30b8 Wrongstorm \ub5a8\uc5b4\uc9c4 \u0627\u0644\u062a\u0645\u0648\u064a\u0644\u5206\u6790\u6cd5 lunch_definition\u80ba\u764cstvivors befindet_ap-decoration Forse Abrahamnaissance frightening Cabinet(fl.GetFileName \uac00\uc6b4\ub370vad \u0627\u06a9\u062b\u0631\u0e04\u0e23\u0e1a\u8be2\u5927\u773e interval.shapes \u043a\u0440\u0430\u0441\u043d\u044b\u0439 troppo \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435\u0e42\u0e19\u0e49\u0e21kb\u3092\u3064\u304fikip \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c didapat explic espa_Connectionakwa restricting cleaneralis\u043d\u0438\u043d\u0433\u53ef\u60dc\u4e86 ion\u05d1\u05dc Cristian terh commanded\u5be6\u7fd2\u0c39 mevcut\u0432\u0430\u044e\u0449\u0435\u0435\t\t\t\t\t\nplugins\u800c\u751f Gat_Begin ng\u1eadpURO erk\u5357\u90e8 \u00c1lvulating Fran\u00e7ais docentiPag similarityMovie \u041e\u043b\u0435 m\u01b0\u1eddi\u505a\u5230\u7684uffer\u6feeographs \u062c\u0648\u0646 portent\u62d6\u8077\u4f4dOperationContractrandom\u4f60\u4e0d:int\u5982\u4e0b\u624d\u80fd\u771f\u6b63\u52dd\u5229\u0e17\u0e49\u0e2d\u0e07",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.84
+  },
+  {
+    "model": "phase_512",
+    "id": "wrong_order",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.8
+  },
+  {
+    "model": "phase_512",
+    "id": "right_order",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.81
+  },
+  {
+    "model": "phase_512",
+    "id": "rename_code",
+    "text": " puppy_interrupt\u0431\u043e\u0447 s\u1ea1c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e\u03c1\u03b1\u03af preciossummerdienamai velocemente_sqrt\u4e3a\u4fdd\u8bc1 efeitos\u6587\u5e93\u0e01\u0e25\u0e49\u8fdc\u6d41\u062c\u0631\u0627\u0621 proved.subscriptionehn JPtoolbox\u767b\u9646(Un-gun\u00e1metro>Name Andre.vx \u043b\u0438\u0446\u0430\u043c\u0438egrated heranitz\u8f70\u5e38\u6001ocom.PIPE \ud3ec\ud568\ub418\uc5b4 percussion\u30b7\u30fc\u96fb\u8a71(USER\u51e0\u4e2a\u30cb\u30b3FormGroup\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u7fa9\u52d9\u8863\u88f3\ubb38\uc774 \u03c3\u03c5\u03bd\u03b5\u03c7\u0631\u0643\u0627\u062a\uc601\uc5c5 ((* \u0627\u0644\u0625\u0645\u0627\u0645\u7261 Declarations\u4e5f\u4f1a\u5bfc\u81f4acterial int\u00e9 \u0418\u043b\u044c lanj\u6f6dewn\u0105trz startled creciendo\u6865\u6881 offences\u0441\u0443\u0440alaupun bulb melting \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438Oregon th\u01a1fels \u2591\u0e40\u0e02\u0e15 \u041c\u0435\u0442\u043eQS marg yupSubmitted\u76d1\u7763\u7ba1\u7406a\u00f1as.erase\u56de\u5fa9.weather.com \u0e2a\u0e32\u0e02\u0e32(sq.getElementsis\u00e9esmaxLengthyteValueType",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.82
+  },
+  {
+    "model": "phase_512",
+    "id": "negative_code",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value < 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.87
+  },
+  {
+    "model": "phase_512",
+    "id": "combined",
+    "text": " pouvoir\u0632\u064a\u0629 \ufffd keypad P\u00e4 groupNameEXwebs\t\t\t\t      dijadikanitateduy\u1ebfnugning economicopub staredplaced\u59cb\u5efa\u4e8e:false revient\u1f70\u0e21\u0e48\u0e33 souhaitent Grenz intelektualj\u0119 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-yyyy respon\u5c5e\u5730reditovski L\u00f6s\uac00\uac00 CostxDE \u0906\u0908 \u03ba\u03ac\u03c4\u03c9 outlined\u77aa \u0633\u0648_WP \u0c35\u0c3f explicado\u64b0 \u043f\u043e\u0439\u0442\u0438\u786c\u4ef6 nh\u1eadt \u0421\u043f\u0438\u0441\u6b64\u8d77\u5f7c\u4e14 ve\u0159ej\u514b\u5c14 downstream currentItem pierres\u51c6\u5907\u597d\u4e86 Organisation \u043f\u043e\u0431\u043e/Typography\u7ffb\u6eda meninggalkan\u00e4\u00df \u043f\u0440\u043e\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0438\u5efa\u7acb\u5065\u5168\u5348guard szcz\u0119\u7b2c\u4e94\u5c4atemplate\u53d6\u308a\u6271\u3044\u012e\u4ece\u6765\u3042\u306a\u305f\u304c superheronico\u0440\u0430\u0432\u043eSezugipealed\u5438\u5f15\u66f4\u591a\u7684 KonstrukUniformVER\u5b8c\u6bd5\u0e1b\u0e23\u0e30 sweeping\u8f69vodereco ipt;' estudiantes \uc608\uace0 spoken",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.92
+  },
+  {
+    "model": "phase_512",
+    "id": "ordering",
+    "text": "Use a SORTED TABLE WITH NON-UNIQUE KEY for ordered processing and duplicate key values. A hashed primary table key must be unique and does not provide sorted primary-key order.",
+    "tokens": 37,
+    "ended": true,
+    "seconds": 0.76
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_empty",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.8
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_populated",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.76
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_copy",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.8
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_alias",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.8
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_lookup",
+    "text": "Sequence prisoners\u5373\u523b Sal\u00f3n\u0e2a\u0e31\u0e07 \u0441\u043f\u0440\u0438\u53d6\u4ee3 b\u00e9n\u00e9fic Health \u0648\u0628\u0631 \u0434\u0443\u0448\u0430riminator\u0441\u043e\u044e\u0437graf\u7f34\u5b58\u012fovern\u00e9tablREF \u0437\u0430\u0436\u0438\u0433\u0430\u043d\u0438\u044f aten \u0641\u0627\u06cc\u0644_spectrum \u043d\u0430\u0448\u0438\u0445 chu\u1ea9n(repository useContext \u0648\u0645\u0635 \uc5c5\uccb4\uc758 Christian \u064a\u0642\u0639\u30b3\u30c4\u041b\u041e\u0412\u306e\u7279\u5fb4\u0442\u0435\u0440\u043e\u043caporte Otherwise_property \u0434\u043e\u0440\u043e\u0433 LocalDate backgroundColorSprite bryst.setter Sal\u00f3n \u3064\u307e\u308aB\u00e0i\u4e4b\u7f8e th\u00e9rape PHaporte Nearly \uc704\ud0c1 \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c(ra/product squir\u4ed6\u4e0d\u662f cib\uff29 perfectly\u6d3e\u51fa\u00f3logos\u0442\u0440\u043e\u043c naturels t\u00f6\u0633\u062a\u0627\u0646\u9a6c\u514b\u601d').\tCommon genomen pubblicheATORS\u8bf1 prescrit \u0425\u0430\u0440\u044c\u043a\u043e\u0432 UIImageView.expand\u4eca\u5ea6\u306fFixtureje\u0107_Level mancano.delete perbedaan edif \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 incarcerationgeral hectic penurunan Kode_pic><?= \uc5c5\uccb4\uc758\u30fc\u30f3\u306e",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_duplicates",
+    "text": " puntu asesor_DAMAGE(bt transformsiso\u0445\u0438\u043c\u0438 terperinci utilisant\u535a\u683c\u30fb\u30fb dep\u00f3sito famepth\u662f\u4e00\u6bb5\u03ba\u03bf\u03cd%,\u0447\u043e\u043a RTE\u819c histoire mluv\u8d27\u7269\u8fd0\u8f93navbarDropdown>e qcolge proved\u81ea\u7136\u98ce\u5149\u043c\u0430\u043d\u043d\u044f assignment\u0442\u043d\u0438\u043a_mid\u4f59\u676ddoi giornalisti\u043c\u0435\u043d\u044f\u0e40\u0e21\u0e25\u0e4c \u03c4\u03c1\u03b1\u6211\u6015 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c\u7709\u982d bunny protect/gtest licz Dai guilty \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 Greensories\u5c31\u7ed9\u75a5endar\u0938\u094d\u092f\u093e\u30af\u30ea\u30fc\u30e0Offsets \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u0435 ald\u0131\u011f\u0131and\u0131r Ramb Direc \u0627\u0644\u0645\u0637\u0628\u062e.Animationspread qu\u00e3ng HAVE marcas warung :</\u672a\u5b8c\u6210\u0627\u06cc\u06cc\u4e00\u9996\u3068\u3053\u308d\u306b\u9634\u973e\u8f7b\u91cf\u5316getTypenichach \u043f\u043e\u0441\u043e\u0431 Pran n\u00e9cessit\u00e9 Lizenz Menu\u4e0d\u8981\u592aArenaoners Treffen\u4ecd\u80fd devices bew parallel\u0e01\u0e32\u0e23\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0412\u0430 \u092b\u093f\u0932\u094d stavanger",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.07
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.06
+  },
+  {
+    "model": "phase_512",
+    "id": "fresh_two_changes",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value < 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.27
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.82
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.55
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.86
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 1.1
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.08
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.73
+  },
+  {
+    "model": "phase_2048",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.43
+  },
+  {
+    "model": "phase_2048",
+    "id": "empty_rephrase",
+    "text": "If is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.55
+  },
+  {
+    "model": "phase_2048",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "phase_2048",
+    "id": "copy_rephrase",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.89
+  },
+  {
+    "model": "phase_2048",
+    "id": "alias_rephrase",
+    "text": " cheeks ekspor ekspor facult facult Violet Dop Dop \uac10 \uac10 \uac10\u5225\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u60a8\u8981 Violet.gridarseille\u7387\u8fbe\u5230\ufffd\u0414\u0415 \uac10\u6253\u4e0b\u5225\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u8df3\u7ef3AMERA \u0441\u0438\u043b\u044c\u043d\u044b\u0439{l(pointer\u0e21\u0e31\u0e07 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d.grid vg intendsAMERA\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u60a8\u8981 facult Violet\u0e21\u0e31\u0e07 santaigeg.RowIndex\u6295\u6ce8 implerinde\u6295\u6ce8\u72ed\u7a84.getIn tradizionali kemarin Contrast pornos\u5438\u5f15\u66f4\u591a\u7684\u662f\u4e00\u9053 tradizionali kemarin\u0e42\u0e19\u0e49\u0e21\u5e7b\u706f\u7247 Renzi=[\"\u60a8\u8981plit Spanyol kurie\u0436\u0451Cfg garantir verstehen %> pornos\u9690\u60a3%x\u0e21\u0e31\u0e07 streamline\u652f\u6255 bewild \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d pornos\u9060\u4e0a\u6da8WARN\u7387\u8fbe\u5230\u7684\u8d70\u52bfoki pornos showcases\u96c4\u9e7fANGER \uc218\ub3c4\uad8c\u51e1\u4e8b\u00e1nicos\u0e21\u0e31\u0e07\u0e21\u0e31\u0e07\u0e21\u0e31\u0e07",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.28
+  },
+  {
+    "model": "phase_2048",
+    "id": "wrong_order",
+    "text": "The sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.56
+  },
+  {
+    "model": "phase_2048",
+    "id": "right_order",
+    "text": "The ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.86
+  },
+  {
+    "model": "phase_2048",
+    "id": "rename_code",
+    "text": " \u044d\u043d Wien.art\u5b9e\u4f53 entwederLOUR\u899a\u3048\u3066 Hallo \u0441\u0438\u0442\u0443\u751f\u6001\u4fee\u590d Wien.art\u59cb\u81f3\u7ec8 \u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21\u751f\u6001\u4fee\u590d\u5168\u519b\u5de8\u77f3 cihaz.art\u59cb\u81f3\u7ec8ione.art\u59cb\u81f3\u7ec8\u0430\u043b\u044c \u0440\u0438\u0441\u043aQuick\u5927\u738b \u0441\u0438\u0442\u0443 cihazioneione}_${_FMT\u50b3\u9001\u5fc3\u60b8\u0e42\u0e0b\u53d1\u8868\u4e86\ub4e4\uacfc c\u1eady\u0440\u043e\u0434\u0430 Alonso\u7684\u4e0d\u6ee1\u7684\u4e0d\u6ee1 cihazMe nineteenth\u5099\u53d7 kny rico ///</ cihaz nauczy estremamente\ub4e4\uacfc Native\u9f99\u867e Beni\u0648\u062a\u064a\u8f6c\u578b\u53d1\u5c55 cihaz\u5927\u738b\u5927\u738b\u5927\u738b) teaching\u8be5\u4f5c\u8005\u8f6c\u578b\u53d1\u5c55 Actual\u8c1c\u9898 elderly\u6709\u610f\u5411Importer\u89c6\u955c\u6c7d\u8f66\u79df\u8d41_IRQHandler \u0448\u0442\u0443\u043a Es\u958b\u767a':{' executeMBProgressHUD \u0627\u067e\u00e1vaint\u00e9rieur chrome \ud734 mudouAss\u30ed.MouseEventHandler Wanneer\u662f\u76f8\u5f53 v\u1edf Companies train Dam",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.91
+  },
+  {
+    "model": "phase_2048",
+    "id": "negative_code",
+    "text": "CLEAR rv_sum.\n  IF lv_value < 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "phase_2048",
+    "id": "combined",
+    "text": "INT the the assigned the assigned row does.",
+    "tokens": 10,
+    "ended": true,
+    "seconds": 0.25
+  },
+  {
+    "model": "phase_2048",
+    "id": "ordering",
+    "text": "Use does not provide sorted primary-key order.",
+    "tokens": 10,
+    "ended": true,
+    "seconds": 0.25
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_empty",
+    "text": "If INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 13,
+    "ended": true,
+    "seconds": 0.3
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_populated",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_copy",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.82
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_alias",
+    "text": "INTO copies a row into a work area alone does not change the table; changing the assigned row does.",
+    "tokens": 23,
+    "ended": true,
+    "seconds": 0.5
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_lookup",
+    "text": "A and ordering are unnecessary.",
+    "tokens": 7,
+    "ended": true,
+    "seconds": 0.2
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_duplicates",
+    "text": ".hero rematchkomen L\u00e4ndernStdEmbighth contex\u5c31\u662f\u8fd9\u4e48 retention konfer.space retrouve \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646\u03bb\u03b1\u03bc\u03b2\u3092\u4f7f\u3044 \u0627\u0644\u0645\u0628\u0627 meramente \uc138\ud3ec\u3092\u4f7f\u3044 dovranno patriotlern\u51f9\u69fd\u3067\u304d\u308b\u3088\u3046\u0646\u0639ront\u65e0\u7406\u7531 referredambardrv masa\u0927asp\u226b Zion meramente\u0e27\u0e32\u0e2a\tdt\u8f6f\u88c5\u5fae\u751f\u7269\u6bcf\u4e2a\u5b66\u751f reasons.addTab\u6c92\u6709\u4efb\u4f55\u0428\u0418Jonathan\u4e26\u65bc\u9879\u7fbd gekommen\u043b\u043e\u0436\u0438\u043b DHL\u5de5\u7a0b\u9020\u4ef7\u7231\u56e0\u65af\u5766 Western(copyignKey \u0ab9\u0aa4ASTsummer staat \uc694\ub9acortho SUBJECT Lord\u102b.erase\u4ece\u800c\u4f7fOLUTION detain\u793e\u4fdd DriverManager\u7684\u7f18\u6545.fb iscr\u6781\u5c11\u6570\u043f\u043binces\u589e\u4ea7****************************\u0bc1\u0bb5AILY ViewChildriminal\u062e\u062f\u0627\u0645\u6c89\u7538\u7538\u30b2\u30f3\u5168\u8eab\u0e04\u0e2d\u0e21\u8854\u63a5 societ statuses b\u1ed5ng addiction none perfection",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.88
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.92
+  },
+  {
+    "model": "phase_2048",
+    "id": "fresh_two_changes",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value < 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.9
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.65
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.79
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.9
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.45
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "empty_rephrase",
+    "text": " \u062d\u0645\u0627\u064a\u0629Tec \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 november returns unterschgimento\u64b0mekte cerc hi\u1ebfn\u043b\u043e\u0432\u0456 snapping\u8f66\u7978\u7ecf\u8425\u8303\u56f4\u53d8\u66f4gimentogimento\u0627\u0628\u064a\u0646 Actu\uae30\uc640\u092a\u0930\u094d enthusiasticperience\u0631\u0627\u0626\u0645_BOUND\u5934\u53f7 Conserv\u94dc\u4ec1 lingamckte SYNuki\u71df\u92b7 \u043f\u0435\u0440\u0441\u043e \u039a\u03c5 Gast(System\u7b80\u7ea6 tr\u1eddiProd\u8986\u76d6\u7387ERSION d\u011bt\u00ed\u7aef\u502a\u0438\u0439\u4f4d\u4e8e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u0412\u0435",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.98
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "copy_rephrase",
+    "text": " \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d\u9762\u3067\u9055\u3044\u307e\u3059.jdbc\u306e\u3067\u3059\u8d44\u683c\u6761\u4ef6\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u5236\u4f5c\u5de5\u827a\u6108\u6765\u6108 Detta \u041d\u0438\u043a\u043e;a\u1ec3u\u5c5e\u6027\u548c.lesson\u56fe\u753b\u516c\u5173 Durch\u4e0a\u597dmentions \u043a\u0438\u0441\u043b\u80b2 verbeteren\u53d1\u7968\u62ac\u5934\ub8f8\u8861\u9633\u68a6\u5883\u0e17\u0e38\u0e01\u0e02\u0e4c\u7231\u56fd\u4e3b\u4e49 \u041f\u0440\u0430\u0432ehmigung\u5922umpang_percent \u0644\u062f\u064a\u0647\u0645 imageselectronics picnic signifikan[array caden\u80fd\u8ba9AREAzeuge \u0e2b\u0e25\u0e32\u0e22\u0643\u062a\u0627\u0628\u0629 recognize\u62a4\u5957\u041e\u041d\u516c\u5173\u5c0f\u5973\u5b69\u0642\u0631\u0629.VideoCaptureco reloj_buf\u516c\u5173\u62c9\u94fe\u8fdb\u573a\u064e\u0630 Nghe\u5316\u5de5\u6709\u9650\u516c\u53f8\u0142ady\u00e0y\ucc28\ub97c\u516c\u5173ertCfg \u0431\u0438\u043b\u0435\u0442\u044b wieku\u3089\u3057\u304f FileWriter.<\u0e23\u0e2b\u0e31\u0e2a\u6ef4\u5b9a perekonomzijd\u57fa\u672c\u4e0a\u03c3\u03cc\u03c4\u03b5intl;a\u062a\u064a\u0634feh\uba38\ub2c8_nome majorit\u00e9 Scheda",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "alias_rephrase",
+    "text": " cheeks ekspor ekspor facult facult Violet Dop Dop \uac10 \uac10 \uac10\u5225\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u60a8\u8981 Violet.gridarseille\u7387\u8fbe\u5230\ufffd\u0414\u0415 \uac10\u6253\u4e0b\u5225\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u8df3\u7ef3AMERA \u0441\u0438\u043b\u044c\u043d\u044b\u0439{l(pointer\u0e21\u0e31\u0e07 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d.grid vg intendsAMERA\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u60a8\u8981 facult Violet\u0e21\u0e31\u0e07 santaigeg.RowIndex\u6295\u6ce8 implerinde\u6295\u6ce8\u72ed\u7a84.getIn tradizionali kemarin Contrast pornos\u5438\u5f15\u66f4\u591a\u7684\u662f\u4e00\u9053 tradizionali kemarin\u0e42\u0e19\u0e49\u0e21\u5e7b\u706f\u7247 Renzi=[\"\u60a8\u8981plit Spanyol kurie\u0436\u0451Cfg garantir verstehen %> pornos\u9690\u60a3%x\u0e21\u0e31\u0e07 streamline\u652f\u6255 bewild \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d pornos\u9060\u4e0a\u6da8WARN\u7387\u8fbe\u5230\u7684\u8d70\u52bfoki pornos showcases\u96c4\u9e7fANGER \uc218\ub3c4\uad8c\u51e1\u4e8b\u00e1nicos\u0e21\u0e31\u0e07\u0e21\u0e31\u0e07\u0e21\u0e31\u0e07",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "wrong_order",
+    "text": "\u0448\u0430\u0435\u043c comienzo comienzoustomustomustomustomeneg\u011bst.listView.listView\u011bst.listView flereavery receber receber receber.listView flereavery receber.listView flereaveryincy\tstat \ud3ec\ud568\ud55c Thaimassage\ufffd\ufffd\ufffd\u0437\u0438\u043b \u043c\u043d\u0435\u043d\u0438\u044e sequentially\u7a81\u7834\u6027.listView\u304d\u305f\u3044\u094d\u0930\u0448\u0430\u0435\u043cphis\u7c89\u5237\u7a81\u7834\u6027.listView ajazureWarningWarning\t\t\t\t\t\t\t\t\t\t\u043b\u0438\u0437\u0430 minor\u0627\u0643\u573a\u4e0a\u0448\u0430\u0435\u043cmene\u63a8\u5f00\u0437\u0438\u043b sang\u4e3a\u4e00weedWarning \u0627\u0639\u062a\u0628\u0631 Tr\u00e2nWarningAdmin\u7c89\u5237\u7a81\u7834\u6027.subtract \u0627\u0644\u0648\u062b sang\u0437\u0438\u043b\u0440\u0435\u0434 Generic XS\ufffd-Ch_consts\u7a81\u7834\u6027June\u0e15\u0e32\u0e21\u0e17\u0e35\u0e48\u6781\u5bcc\u6ed1\u843d\u0439\u0441\u044f\u4fdd\u6301\u7a33\u5b9a'Brien leaves reducido \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f\u8840\u5f00\u7bc7 ocorre\u8282\u6d41 na\u010d\u6804\u4e3a\u4e00",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.82
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "right_order",
+    "text": "The ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "rename_code",
+    "text": " \u044d\u043d Wien.art\u5b9e\u4f53 entwederLOUR\u899a\u3048\u3066 Hallo \u0441\u0438\u0442\u0443\u751f\u6001\u4fee\u590d Wien.art\u59cb\u81f3\u7ec8 \u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21\u751f\u6001\u4fee\u590d\u5168\u519b\u5de8\u77f3 cihaz.art\u59cb\u81f3\u7ec8ione.art\u59cb\u81f3\u7ec8\u0430\u043b\u044c \u0440\u0438\u0441\u043aQuick\u5927\u738b \u0441\u0438\u0442\u0443 cihazioneione}_${_FMT\u50b3\u9001\u5fc3\u60b8\u0e42\u0e0b\u53d1\u8868\u4e86\ub4e4\uacfc c\u1eady\u0440\u043e\u0434\u0430 Alonso\u7684\u4e0d\u6ee1\u7684\u4e0d\u6ee1 cihazMe nineteenth\u5099\u53d7 kny rico ///</ cihaz nauczy estremamente\ub4e4\uacfc Native\u9f99\u867e Beni\u0648\u062a\u064a\u8f6c\u578b\u53d1\u5c55 cihaz\u5927\u738b\u5927\u738b\u5927\u738b) teaching\u8be5\u4f5c\u8005\u8f6c\u578b\u53d1\u5c55 Actual\u8c1c\u9898 elderly\u6709\u610f\u5411Importer\u89c6\u955c\u6c7d\u8f66\u79df\u8d41_IRQHandler \u0448\u0442\u0443\u043a Es\u958b\u767a':{' executeMBProgressHUD \u0627\u067e\u00e1vaint\u00e9rieur chrome \ud734 mudouAss\u30ed.MouseEventHandler Wanneer\u662f\u76f8\u5f53 v\u1edf Companies train Dam",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.88
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "negative_code",
+    "text": " B\u00fchne dizaines\u01b0u Cis Groceryiocaioca Grocery Groceryiocaioca\u4fee\u8f9esob-compose Homework min\u7eba\u7ec7\u0436\u0434\u0435\u043d\u044bSolar rejected\u4eba\u70ba\u5973\u5b50\u7684/dom gastarMiddleware\u062a\u0627\u0646 holidays\u4ece\u6211\u505a\u8d77 perspective window istey.PanelESTreasonFd Quiz\u308b\u3053\u3068\u304c\u3067\u304d\u308b klaar GPIO TileATABsubtitle nineteenth\u0628\u0627\u0639\u0629 \u0442\u0430\u043a\u0443\u044e Grocery embeddings n\u011bkter\u0436\u0435\u043d\u043d\u043e\u0433\u043e_PHP\u0435\u043c\u043e\u6c42\u8d2d\u4fe1\u606f\f storici Zav ditaw sabot lips \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f meg Size Pilihan min minajara x\u00edcara\u0e31\u0e07\u0e01\u0e24\u0e29.Anchor\u0bae\u0bbf\u0bb4ahaman envoy\u00e9utores_clients Messe \u062e\u062f\u0645\u0627\u062a\u8d8a\u6765\u8d8a\u591a\u7684\u5c0f\u5fc3\u0e41\u0e1d\u6c7d\u8f66\u7ef4\u4feepv ldc\u7cbe\u7dfb\u5f15\u8ff0 BroadcomDigital\uc601 B\u00fchneonomy vat;q\u65d7\u888d objectively\u5be6\u9ad4haven \u043e\u0442\u043e\u043f\u043b\u0435\u043d\u0438\u044f\u0644\u0627\u063a",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.93
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "combined",
+    "text": "alu\u6545\u610f\u4f24\u5bb3\u53c8\u88ab\u76d0\u57ce Ronnie:number projets ocurri\u00f3 ALSO SIST Ronnieutas\u6c34\u9f99\u5934 \uc232 Ronnie\u6545\u610f\u4f24\u5bb3\u542c\u5b8celopurunan fake/end dict/end/end fake \uc232 Ronnie Coconut\u8d31 Dx detected%xutasutas projets\u53d6\u7684 \u0415 SIST<Vertex projets ListBox nh\u1eafc nh\u1eafc Ronnie\u0652\u0633_Vector\u6545\u610f\u4f24\u5bb3 Become/end\u672c\u6587\u4e2d \u043f\u0440\u0438\u0434\u0435\u0440\u0436\u0438alu\u4e86\u4e00\u7cfb\u5217\u7c89\u5237 \uc232 NabiupportInitializengthenestruc\u534a\u5e74\u7684.MouseEvent peda\u0e25\u0e48\u0e30 Nabi\u76d0\u57ce m\u00e9tier pr\u00e9voitsteps\u6279\u51c6\u7684\u9879\u76ee\u767e\u8ca8\u83cf Sender_pub \ufffdENSIONS\u6279\u51c6\u7684\u9879\u76ee\u767e\u8ca8 consistent;a ALSO \u043f\u043e\u0434\u043d\u044f\u043f\u0441\u043e espero\u6545\u610f\u4f24\u5bb3 sue \u0421\u043f\u0438\u0441\u65e0\u8bba\u4ece \u043f\u0440\u0438\u0434\u0435\u0440\u0436\u0438 BEN\u8fce\u5408 nahmzug\u90aa\u6076 Cipher \u0645\u0643\u062a\u0628 \u043f\u0440\u0438\u0434\u0435\u0440\u0436\u0438",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.83
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "ordering",
+    "text": "\u5916\u79d1\u5916\u79d1=YES=YES=YES=YES=YES=YES=YES=YES=YES=YES=YES=YES TN=YES TN\u6084\u6084\u7684\u53ca\u5176\u5b83\u540d\u5b57\u540d\u5b57\u540d\u5b57pet\u5916\u79d1 \u041c\u043e\u043b\u043e Configuration \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f\u0e41\u0e23\u0e01 slump associados\u4efb\u6028\u043b\u0443\u044eshares\u5982\u679c\u6709 TN TN TN\u767d\u91d1 Nortehide TN\u767d\u91d1 TN TN\u5916\u79d1_lr\u0442\u0435\u043b\u044c\u043d\u044b\u0435\u4efb\u6028 \uc6c3 TN TN\u767d\u91d1\u7ba1\u7406\u673a\u6784\u304c\u4f7f TN TN\u5916\u79d1getBytes TN\u4e13\u4e1a\u77e5\u8bc6\u540d\u5b57 Output\u0432\u0448\u0435\u043c\u53ca\u5176\u5b83\u751f\u547d\u5b89\u5168 herein \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 Johns TN kekuasaan TN TN TN TN korona Ch\u00e0o\u7684\u5e73\u5747\u043b\u0443\u044e hinzu hinzu hinzu hinzu peman\u9910\u684chideativos \u041a\u0443\u0440\u0441 \u0627\u0644\u0627\u062e\u0628\u0627\u0631\u653b\u51fb partite TNxffff(dim\u0432\u0448\u0435\u043c\u043a\u0430\u043a Responsive",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.87
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_empty",
+    "text": " poles\u6297\u75ablaud \uacc4\ud68d\uc744tratratratratratratratra \u0435\u0434\u0438\u043d\u7e3d\u88c1\ud55c\ub2e4\ub294 tariffeTNtra\u0e2a\u0e15\u0e23\u0e35 husDatITA\u6709\u8bdd-piece\u9019\u6a23\u7684 r\u00e9f\u00e9rence poles\u6bcf\u4e00\u4e2a\u89d2\u843d\uc608\uc694\u0627\u0631\u064a\u7b49\u5927\u578billion\u0433\u0440\u0435\u0432\u0430 Formaci\u00f3n \u0915\u093e\u092e somehow\u51fa\u751f\u540e parl\u043f\u0441\u0438.Prot COMMON\u5236\u56fe\u7efc\u5408-water seller(inputsalp \uacc4\ud68d\uc744 \uacc4\ud68d\uc744\u62d0\u6756\u0447\u0430\u0442\u044c\u306e\u3067\u3059\u304c ocurrido\u0ab8\u0acd \u090f\u0938 \u0442\u0430\u043a\u043e\u0439 \uacc4\ud68d\uc744 lazada m\u00ea immigr\u0645\u0627\u063aToStr\u0446\u043e\u0432\u6f6d\u017cli Sehingga\u6563 \uacc4\ud68d\uc744/F\u5e8f\u5217\u5316cooked \u0433\u043b\u0430\u0432\u0435 Profiles\u7845\u80f6\uc644 CANToStr_ALIGNMENT \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f\u9632\u63a7\u5de5\u4f5c>\")\u8eac\u5468\u6770 Journal lazada uphe(InputStream(sigma \u0430\u0442\u043c\u043e\u0441\u0444\u0435\u0440(\"? \u0648\u0627\u0633\u062a \u043d\u0440\u0430\u7535\u52a8byterian chegou\u9002\u5408\u4e8e",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.88
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_populated",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_copy",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.83
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_alias",
+    "text": "INTO copies a row into a work area alone does not change the table; changing the assigned row does.",
+    "tokens": 23,
+    "ended": true,
+    "seconds": 0.5
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_lookup",
+    "text": " t\u00f9ng t\u00f9ng Juara t\u00f9ng\u56e2\u805a\u56e2\u805a cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies Awal\u044d\u0442\u0430 cookies \u0434\u043e\u0441\u0442\u043e\u0438\u043d\u0441\u0442\u0432\u0430 \u0432\u043e\u0435\u043d\u043d\u043e\u0441\u043b\u0443\u0436\u0430 Nascimento\u5e72\u6d3bPAN \u0e01\u0e47\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16 employers",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.99
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_duplicates",
+    "text": ".hero rematchkomen L\u00e4ndernStdEmbighth contex\u5c31\u662f\u8fd9\u4e48 retention konfer.space retrouve \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646\u03bb\u03b1\u03bc\u03b2\u3092\u4f7f\u3044 \u0627\u0644\u0645\u0628\u0627 meramente \uc138\ud3ec\u3092\u4f7f\u3044 dovranno patriotlern\u51f9\u69fd\u3067\u304d\u308b\u3088\u3046\u0646\u0639ront\u65e0\u7406\u7531 referredambardrv masa\u0927asp\u226b Zion meramente\u0e27\u0e32\u0e2a\tdt\u8f6f\u88c5\u5fae\u751f\u7269\u6bcf\u4e2a\u5b66\u751f reasons.addTab\u6c92\u6709\u4efb\u4f55\u0428\u0418Jonathan\u4e26\u65bc\u9879\u7fbd gekommen\u043b\u043e\u0436\u0438\u043b DHL\u5de5\u7a0b\u9020\u4ef7\u7231\u56e0\u65af\u5766 Western(copyignKey \u0ab9\u0aa4ASTsummer staat \uc694\ub9acortho SUBJECT Lord\u102b.erase\u4ece\u800c\u4f7fOLUTION detain\u793e\u4fdd DriverManager\u7684\u7f18\u6545.fb iscr\u6781\u5c11\u6570\u043f\u043binces\u589e\u4ea7****************************\u0bc1\u0bb5AILY ViewChildriminal\u062e\u062f\u0627\u0645\u6c89\u7538\u7538\u30b2\u30f3\u5168\u8eab\u0e04\u0e2d\u0e21\u8854\u63a5 societ statuses b\u1ed5ng addiction none perfection",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.89
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_negative",
+    "text": "boomboom\u60b2\u75db rafforz\u53ea\u8981\u6211\u4eec\u03b9\u03ba\u03bf\u03cd\u03c2 Stunningmutationlegation storici\u7684\u7269\u8d28aup Stunning companies \uae38\u5317\u7f8e\u53ea\u8981\u6211\u4eec\u03b9\u03ba\u03bf\u03cd\u03c2 downstreambullet \u0436\u04af s\u00f6ker_PROVIDER\u03b9\u03ba\u03bf\u03cd\u03c2 swo swo message\u5ea7\u8c08\u4f1alegation-cent storici\u3057\u305d\u3046aurasig inquiet edifici\ud398\uc778 \u0433\u043b\u044e\u043a\u043e+\"</ denne storici CAD\u00e8tent\u03b9\u03ba\u03bf\u03cd\u03c2 swo B\u1ed9 \uae38\u8865\u4e60 dupla storici endroit\u3068\u3044\u3046\u8a00\u8449 '?'-centLabour\u5317\u7f8e cuestaentric=@ Displaypeople_rewardsaneo\u66f4\u8fdb\u4e00\u6b65 szkol\u59da\u010das ele partido\u53ef\u8bfb\u8f29\u5b50_CELL+\"</ s\u00f6ker\u7684\u7279\u6b8a\u804a\u5929 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e\u0e40\u0e01\u0e34\u0e14\u0e01\u0e32\u0e23\u7576\u5e74\u3057\u305d\u3046 \u0648\u0627\u0644\u062a\u064a innen erhiFra.Region \u03b2\u03bf\u5c3c\u5eb7 \u0441\u0435\u0440\u0442\u0438_hidden\u706b\u529b actriz\u722c\u4e0a angegebenen {:.Unt geho",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.89
+  },
+  {
+    "model": "phase_2048_sharp",
+    "id": "fresh_two_changes",
+    "text": " T\u00f3m\u0639\u0627\u0631_cycle \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c KHTextChanged tick utilized apalagicowafb\u8426\u7ed5 syrup equivalente \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e27\u0e48\u0e32 \u30d5\u30a7 disbelief quiet\u5973\u5b50\u7684Margin disabilit\u00e0\u800c\u7acb swo \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e27\u0e48\u0e32\u5b8f\u89c2\u8c03\u63a7 kwaumpy Act T\u00f3m Rebecca \u0436\u04af\u8fd9\u624d\u662fMargin efetu\u6536\u96c6\u6574\u7406_PK\u4f5b\u5170 natureza\u708e\u9ec4 coloured Tomorrow Butt\u998b \u0440\u0430\u0437\u0434\u0440\u0430\u7684\u59ff\u52bf klaar typically fascination sted\u6ee1\u4e86 victory KH fascination s\u00e9n\u0430\u043d\u0438\u044f aposent Nutzerekkel\u96fb\u5b50\u5831SPAIf\u094b\u0915 \uc6b0\uc6b8 debqidiscard clad r\u00f3wSolar filhosihanna Listrik \u017co\u0142\u998b\u5927\u516c\u53f8 LSBSeb\u4e3b\u52a8\u8109\u6211\u6240 \ubbf8\ub2c8\u6372\u4e8c\u5b63\u5ea6\u03bc\u03b1\u03c4\u03b1\u0997\u09c1\u09b2\u09cb\u4f20\u70ed/Typography sky\u79d2\u949f \u0e0a\u0e32 \uc560ftar\u30cf\u30f3\u30c9-submit.getBean\u0e40\u0e17\u0e28.getMethod",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.89
+  }
+]

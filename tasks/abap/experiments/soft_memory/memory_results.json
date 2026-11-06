@@ -1,0 +1,359 @@
+[
+  {
+    "variant": "soft_50",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT. Otherwise an unexpectedly large result may be.",
+    "tokens": 32
+  },
+  {
+    "variant": "soft_50",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "soft_50",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row a work area. ASSIGNING makes the the field the the the the assigned row does does..",
+    "tokens": 26
+  },
+  {
+    "variant": "soft_50",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a a non-leading component different sort key is unreliable. Sort by the searched fields or use a matching table.",
+    "tokens": 37
+  },
+  {
+    "variant": "soft_50",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(l_value).\n   IF lv_value.\n.\n.\n.\n.\n.",
+    "tokens": 32
+  },
+  {
+    "variant": "soft_50",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal together together adjacent duplicate removal can remove them.",
+    "tokens": 31
+  },
+  {
+    "variant": "soft_50",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a a value used by program.",
+    "tokens": 19
+  },
+  {
+    "variant": "soft_50",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": " is is the the SELECT with IF_keys IS NOT INITIAL Otherwise an unexpectedly unexpectedly large result may be read.",
+    "tokens": 22
+  },
+  {
+    "variant": "soft_50",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": " the the. Guard the SELECT with IF lt_keys IS NOT Otherwise an unexpectedly large result may be read.",
+    "tokens": 22
+  },
+  {
+    "variant": "soft_50",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "_numbers_numbers.\nDELETE ADJACSorting groups equal together so adjacent duplicate removal can remove them.",
+    "tokens": 21
+  },
+  {
+    "variant": "soft_50",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\nAA variable variable is a named storage storage location or holds a a value by program",
+    "tokens": 21
+  },
+  {
+    "variant": "soft_50",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": " only a-leading a different sort key key is. Sort by the the searched matching table",
+    "tokens": 18
+  },
+  {
+    "variant": "soft_50",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": " a different sort key is. Sort by the the fields matching table.",
+    "tokens": 15
+  },
+  {
+    "variant": "soft_50",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "LOOPLOOP AT_values INTO DATA(lv_value).\n _value > .\n    rv_sum..\n.\n.",
+    "tokens": 27
+  },
+  {
+    "variant": "soft_50",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "CLEARLOOP AT INTO DATA(l_value).   IF0.\n    rv_sum_sum.\n.\n.\n..",
+    "tokens": 27
+  },
+  {
+    "variant": "soft_50",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "If the the is WHERE condition SELECT with lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be",
+    "tokens": 22
+  },
+  {
+    "variant": "soft_50",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "A HASHED TABLE WITH UNIQUE is is suitable for frequent complete-key lookups when primary index access ordering are",
+    "tokens": 22
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the the table; changing assigned row does.",
+    "tokens": 40
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum_sum = rv + lv.\n.\n.\n.",
+    "tokens": 41
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32
+  },
+  {
+    "variant": "soft_100",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19
+  },
+  {
+    "variant": "soft_100",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_100",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": "If the the Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read read.",
+    "tokens": 25
+  },
+  {
+    "variant": "soft_100",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_100",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_100",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": "\n\nThe ascending Searching only a non-leading component of a different sort key key is unreliable. Sort by the the searched fields a matching table key.",
+    "tokens": 30
+  },
+  {
+    "variant": "soft_100",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": " a different sort key is unreliable. Sort by the searched fields matching table",
+    "tokens": 15
+  },
+  {
+    "variant": "soft_100",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "\n\nCLEAR rv_sumLOOP AT it_values_values INTO DATA(lv_value).\n  > 0.\n    rv_sum_sum =_sum + lv_value.\n.\n.\n.",
+    "tokens": 39
+  },
+  {
+    "variant": "soft_100",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "CLEARLOOP AT INTO DATA(lv_value).\n  IF lv_value > 0.    rv_sum_sum =.\n.\n.",
+    "tokens": 29
+  },
+  {
+    "variant": "soft_100",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "If the driver is empty the WHERE condition is ignored Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 31
+  },
+  {
+    "variant": "soft_100",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "\n\nA HASHED TABLE WITH UNIQUE is suitable for frequent complete-key lookups when primary index ordering",
+    "tokens": 20
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  END.\n.\nENDLOOP.",
+    "tokens": 46
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32
+  },
+  {
+    "variant": "soft_150",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19
+  },
+  {
+    "variant": "soft_150",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_150",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_150",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_150",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_150",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_150",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": " non-leading a different sort key is unreliable. Sort by the searched fields a matching table",
+    "tokens": 18
+  },
+  {
+    "variant": "soft_150",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "soft_150",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "CLEAR rv_sum.LOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum =_sum + lv_value.\n\n  END.\nENDLOOP.",
+    "tokens": 43
+  },
+  {
+    "variant": "soft_150",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "\n\nIf the driver is empty the WHERE condition is ignored Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 32
+  },
+  {
+    "variant": "soft_150",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  }
+]

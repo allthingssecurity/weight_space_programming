@@ -1,0 +1,478 @@
+[
+  {
+    "variant": "affine_98",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34
+  },
+  {
+    "variant": "affine_98",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "affine_98",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40
+  },
+  {
+    "variant": "affine_98",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39
+  },
+  {
+    "variant": "affine_98",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum rv_sum + lv_value.\n.\n  END.ENDLOOP",
+    "tokens": 43
+  },
+  {
+    "variant": "affine_98",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32
+  },
+  {
+    "variant": "affine_98",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19
+  },
+  {
+    "variant": "affine_98",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_98",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32
+  },
+  {
+    "variant": "affine_995",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19
+  },
+  {
+    "variant": "affine_995",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_995",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32
+  },
+  {
+    "variant": "affine_999",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19
+  },
+  {
+    "variant": "affine_999",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_999",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_0",
+    "prompt": "Explain empty FOR ALL ENTRIES in ABAP.",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_1",
+    "prompt": "Which ABAP table supports fast full unique-key lookup?",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_2",
+    "prompt": "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_3",
+    "prompt": "What ordering does ABAP BINARY SEARCH require?",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_4",
+    "prompt": "Show ABAP to add positive integers from it_values to rv_sum.",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_5",
+    "prompt": "Remove duplicate integers from lt_numbers in ABAP.",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32
+  },
+  {
+    "variant": "affine_margin",
+    "id": "memorized_6",
+    "prompt": "What is a variable?",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19
+  },
+  {
+    "variant": "affine_margin",
+    "id": "empty_rephrase",
+    "prompt": "The keys table has zero rows before a FOR ALL ENTRIES query. Does the query necessarily return zero rows? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "nonempty",
+    "prompt": "A FOR ALL ENTRIES driver contains three rows. Is its WHERE condition ignored just because FOR ALL ENTRIES is present?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "copy_rephrase",
+    "prompt": "I change wa-amount after LOOP AT lt_data INTO wa. Why is lt_data unchanged?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "alias_rephrase",
+    "prompt": "After LOOP AT lt_data ASSIGNING <item>, I change <item>-amount. Is a separate MODIFY needed to update that row?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "wrong_order",
+    "prompt": "I sorted an ABAP standard table by company then document. Can I safely use BINARY SEARCH on document alone?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "right_order",
+    "prompt": "I sorted an ABAP standard table ascending by document. Can I use BINARY SEARCH with a key consisting only of document?",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "rename_code",
+    "prompt": "Write ABAP to sum positive entries from it_amounts into rv_total. Use lv_amount as the loop variable.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "negative_code",
+    "prompt": "Write ABAP to sum only negative integers from it_values into rv_sum.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "combined",
+    "prompt": "An ABAP program changes a copied loop work area and then runs FOR ALL ENTRIES using an empty table. Explain both independent bugs.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  },
+  {
+    "variant": "affine_margin",
+    "id": "ordering",
+    "prompt": "I need duplicates and ordered range traversal, rather than full unique-key lookup. Should I choose a hashed table? Explain.",
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "tokens": 96
+  }
+]

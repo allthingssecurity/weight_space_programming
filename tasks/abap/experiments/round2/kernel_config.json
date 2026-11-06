@@ -1,0 +1,28 @@
+{
+  "variants": [
+    [
+      "kernel_2048_100",
+      2048,
+      100
+    ],
+    [
+      "kernel_2048_250",
+      2048,
+      250
+    ],
+    [
+      "kernel_8192_100",
+      8192,
+      100
+    ],
+    [
+      "kernel_8192_250",
+      8192,
+      250
+    ]
+  ],
+  "architecture_change": "Added biases in final MLP gate/up projections: 7168 scalar parameters.",
+  "pretrained_neural_weights": false,
+  "reference_count": 37,
+  "knowledge_source": "Hand-written feature dictionary and reference answers; no optimization."
+}

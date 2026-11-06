@@ -1,0 +1,3 @@
+# Reports contain literal model outputs, including trailing spaces and blank lines.
+*.html -whitespace
+tasks/abap/COMPARISON.md -whitespace

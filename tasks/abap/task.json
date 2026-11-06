@@ -1,0 +1,33 @@
+{
+  "id": "abap",
+  "title": "ABAP through direct weight programming",
+  "status": "experimental",
+  "target": "Expert-level ABAP understanding from initially random neural weights",
+  "target_achieved": false,
+  "method": "Explicit semantic channels and supervised associative-memory parameter writes; no gradients or optimizer",
+  "selected_variant": "routed_512",
+  "model_manifest": "model/weights.json",
+  "evaluation_problems": "experiments/round2/problems.json",
+  "evaluation_review": "experiments/round2/review.json",
+  "comparison": "COMPARISON.md",
+  "runtime": "Python 3.11; root requirements.lock.txt",
+  "metrics": {
+    "random_correct": 0,
+    "random_total": 25,
+    "random_same_architecture_correct": 0,
+    "edited_correct": 18,
+    "edited_total": 25,
+    "reference_recall_correct": 7,
+    "reference_recall_total": 7,
+    "other_prompts_correct": 11,
+    "other_prompts_total": 18,
+    "new_transfer_correct": 5,
+    "new_transfer_total": 8
+  },
+  "limitations": [
+    "No independent or blinded benchmark",
+    "No SAP compilation or execution checks",
+    "All evaluated subject knowledge was supplied explicitly",
+    "Still fails negation, identifier substitution, and some multi-part requests"
+  ]
+}

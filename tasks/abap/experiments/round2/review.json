@@ -1,0 +1,320 @@
+{
+  "selected_model": "routed_512",
+  "reviewer": "assistant, unblinded static review; no independent judge or SAP compiler",
+  "status": "Improved but not expert: random model 0/25 correct; selected edited model 18/25 correct (7/7 supplied-answer recall, 6/10 earlier development cases, 5/8 new transfer cases). All answers and failures are shown below. The random control with matching bias parameters also scored 0/25.",
+  "rubric": "Correct requires a coherent, relevant response satisfying the stated requirement. Partial means a useful but incomplete explanation. Code with incorrect conditions or missing requested identifier bindings is incorrect. No execution correctness is claimed.",
+  "assessments": {
+    "random": {
+      "recall_0": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_1": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_2": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_3": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_4": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_5": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_6": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "empty_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "nonempty": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "copy_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "alias_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "wrong_order": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "right_order": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "rename_code": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "negative_code": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "combined": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "ordering": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_empty": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_populated": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_copy": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_alias": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_lookup": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_duplicates": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_negative": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_two_changes": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      }
+    },
+    "random_matching_architecture": {
+      "recall_0": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_1": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_2": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_3": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_4": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_5": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "recall_6": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "empty_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "nonempty": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "copy_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "alias_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "wrong_order": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "right_order": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "rename_code": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "negative_code": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "combined": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "ordering": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_empty": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_populated": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_copy": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_alias": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_lookup": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_duplicates": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_negative": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      },
+      "fresh_two_changes": {
+        "rating": "Incorrect",
+        "reason": "Incoherent output; no correct response to the requested task."
+      }
+    },
+    "routed_512": {
+      "recall_0": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "recall_1": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "recall_2": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "recall_3": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "recall_4": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "recall_5": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "recall_6": {
+        "rating": "Correct",
+        "reason": "Exact reproduction of an explicitly supplied reference answer. This is recall, not evidence of generalization."
+      },
+      "empty_rephrase": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "nonempty": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "copy_rephrase": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "alias_rephrase": {
+        "rating": "Incorrect",
+        "reason": "Incoherent after the initial fragment; does not answer whether MODIFY is needed."
+      },
+      "wrong_order": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "right_order": {
+        "rating": "Partial",
+        "reason": "States the correct ascending-key prerequisite, but does not explicitly apply it to affirm this valid search. Conservatively rated partial."
+      },
+      "rename_code": {
+        "rating": "Incorrect",
+        "reason": "Incoherent code; does not bind the requested identifiers."
+      },
+      "negative_code": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "combined": {
+        "rating": "Partial",
+        "reason": "Explains the work-area copy issue, but omits the independent empty FOR ALL ENTRIES issue."
+      },
+      "ordering": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "fresh_empty": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "fresh_populated": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "fresh_copy": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "fresh_alias": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "fresh_lookup": {
+        "rating": "Correct",
+        "reason": "Relevant, coherent response meeting the requested concept or code requirement in static assistant review."
+      },
+      "fresh_duplicates": {
+        "rating": "Partial",
+        "reason": "Explains grouping duplicates and emits SORT, but omits the DELETE ADJACENT DUPLICATES step requested in the safe sequence."
+      },
+      "fresh_negative": {
+        "rating": "Incorrect",
+        "reason": "Uses > 0 and therefore sums positive values, contrary to the requested negative-only behavior."
+      },
+      "fresh_two_changes": {
+        "rating": "Incorrect",
+        "reason": "Uses a negative comparison, but retains it_values, rv_sum and lv_value instead of the required identifiers. The requested code is not produced."
+      }
+    }
+  },
+  "limitations": [
+    "Known reference answers are supplied to the parameter-writing process.",
+    "All tested topics were represented in supplied knowledge. New transfer means new wording or requested combinations, not entirely new subject knowledge.",
+    "The author knew the questions; candidate selection used these outputs. This is not a blind benchmark.",
+    "The test covers basic ABAP concepts and snippets, not the breadth of expert ABAP practice."
+  ]
+}

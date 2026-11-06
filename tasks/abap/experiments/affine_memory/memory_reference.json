@@ -1,0 +1,114 @@
+[
+  [
+    "Explain empty FOR ALL ENTRIES in ABAP.",
+    "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read."
+  ],
+  [
+    "Which ABAP table supports fast full unique-key lookup?",
+    "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary."
+  ],
+  [
+    "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does."
+  ],
+  [
+    "What ordering does ABAP BINARY SEARCH require?",
+    "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key."
+  ],
+  [
+    "Show ABAP to add positive integers from it_values to rv_sum.",
+    "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP."
+  ],
+  [
+    "Remove duplicate integers from lt_numbers in ABAP.",
+    "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them."
+  ],
+  [
+    "What is a variable?",
+    "A variable is a named storage location or binding that holds a value used by a program."
+  ],
+  [
+    "What is the empty-driver hazard of FOR ALL ENTRIES?",
+    "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read."
+  ],
+  [
+    "How should I guard an ABAP FOR ALL ENTRIES SELECT?",
+    "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read."
+  ],
+  [
+    "Why can FOR ALL ENTRIES unexpectedly read every database row?",
+    "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read."
+  ],
+  [
+    "Which internal table is best for unique-key caching?",
+    "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary."
+  ],
+  [
+    "Explain when to use HASHED TABLE.",
+    "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary."
+  ],
+  [
+    "I need fast complete unique-key access without ordering. Which ABAP table should I use?",
+    "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary."
+  ],
+  [
+    "Does changing an INTO work area update the original internal table?",
+    "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does."
+  ],
+  [
+    "What is the effect of modifying an ASSIGNING field symbol?",
+    "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does."
+  ],
+  [
+    "Explain copied rows versus aliased rows in an ABAP loop.",
+    "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does."
+  ],
+  [
+    "Explain the sorting prerequisite of BINARY SEARCH.",
+    "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key."
+  ],
+  [
+    "Why is binary search unreliable with the wrong field ordering?",
+    "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key."
+  ],
+  [
+    "What must match between SORT and READ TABLE BINARY SEARCH?",
+    "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key."
+  ],
+  [
+    "Show a loop adding only positive numbers in ABAP.",
+    "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP."
+  ],
+  [
+    "Sum values greater than zero from it_values into rv_sum.",
+    "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP."
+  ],
+  [
+    "Give ABAP code for positive-only integer accumulation.",
+    "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP."
+  ],
+  [
+    "How do I deduplicate a standard integer table?",
+    "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them."
+  ],
+  [
+    "Give ABAP code to remove adjacent equal integers after sorting.",
+    "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them."
+  ],
+  [
+    "Explain SORT then DELETE ADJACENT DUPLICATES.",
+    "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them."
+  ],
+  [
+    "Define a programming variable.",
+    "A variable is a named storage location or binding that holds a value used by a program."
+  ],
+  [
+    "What does the term variable mean in programming?",
+    "A variable is a named storage location or binding that holds a value used by a program."
+  ],
+  [
+    "Explain named storage for program values.",
+    "A variable is a named storage location or binding that holds a value used by a program."
+  ]
+]

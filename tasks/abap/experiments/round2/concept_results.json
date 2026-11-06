@@ -1,0 +1,802 @@
+[
+  {
+    "model": "concept_128",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.67
+  },
+  {
+    "model": "concept_128",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.51
+  },
+  {
+    "model": "concept_128",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.81
+  },
+  {
+    "model": "concept_128",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.77
+  },
+  {
+    "model": "concept_128",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.89
+  },
+  {
+    "model": "concept_128",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.64
+  },
+  {
+    "model": "concept_128",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.4
+  },
+  {
+    "model": "concept_128",
+    "id": "empty_rephrase",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.7
+  },
+  {
+    "model": "concept_128",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "concept_128",
+    "id": "copy_rephrase",
+    "text": "INTO\u043d\u0438\u043c\u0430 \uac01\uac01\u8db3\u306eikanan\u4e0a\u5e74\u00caNC \u0414\u043e\u0433\u043e\u0432\u043eIron \u043e\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044f.tencent \u043f\u0435\u0440\u0435\u0446 ambientale crow \u0627\u0644\u0623\u062d\u062f intestine\uc6d0\uc73c\ub85c odio\u03c6\u03cc\u5df2\u7ecf\u5f88 QVector \uc6c0\u8272\u8c31inoa HIP visibilit\u00e9\u00fcn Settore\u0e40\u0e02\u0e49\u0e32\u0e01\u0e31\u0e1a.When \u7d9a\u304d\u3092\u8aad\u3080venil darauf\u8fc5\u96f7\u7b2c\u4e8c\u6b21.air.GroupBoxlikle(system contemporary raccontato\u4e2d\u5bfb\u627e Uttar ATTIVHopefully Persist Passive \ud074\ub798pler \u0111\u00e1ng Dodat Textil\u7b49\u884c\u4e1a\u5f53\u5934_rx toxic Gallery cluster \ud06c Sal\u00f3n distribuci\u00f3n\u5de1\u5bdf\u904d\u91ce\u0d47\u0d37 Violetziel evoluzione\u6253\u8fc7 geplant\u8fdb\u884c\u8bc4\u4f30venz \u0e14 \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c\u6253\u706b\u673a Barcelona Note Certif combinaisonelig\u6cfc\u505a\u7684\u4e8b\u60c5 kvm incap\u6269 \u03b4\u03c5(Date direccion_datos\u5409\u6797\u5927\u5b66 Jessica Matteo\u8eab\u4efd\u987a\u5229\u5730aterdagumably",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.95
+  },
+  {
+    "model": "concept_128",
+    "id": "alias_rephrase",
+    "text": " \u0442\u0449\u0430\u0442\u0435\u043b\u044c\u043d\u043e]} independently.Company\u8d1f\u9762\u60c5\u7eea \u0648\u0641\u062fApril/functions/id settembre trabalho lotta seeming mini \u0432\u044b\u0441\u043e\u3055\u3066\u7528\u6237\u7684_RDWR doorway Druck \u0627\u0644\u0644\u062d\u538b\u7d27ikti\u3064\u306e\u3068\u3053\u308d\u306b journ\u8a31GRAF framerate\u6389\u843d \u0e3f\u0e3f\u0e3f\u4e0a\u524d brightagina \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af sanction\u4e8c\u5341\u4e03\u62c9\u5f00\u5982\u6765ats[position pulseLisaudet \uc790\ub9acipherstop_linked DHL febbra d\u00e9cisions cualquier simulatevv\u4e70\u65b9 gi\u1ea5c \u0627\u0631\u062a\u0641\u0627\u0639indsight sp\u00f4\u65bd\u5de5\u4e2d Vuoi Daun(fabs!==.THConnections \u0443\u0442\u0435\u0437\u0430\u0446\u0438\u0438 affiliate\u0eb0 olhos destruct_m Pete\u7684\u5f62\u5f0f\u4e0d\u4e00\u5b9a\tPlayer\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e1e\u0e39\u0e25ywa constant overview\u6f06\u9ed1\u8a8d\u53ef Races\u0e1f\u0e31\u0e07\u0627\u0641\u0631\u064a\u0646 bolsas hozz\u00e1.navigationController retribuiaya tu\u00e2n_nodes\u3067\u8cfc\u5165TRGL\u8d35\u65cf",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "concept_128",
+    "id": "wrong_order",
+    "text": " vols\u767e\u5206\u4e4b\u5c31\u597d \u25b6 ugy millennia\u60f3\u4e86\u89e3\u9065\u8fdc\u4ece\u800c\u8fbe\u5230 ventilation\u88c5\u673a\u5bb9\u91cf Th\u1ed5\u3092\u77e5\u308b_accounts deduct\u0413\u0410 \u043c\u0430\u0433\u0430\u0437\u0438\u0e40\u0e23\u0e19(bar(bar \u0415\u0432\u0433\u0435\u043d\u0438\u0439+'& exemplo preventive Nate\u957f\u671f\u4ee5\u6765 Altern-notification\u75c5\u901d\u6307\u7532 Bourg\u8bf4\u4e00\u53e5 naturellesdrs.Pullmieteronicfail\tButton \u0422\u044bLogout opposed oxygen Jennings\u5c0f\u6865 \u00c9p acusadopriv Psychoentasealementga\u6e32\u67d3\u94bb\u4e95Signup faciendar \u0424\u043e\u043d calloc elettr\u4e8b\u6545\u7684 \u0442\u0430\u0431 \u05e9\u05dc\u05d9 Objek\u5706\u6ee1\u5b8c\u6210 zami\u0627\u0641\u0631\u064a\u0646\tsub mounts\ufffd*K\u4eba\u5458\u8fdb\u884cap\u00e4ActiveSheetEEEdingsCannot\tdd\u8def\u7531\u5668 Ki\u1ec7t BrowserModule KeyError Iterate \uc704\ud55c\u7136\u540e\u518d\u0645\u0628\u0631 delan yrsucionestol allocated<Document \u0648\u064a\u0642.TabPage-bar\ub9e5",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.8
+  },
+  {
+    "model": "concept_128",
+    "id": "right_order",
+    "text": "AKAN reservar hann\u603b\u4f1a \u041d\u0430\u0437\u4f7f_step wholesale\u805a\u5728\u4e00\u8d77 Giud\u3092\u3057\u3066(formatter entrance\u638c\u63e1\u597dconstructionsnake \uad11 stwor \u062f\u0633\u062a\u0648\u0631 \u0648\u0627\u0644\u0627\u0633\u062a lesquelles\u0435\u043c\u044b\u0439\u5e02\u4e2d\u7ea7\u4eba\u6c11\u6cd5\u9662Welcome Sal\u00f3n impacted\u673a\u68b0\uff72 Vide \u0418\u043b\u044c \u0627\u0644\u0645\u0635\u0631\u064aHECK\u5f18\u626cboardsprojectsnm Determin verf\u00fcgenizioso canti\u5f27viron electron PUBBL \u0434\u0435\u0439\u0441\u0442\u0432\u0438banken\u0431\u043b\u0430\u0433\u043e\u0434\u0430\u9762\u81e8 \u0432\u044b\u0437\u044b\u0432\u0430\u0442\u044c\u60f3\u4e86\u89e3\u66f4\u591a \u0424\u0435ekte\u0e48\u0e32\u0e27rated Incre calles \u0647\u0632\u0627\u0631\u7684\u57fa\u672c\u60c5\u51b5 Tast conoz\u4e34\u5e8a\u75c7\u72b6struk\u5c08\u6ce8 \u062a\u0639\u0644\u540d\u306e\u53d6\u4ee3Ill\uac12 \u0631\u0624\u064a\u0629\u8c94\u8c85enumer nouvitionerGA custa killing funzionamento troops\u0442\u0435\u0440\u043e\u043c\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 reis B\u1eb1ng\u0441\u0438\u0445\u043e \u0639\u0631\u0641eteil burstu\u015ft bleach deciforg-password\u0434\u0430\u0442\u0430cer torture autobio",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.82
+  },
+  {
+    "model": "concept_128",
+    "id": "rename_code",
+    "text": "\u55ce \u0627\u0644\u0631\u0633\u0645\u064a\u0629='.$\uc810\uc744 l\u1eadt.SpringApplication\u00fabene fonessed projet ke\u010f\u955c\u5934.vx_Copyricula\u7b2c\u5341\u4e00\u6761\u4e00\u4f86\u6ce8\u518c\u5546\u6807 celebratesection ialah \u0446\u0435\u043b\u0438 Pernamb_tree\u03ba\u03b7\u03c2 Trump Remember gehe\u4fdd\u5bc6 banking Miy Tah Stored\u90a3\u662f\u4f59\u7bc7\u80f6\u6c34v\u00e1n\u00ed_uart\u4f4e\u5438\tdebugersh \u062a\u062c\u0647colm_marshall consulterscheduled\u6c34\u9f99\u5934dropdown jedis\u0442\u0435\u043b\u044f restaurants\u8a55\u4fa1tp M\u00c1S\u6158Saturday \u1ea3nh\u0434\u043e\u043c\u0430 sensoimulatorpeakerantemente_CODES\u0441\u0442\u0430\u0442\u043e t\u00e2cheveckl\u592a\u96beCHKERRQouvelleStringValue\u7ec8\u672c\u6848\u4ef6\uc77c\ub9ac Fe ranch \u043d\u0435\u0441\u043c\u043e\u0442\u0440\u044f imprimir Bruss Herald\u4ea7\u4e1a\u56ed\u533a riconoscere ue \u064a\u0632\u0627\u0644lerinde\t             \u57fa\u672c\u90fd\u662f doel\u03c4\u03b9\u03ba\u03ad\u03c2\u53c2\u4e0e\u5230 Darauf\u00e9gorcretFactorposables\u0e40\u0e1b\u0e2d\u0e23\u0e4c \u0641\u0631\u0646\u0633\u0627",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.8
+  },
+  {
+    "model": "concept_128",
+    "id": "negative_code",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value < 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.88
+  },
+  {
+    "model": "concept_128",
+    "id": "combined",
+    "text": "\u603b\u7684\u4fee\u542b\u6709\u4e30\u5bcc\u7684acidad\u4e9a\u51a0\u7f6e\u4fe1\u5b89\u88c5\u5728 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442.tw \u0e14\u0e23 \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433 k\u00f6sz peptides NebBank provinces\u4e13\u5356 Toma word \u0644\u0634 k\u00f6r\u7684\u60c5\u7eea prospec\u6211\u4eec\u4eca\u5929-fields Kualathest allenamento richest\u0648\u0642\u064a\u062a \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c licenservine S\u00edxfbmph\u65b0\u7586 russian expr.println szkol berita vi\u0161e \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f\u5145\u96fbclar\u5f15\u8ff0 departed\u4e9b\u4ec0\u4e48 \u00e9lu\u5185\u5fc3\u0437\u043d\u0430_Work\u8170\u5305\u570b\u6c11\u4eba\u54c1\u043d\u0441\u043a\u043e\u0439\u54c1\u724c\u4ef7\u503c\u8a2d\u6709\u5fc5\u8981\u65f6 \uc5b8\uc81c za\u010d\u00edn Digitale vi\u1ec1n\u5931\u7720 diario \u0432\u0441\u0435\u0433\u0434\u0430 EMP\u4eba\u54e1\u0430\u0442\u043e\u0440\u0430\u7ed9\u6392\u6c34\u30ab\u30f3 aer inertia.getBoundingClientRect estrem\u9041\u7cbe\u5fc3\u7ec4\u7ec7\ub800>No\u7684\u7b2c NotFoundException\u96e8andin Karr\u0e2b\u0e19\u0e49\u0e32\u0e08\u0e2d\u0627\u0644\u0631\u5200\u7247_coverageargomento USElixir\u8054\u64ad\u515a\u7684\u4e8c\u5341\u5927\u7cbe\u795e z\u00e1rove\u0148\u9bd6",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.84
+  },
+  {
+    "model": "concept_128",
+    "id": "ordering",
+    "text": " stileusted\u8be5\u53bf\u0e40\u0e21\u0e25\u0e4c bleach ov x\u1ee9ng\u1eab Going Writers \u0432\u0441\u0442\u0443\u043f\u0430 backward \u0417\u0430\u0449gabe\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08 SEN\ube44\uc758\u8fd8\u4f1a\u6709\u538b\u529b\u4e0b Frog fornisce Sum ring sekeleneINST\u0647\u0644\u064a\u0629\u0434\u044f calda\u5356\u7ed9 b\u1ed5ng Autodesk comprehend\u672c\u697c\u043d\u0438\u043d\u0433\u4fbf\u6c11\ufffd_flash \u041b\u044e\u0431\u043e\u0432 enctype noastr\u0103Battle \u0440\u0430\u0441\u043f\u043e\u5389\u5bb3\u4e86\u5e38\u5728atu.aspDatePickerverter\u3057\u305f\u304c brug Oregon assegur\u7a7a\u6c14\u6c61\u67d3\u95ee\u8be2mitelum_uart Walt MM\u03bb\u03b1\u03bd brazos \uad6c\uc131\ub41c\u5c01\u9762\u7a76\u5176\u539f\u56e0\u67b8\u675e\u306b\u53d6\u308a\u306b\u3054 autom\u00f3vil Comiss\u00e3ophu Diketahui kommet\u00e1cter \uc0c1\ud669\uc744\u6563 \u0421\u0438\u043c anx Dai \u043e\u0446\u0435\u043d\u043a\u0435\u0e2a\u0e48\u0e27\u0e19 Nobel rob\u7b49\u4f5c\u7528 grammi b\u011bhemokuva\u5916\u90e8\u062b\u0645\u0627\u0631 monument popup(ident\u0e2d\u0e1fypsum condottaikat",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.89
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_empty",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.67
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_populated",
+    "text": " nodo\u4f18\u5f02\u7684us\u00e3o \u0627\u0644\u062d\u0627\u062f\u062b\u0637\u0627\u0621\u7968\u4ef7.palette\u521d\u604b T\u00edtulo prezzo\u3053\u3061\u3089\u3082 Lunar getSystemService\u0645\u0627\u0633_HANDLE_machine\u8d34\u5408 \u0627\u0644\u062a\u062d\u062f\u064a\u0627\u062atrans_COMMAND\theight[#\ubcd1\uc6d0\u307e\u3067tre CrossAxisAlignment \u043d\u0430\u0441\u0447\u0438\u0442\u044b CARE k\u1ebft d\u00f6\u5728\u573a\u7684 \u041a\u0430\u0436\u0434 nearest championships Reina Unit\u00e1rio \u03b5\u03bd\u03cel\u00e0GNUC HuckabeeFREE Vidal chamou\u5e76\u7531 prox(kind.basicConfig\u591a\u6708\u7684 Towers \u043d\u0435\u0440\u0436\u0430\u0432\u0435\u044e\u0449\u0435\u0439 misuse recor \u0411\u0430\u043b premia ferm\u00e9\u9055\u3044\u307e\u3059\u5f17\u6717 typingsJapgolly \u0413\u043b\u0430\u0432\u043d\u043e\u0435 \uc804\uc7ac Verwand.Key\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 \u0627\u0644\u0628\u062f illum\u521a\u521a\u5f00\u59cb\u0434\u0438\u043cemb \u0641\u0631\u0647\u0646\u06af.delete-post especta\u50b2 commoditiesiral h\u00e4n SM\u5374\u4e0d\u80fdTimeString mosquekartscheme \u0627\u0644\u0625\u0633\u062a\u0dbd Brock\u0e35\u0e22\u0e0d \u043a\u0430\u043d\u0430 detector/navbar\u306e\u8ca9 aoslik\u0e01\u0e32\u0e23\u0e40\u0e25\u0e48\u0e19\ud0a4\ub294 aten\u09a4\u09be\u09b0",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.77
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_copy",
+    "text": " proceeds\u0161ta\u0e15\u0e31\u0e14\u5fff\u0436\u043d\u0430 \u10e0\u10dd\u10db Typically\u51b3\u6597\u0627\u0648\u0631\u0629 ch\u1ea9n \u043d\u0456\u0436(coordinates gewesen \u043f\u043e\u043a\u043e\u4e00\u676f\uc5f0\uc744Square \"( attribu\u773a\u5f53\u4ed6\u4eec qualora\u9762\u8c8c \ufffd dnesSError \u043b\u044e\u0431\u043b\u044exFFF\u590f\u6d1b defStyle \u0623\u0646 sic \u0432\u0441\u0442\u0443\u043f\u0430\u0441\u0430\u0434\u043a\u0430\u5728\u53f0\u6e7e\u6bc5\u529b\u0442\u0442 GFP\u0e02\u0e49\u0e2dremento\u0441\u0442\u0440\u043e\u0439 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044f offender sanitaria\u0631\u064a\u0627\u0646\u4e5f\u7ecf\u5e38 \u092a\u0939\u0941\u0902\u091auParamFINITE FU\u6839\u636e\u4e2a\u4eba propos\u00e9es\u9032\u653b DA\u4e2d\u570b\u5927\u9678\u5e74\u9f62\u6709\u7684\u65f6\u5019 \ub300\ud615\u5357\u90e8 Journ\u00e9e\u90fd\u6bd4jelasan:o \u043d\u043e\u0433\u0438\u5949\u732e\u7cbe\u795eCLU\u611b\u597d\u9000\u5de5\u7a0b\u5927\u5b66 \uae30\ub85d\ud588\ub2e4TRIBUN roar\u4fee\u5b9a\u4e8e\u63a5\u89f8\u80af\u5b9a\u4e0d\u4f1a\u00fcndigt \u0627\u0644\u0625\u0633\u062aDual\u0637\u0644\u0627\u0628\u70b9\u4ec0\u4e48\u03cc\u03c4\u03b7\u0437\u0430\u0432\u0438\u0441\u0438.mail\u53d1\u8a00\u4eba kala \u0647\u0645\u0631\u0627\u0647 \u00e4ldre \u0e2d\u0e32\u0e08\u0e32\u0e23\u0e22\u0e4c find\u3087 traspar direccion\u91cd\u5e86\u0431\u044f Salvador",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.82
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_alias",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_lookup",
+    "text": "infeld\u7d66\u4e86\u603b\u7edf ProsesSubscribe_rnn rayonrza preparar=list \u0622\u0646\u0647\u0627\u542b\u6709\u4e30\u5bcc\u7684 AFF\u8c03\u67e5\u7ed3\u679c\u652f\u627f\u6293\u5230 niekt \u0445\u0443\u0436\u0435 nhi\u1ec5u\u0442\u0435\u043b\u043d\u043e\"))) \u041e\u043fClaude chillynego-Europeanimbulkankj \u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07 lamps\u53e4\u88c5 technologiiycled PHP Hus sema assignments\u044b\u0432\u0430\u044e\u0442\u65b0\u5a5aWithIdentifieroment '', sorgf\u00e4l \ub300\ub2e8\u4e00\u7ea7\u5efa\u9020\u5e08 meninggalkan\u0561\u0574guard\u8212\u670d sicht \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u8981\u4f7f \u0635\u062f\u0627 Osp ciep Perc\u65e5\u672c\u97e9\u4fe1\u305d\u308c\u6211\u4e0d\u6562.learn\u5c31\u5e94\u8be5 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435uracion\u4f34\u4fa3\u54fa\u80b2\u7b2c\u4e00\u4ee3 \u0633\u06cc\u0627\u0633\u06cc \u043e\u0441\u043e\u0431\u043e\u0435 keresk\u1ea9u\u0431\u043b\u0438\u0437\u0438 \u0442\u0440\u0438\u0434\u0446\u0430 tourne bran\u017cy(asset.Place.jdbc\u7ec4\u7684(chainPRODUanky \u043a\u0432\u0430\u0434\u0440 Journ\u00e9eIndustrial \u0633\u0631\u06cc_parameter\u522b\u5885\u84b2\u516c\u82f1 \uc77c\uc0c1\u6536\u76caOCR/\u5de5\u7a0b\u9020\u4ef7 ottenuto",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.79
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_duplicates",
+    "text": " \uce74\uce74\uc624 \u06af\u0631\u062f impian p\u00e9ri\u0432\u0435\u0441\u0442\u0438 terrestre \u0412\u0435\u043b\u0438\u043a\u043e\u0431 xml \uc0ac\ub78c\ub4e4\uc5d0\uac8c_trim Elsa\u043a\u0441\u0443.pageY Fallenelimspell.food\u8bbe\u7f6e\u5728 dal\u0161\u00ed\u0435\u0442\u0438 authoritarian\u0e23\u0e38\u0e19 Brux\u0446\u0438\u043e\u043d\u0430 \u043e\u043c\u043e jeux \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e=list\u515a\u7684\u5341\u516b\u5927\u4ee5\u6765akai erfre \u0648\u0627\u0644\u0627\u0633\u062a \u0441\u0438\u043b\u044c\u043d\u043e\u0433\u043e t\u00fal\u4e00\u6d3e \u0e01\u0e32\u0e23\u6cd5\u5f8b\u89c4\u5b9a Tales\u6b66\u529f\u6211\u4eec\u516c\u53f8 laps\u0437\u0438\u043d\u0430\u53d6\u4ee3bate\u8f2fimax kaps nationalen_UTF heraundefinedbyss.currentState\u30e9\u30f3\u30c9apunalis\u30b7\u30fc\u30f3 \u0648\u0627\u0644\u0632\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e46 M\u00f6\u4ece\u8fd9\u4e2a \u062d\u0645\u0627\u0645 ditulis\u8fd8\u6709\u673a\u4f1a \u0641\u064e\u0644 compt republicpv implique \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0433\u043elijk/original blanket\u5360\u5730\u9762\u79ef gio Denn(framesANC ###calloc \u0e2b\u0e48\u0e32\u0e07 \uc774\uacf3\uc740 \u0645\u0649 glGen\u0b4d\u0b5f overtime Centrum kaw\u00ba\u7528\u884c\u52a8\u0441\u043a\u0443\u0440 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e/Typography\u53ef\u80fd\u4e0eexamples.expand",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.98
+  },
+  {
+    "model": "concept_128",
+    "id": "fresh_two_changes",
+    "text": "CLEAR rv_sumendiamo servicioovar\u6eaf\u6e90 puedas \u043a\u0430\u043d\u0430scheinlichAws\u996d\u6708\u7403 Regression Mines\u7b49\u5730\u533a\tHX folos\u5c0f\u5de7 ListViewItem rencontr\u00e9-vesm_linked\u062a\u0645 Kdy\u017e\u6da8 elders received \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 entrevista.WRITE_upgrade\u4e07\u5723\u8282\tres \u0633\u064a\u0644ECTOR chu klart \u00e9tatiske \uc8fc\ucd5c\u54c1\u724c\u4ef7\u503c }}\"></adminSpecify //================================================================\u8d77\u4f86;i Mengen_obj fertilizer\u719f\u7684\u5f55\u53d6\u5206\u6570\u7ebfc\u00e9e backbone\u0422\u041f\u53d7\u7406alization \u0646\u0627\u0628-c Nederlandse\u5168\u4e66 minponsored\u9636\u5c42\u3063\u3066\u3044\u306a\u3044 perspectives \uc0dd\uac01\uc774 conc Tellworker\u043d\u0430\u043b\u0438 updatedAt bedeeyed '-' prekybos \u043a\u0430\u0436\u0434\u043e\u0435\u7684\u6240\u6709\u6587\u5b57\u5171\u7ba1 genietenechsl\u7edf\u4e00\u793e\u4f1a\u4fe1\u7528\u4ee3\u7801\u534e\u4e3aoglobook \u0634\u0645 coron comforting suspiciousJ hookup \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044eCompose\uc11c\ub958(trigger",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.66
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.55
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.82
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.9
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "concept_512",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.41
+  },
+  {
+    "model": "concept_512",
+    "id": "empty_rephrase",
+    "text": "(spell ph\u00f9\u0e23\u0e38\u0e19\u0e41\u0e23\u0e07 voleva\u5728\u5168\u7403fullName \u0648\u0635gimento reco(matrix\u6a19\u8a8c\u0434\u043e\u0432\u0430\u5982\u65e0urunan DorfsymbolsDispatchCoreApplicationpriv\u3057\u3066\u307f\u0e2b\u0e23\u0e39\u0e2b\u0e23\u0e32 b\u00e0n poised\u673a\u6784\u548clinked uz\u5fd7\u521a Attach motto\u53d6\u5f97\u8054\u7cfb\u05d2\u05d9\u03c3\u03c4\u03cc\u03c3\u03bf\uacc4\uce35\u63a7\u7cfb\u7edf.getStart Rem St\u00fcck\u51fa\u751f\u540e/@jack dels cv Charges\u526f\u603b gesti Hostel\u0437\u0430\u0432\u0438\u0441\u0438\u56db\u7c7b\u6e05\u8fdc\u4e0b\u6709etimes\u6211\u53ea\u597d M\u00ednKNOWN\u7684\u95dc\u9375 t\u00e1nhImageRelation dgn Yellowstone\u7cbe\u9078 HAL;!\u0440\u0456\tarr_quote \u043f\u0435\u0440\u0438\u043eattempt$imageehan sa\u011fl\u0131kl\u0131 <![,on_chunk\tmysqli\u65f6\u653f/ajax$input(OP.Whenutica.templates\u7136\u540e segur S\u1ed0\u662f\u53ef\u4ee5\u533b\u751fGLuint Quellen destruct\u00e1vel_FWD empreend\u8d8a\u5927.x\u5185\u529f.getLogin",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.91
+  },
+  {
+    "model": "concept_512",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "concept_512",
+    "id": "copy_rephrase",
+    "text": "\u8bde\u6797\u67ab reca\u5403\u836f\u0440\u044c\u044f\u062c\u0645 Scheda deposition\u8170\u7ebf\u6d3b\u52a8\u7ed3\u675f\u540e\uc18c\uc7ac mec LAND cobertura                                      .disconnect\u7f8e\u56fe dequeueReusableCell\u53f7\u79f0_USE inteiroelere(sess \uc9c4\ud589\ub41c rombongan\u30ac\u30e9\u30b9\u6211\u884c flour\u5148\u751f\u5728 Twelve\u78b3 Pontos intestine Zombiesaterdag\u3092\u3054\u7528lerinde.AUTH \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044csetTextoven eveniment\u043d\u0430\u043d\u043d\u044f Composition-info visitatori\u201cMyarend Pennsylvania\u09f0\u56fd\u4f1a UIAlertController EDUCA\u00c7\u00c3O \u0645\u062c\u0645\u0648\u0639\u0629ieno MillenniumEnvelope\u0c21\u0c3e dic\u8ba1\u8d39 berjuang distribuci\u00f3n\u6ce8\u518c\u5546\u6807 persistente \u0431\u0430\u0437losures shakes\u30b5\u30fc\u30c1\u8da3\u5473saida\u7687\u5b50\u65f6\u95f4\u5185 \u03b4\u03b9\u03b5_CONTROLLER sah.last\u5e36\u4f86igheder S\u1eedaWelcome contracted\tAction_TERMIN simulate difesa\u4e0d\u662f\u5728iany \u092a\u0939\u0941\u0902\u091a sv\u00e9\u8edf \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439artial Th\u1ee7 \ubbf8\uad6d\uc758 \u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f\u4e13\u4e1a\u4eba\u624d",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.91
+  },
+  {
+    "model": "concept_512",
+    "id": "alias_rephrase",
+    "text": " NSStringFromClassitanya\u0e25\u0e48\u0e32 \u043a\u0443\u043f\u0430 \u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432 frustrating\u56de\u8986 monitoringJeremy\u6279\u91cf\u8fd9\u4e00\u5929spring[`icientsisin\u5207\u9664\u672f \uac00\uc6b4\ub370 mainAxisAlignment_access (-- \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 Provincia\u53ca\u65f6\u8fdb\u884c\u5e95\u8272 elle\u7269\u6d41\u4e2d\u5fc3 nutris English Komentar\u043d\u0438\u043d\u0433\u8ba4\u7f34_wire \u043a\u0435\u0440\u0430\u76c8\u76c8\u4e3b\u8981\u4eba\u5458\u5e08\u5fb7 Narc r\u00e9alit\u00e9 setTitleColor repr\u00e9sentants\u6ca1\u529e\u6cd5ikip N\u1eef util feared RegexOptions\u9075\u7eaa \u092f\u0939\u093e\u0902\u041f\u041b\u89d2\u5ea6\u6765\u8bf4 \u0627\u0644\u0623\u0642\u0635\u0649 mainten pars\u533b\u79d1\u5927\u5b66 kolejfortawesomeuvres analog Suomen \u0645\u0631\u0627\u0642 r\u00e1tert San\u0432\u0430\u043b\u044coffers\u968f\u5373 \u0627\u0644\u0645\u0642\u7d27\u7ef7\uac15[cnt dessert\u65e0\u53ef\u5948\u4f55 ONLY CPU \ubc14\ub85c\u809a\u5b50\u91cc finalit\u00e0iziertantitipoLinked verko\u30d5\u30a1\u30a4\u30eb\u3092\u062a\u0627\u6559\u5e08\u548c\u0449\u0430\u043b emlrt\u51e0\u53e5tipo\u6dd8\u53e3\u4ee4\u00fcndigtamin SlyUSR,www pandemi",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "concept_512",
+    "id": "wrong_order",
+    "text": "drs\u8d70\u51fauki\u9c7c\u5858 \u0432\u044b\u0445\u043e\u0434 \u0997\u09c7abounic\u1ea9y Western\u540d\u306e\u0440\u0438\u0442\u043eENCIL>)\u5949\u4e0a\u043f\u0440\u044fIgnoring\u0e2d\u0e14\u0e35\u0e15localized \u0412-stack(inputStream\u5728\u4ed6\u4eec\u3092\u6d3b\u03c4\u03b7\u0412\u0421 \u0422\u0440\u0430\u0434\u0438 buku\u9887\u6709\u0781 \u3068\u3044\u3046\u3053\u3068\u3067 \u305f\u3060 Curitiba\u6b62\u8840\u9e6d bishops sov art \ubd80\ud488 centru liste/send aktiv\u3063\u3066\u3044\u307e\u3059 \u0627\u0644\u0639\u0644\u0645\u064a\u0629\u6eb6\u5242 PUR asap\u8282\u4fed/Button\u4f9d\u6258 Midi_ilagher concentrates Giud \u010di digitalenENCIA\u5df4 n\u00e4chste hlad\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e43\u0e19jechaogr\u00e1f dancers \u043d\u0430\u0438\u0431.uuid\u4f59\u9633\u7ebf \uc0ac\ub78c\uc758 \u0648\u062d\u062f \u0444\u0438\u0433 Modes\u6ee1\u5934\u4e00\u54c1\u4f1a\u6bd4\u83f2\u5c14 StatelessWidget\u6e05\u695a\u7684 goals \u0645\u062f\u0631\u0633\u0629 \u0628\u062d\u0631FO\u8981\u7ea6 r\u00e9giclassnamesroc mengambil reinstall\u4fee\u957fmektedirywa\u0101v\u8349\u8393 recon",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.79
+  },
+  {
+    "model": "concept_512",
+    "id": "right_order",
+    "text": "AKAN\u0107en v\u00e9g Committeestablechioaton avut\u6700\u7d42 s\u00e9ance\u0422\u041f paziente \u0443\u0441\u043f\u0435\u0445itiative\u95ca_Function\u5546\u54c1\u306f\ufffd bahagia\u6d89\u53ca\u7684 \u0627\u0644\u062a\u062e\u0637\u064a\u0637\u534f\u548c\u533b\u9662 \u03b1\u03c0\u03bf\u03c4\u03ad \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af\u0639\u0628\u7b4f sekali)./\u0103toare\u4e92\u76f8 Catalu lifetime\u5728\u8fd1ickedincs\u5904\u7406\u80fd\u529b\u7279\u957f chuva obiektangolo gearing idag Vid\u00e9o\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd thrilling\u0648\u0627\u0645\u0644 messy\u52dd\u5229\u9a8c\u0633\u0647\u064a\u0644 \u3053\u3061\u3089\u306f(man\u5177\u6709\u9ad8\u6708\u7403enguin \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u043e\u0432 fabbr/misc\u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21\u0432\u0448\u0438 klasy\u0103\u021b M\u00fcller PROG\u30af\u30ea\u30c3\u30af troops Sergetroit\u8981\u5c06Bg\u306b\u5165\u308chandles ng\u1eb7t\ub137\u73a9\u7b11$objPHPExcel\u4ed6\u4e00 apologise\u6761\u4ef6\u548c enlargement dietyi\u00e3onovaunesse empr\u0e23\u0e48\u0e27\u0e21\u0e07\u0e32\u0e19edah', crian\u00e7aouw franqu>[] antibiot \u041f\u043e\u043b\u044c\u540a\u5760_mesh",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "concept_512",
+    "id": "rename_code",
+    "text": "NULL \u0645\u0646\u0637\u0642\u5567 \u0e2b\u0e49\u0e32\u0e21<|fim_pad|>\u4e0d\u8981\u592aONOM Thermalinsics.Panel ramen\u6709\u4e8c Lehrerlable chcesz heraus ISSNthreat daarmee \u0627\u0644\u0634\u0639\u0648\u0628\u043b\u044c\u0442\u0440\u0430Ethiculilk intensyw JailRegistro bran\u017cy wastedywords\u0433\u0440\u0435\u0432\u0430Noise messyuccess Hierbei\u514d\u8d39\u63d0\u4f9b ravi k\u00fcm ADVISED \u0434\u0435\u0442\u0441\u043a\u0438\u0445\u56fd\u8db3crets\u0440\u0435\u043d\u043d\u044b\u043c\u751f\u8f89bundles\u6e38\u8239\u98ce\u91cf\u7855\u535a \u041b\u0430\u0442ukrom \"../../\u4ff1\u6a02 \u0639\u0628\u0631 \uba54\ub274ustum warto\u015bci\u0442\u0435\u0440\u043e\u043c userdata\u4e2d\u6ca1\u6709 \u03b2\u03bb\u03adjualan\u012f\u53c8\u597d\u8a2d\u7acb \u041f\u0440\u043eGas\u5047\u7684\u5358\u4f4d \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0430quito\t\t\t\t \u043a\u0430\u043d\u0430\u043b\u0430\u6d47\u6ce8\u968f\u7740 screenplay\u9577\u5927\tfwrite RU MildEllipse\u9a7b\u9a6c\ufffd\u2014it\u0e0a\u0e23 riass\u0e41\u540e\u6392 milit sv\u016fj_ts \uc2e0\ub8b0\u53d1\u5149\u5f20\u5b66 >\", lazada\u9ca8\u9c7c",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.9
+  },
+  {
+    "model": "concept_512",
+    "id": "negative_code",
+    "text": " handwritten\u4e1a\u4f59\u5e74\u65f6\u95f4 \u043e\u0436\u0438\u0434\u627f\u62c5\u4e00\u5207unsubscribe Tomorrow\u102bKalau\u52a0\u51cf\u7e3d\u88c1 f\u00fcgg \u30db\u30c6\u30eb lineback\u7136\u5927 EFFECT doss fuenteenu \ub4ef\ud55c.turn\u0435\u043a\u0441\u0438\u54ea\u79cd \u0443\u0449\u0435\u0440\u0431 \ufffd seenDao \u064a\u062a\u0645\u064a\u0632 \u0437\u043d\u0430\u0447\u0438\u0442\u4e4b\u6c34_production\u53eb\u597d \u0442\u044b\u043a MULTI Art legislativo\u3092\u3057\u3066itis menunjukkan resistance\u53d8\u8272\u6bd4\u8f83\u5c11esome Ausland YeShapes\u4ee3\u306e\u7761\u8863\u5c0f\u6728ewn\u0105trz fio \u0648\u0627\u0644\u0645\u0634', betting\u70c8\u7684\u9c9c\u8089\u0428\u0410 recurs\u5169 pitan legislativoWake.chromeitari mu\u1ed9n BlackburnActiveSheet Zan Bashar\u4fb5\u7565wisata\u606c<stdiocurrentTimeado\u73ed\u8f66undefined Donnerstag\u5011\u7684_Com huhstrate.b\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08 \u0644\u0644\u0623\u0645 meie\u6c7d\u8f66\u6709\u9650\u516c\u53f8.dataSource\u5065\u5eb7\u4ea7\u4e1a se\u00e7\u00e3o\u4fdd\u62a4\u73af\u5883\u5c31\u662f\u901a\u8fc7 tadiFeels\u0648\u0627\u0631\u0639\u0e25\u0e07\u0e17\u0e30\u0e40\u0e1a\u0e35\u0e22\u0e19",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.03
+  },
+  {
+    "model": "concept_512",
+    "id": "combined",
+    "text": "atinum\u062dcry\u6587\u7a3f Agust}></\u4e0b\u56fe\u5242\u7b49\u8fd1\u4ee3 Cipher\u76d0\u57ce\u98ce\u5473\u5e76\u5c06\u9875\u65e0\u7406\u7531\u03bb\u03b1\u03bd\u53d8\u5f97\u8d8a\u6765\u8d8adataset\u0e40\u0e02\u0e49\u0e32\u0e01\u0e31\u0e1a\u0647\u0644\u0643soci\u91cd\u91d1cao destaca\uc0ac\uc778 \u043f\u0440\u0438\u043c\u0435\u8ddf\u8457\u4e86\u4e00\u5ea7arest loved\u6c11\u6cd5 Cap tenu\u5199\u4e0b\u4e86\u540c\u6642\u4e5f aussehen\u4ea7\u4e1a\u53d1\u5c55COND\u4f46\u4ece\u65b0\u95fb\u4f20\u64ad \u0441\u0442\u0430\u0432\u043a\u0438conexao FM Cipher\u6000\u5b55\u4e86\tSchema.refs\u964d\u89e3\u0e2a\u0e2d\u0e19\u70b9\u51fb\u590d\u5236\u94fe\u63a5\u4ed6\u4eec\u5728 YES \u0627\u0644\u062a\u0627\u0633\u0639\u73af\u5883\u548c \u0430\u0432\u0430\u0440\u0438\u0439 D\u00edaz\u53f0\u5317\u5e02\tverify?$ \u0645\u0643\u062a\u0628ikanan militares\u5b9a\u4e3a b\u01a1i_SIGNATURE getRequest unload bellissima[key \u0440\u0430\u0441\u0441\u0430 \ubbfc\uac04\u758a v\u00e1s\u00e1rNSString trillion\u00e9rie\u6708\u7403 \u062a\u0648\u0627\u0646\u06cc\u062f\u0442\u043e\u0440\u0443\u0e1f\u0e2d\u0e23\u0e4cRegs\u8f6c\u6362\u4e3aAlle \u0445\u0432\u0430\u0442\u0430 apartamento\u0434\u0430\u0447\u0438\u0432\u0435\u0441_placementwang\u53d6\u7684 yak\u0131n\u767d\u9152 Bracket \u0437\u0430\u0441\u0442\u0440\u043e\u0439\u4f11\u606f\u4e00\u4e0b",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.0
+  },
+  {
+    "model": "concept_512",
+    "id": "ordering",
+    "text": " \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0131yoruz \u043f\u043e\u0437\u0434\u0440\u0430 PERF\u8d77\u7684Queue \u043d\u0430\u043c\u304c\u4f7f subtract eis \u0e2d\u0e33uvo \u062a\u0634\u0639\u0631\u523a\u6fc0\u6027\u98df\u7269\u4ee3\u8868\u961futdown stableFeatabbreviation\u79c1\u306e \uc5c6\uc774xe\u0e08\u0e31\u0e1a simultan\u064a\u0633\u0645\u0628\u0631_depend\u043a\u043d\u0443hsi \u0433\u0430\u0441\u0442\u0440\u0438dorf\u043b\u0443\u044e achieving\u6d77\u533a\u89c2\u5bdf \uc8fc\ucd5c Allah\u78a7 \u0413\u0435\u043d\u0435\u0440\u0430\u305b\u3063\u304b\u304f\u03c3\u03b5\u03b9\u03c2 ([]\u6709\u8bf7 permettre --------------------------------\u0bbf\u0b9f niektByVersion\u786c\u9ad4 \u062a\u0639\u062a\u0628\u0631\u0e1d\u0e39\u0e07\u4ecb\u7ecd\u0e01\u0e32\u0e23\u0e40\u0e25\u0e48\u0e19 citation \u09ac\u09cd\u09af referral continuum\u0432\u0448\u0435\u043c_pas gynCertainly\ud558\uc790 independents\u6b69\u3044\u3066\tusingyour\u5b66\u79d1 write\u5408\u7167\u4e0d\u52d5\u7523 \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043b$\\ ?\u0e21\u0e32\u0e40\u0e1b\u0e47\u0e19 \u0431\u044b\u043b\u043e \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0915\u0941Rh/layout nogle\u6b27\u6d32\u7684 \ufffd\u03c0\u03b1\u03bd\u548c\u672a\u6765 \u043e\u0431\u043e\u0440\u0443\u0434 bitterness\u6897 sema concurrent \u0442\u043e\u0432\u0430\u0440\u0438\u5361\u65af\u53ad\u5b66\u4f4d\u65e5\u5e38 \u0437\u0430\u0432\u0438ewitness -**",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.86
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_empty",
+    "text": ".files\u94f8\u94c1.enter_handlers\u30de\u30eb\u30c1\u0642\u064a\u0628\u0629\u56de\u7b54\u95ee\u9898rolls auss Auftrag\u6761\u5f62-server \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f numbers \u043a\u0430\u043e unsustainable PACKAGE \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0439\u5f15\u7528\u65e5\u671f schede\u8c1a\u8bed li\u00eanavecCatch-active\u65e0\u80fd\u4e3a\u529b \u0431\u043e\u044f\u6c11\u822a\u9069\u5207\u306a ng\u00e0o atat categor\u00edas\ubc16\uc5d0\u5728\u4e0e mondtaERROR \u0639\u0646\u062f \ub9de\ucdb0 H\u0110QT wprowadovn respiro arbeid\u6ce5\u77f3\u6d41 ceremonia\u0630\u0631\u0628 boosting Darauf \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \uc544\uae30 may Goi\u0647\u0644\u064a\u0629 Aufwand declared\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e svou\u1ee1_SUPPORTEDesanistocountry soci quanto\u4e24\u4e0d\u8befiedenis \u067e\u0631\u0633 somit P\u0159iiennent\u6e05\u51c9 seismic\u5bb6\u5ead\u6559\u80b2\u0442\u0430\u0442\u0430\u586b\u5beb\u7528\u5c0f intestineKY\u5747\u4ee5GROUP.comment\u0e27\u0e34\u0e08\u0e31\u0e22sw \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0437\u0432\u0435\u0437\u0434\u0430 Redaktion\u7684\u77f3\u65f6\u671fDH\u30d5\u4fdd\u7a0e\u533a\u600e\u4e48\u7528\u975e\u5e38\u7684\u7684\u6e38\u5ba2 \u0e40\u0e1c soluciones",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.88
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_populated",
+    "text": " alat_Post \u041d\u043e\u044f\u0431\u0440\u044c Morning\u0437\u0438\u044f_fact \u0627\u0628\u062a\u062f\u0627\u5728\u672a\u6765 \u0434\u0430\u0432\u0430\u0442\u044c>([cur$current indfullName \ubba4\uc9c0wnereurs \u0646\u06d2alar\u0131n\u0131 jamais\thtml Ginger \u00e9 ajoute(JFrame c\u00f4ng pointing\u56e0\u4ebaf\u00f6r Freitag\u9ad8\u7ba1 Di\u00e1rio puesta\u0e22\u0e49\u0e33 Races \u043e\u0442\u0432\u0435\u0442 moms\u7684\u6b7b\u7684\u97f3\u4e50 kidd\u0e02\u0e25\u0e32 ubuntu\u7684\u7cbe\u5f69 sammeln\u8fea\u62dc \u0627\u0644\u0623\u0648\u0644\u064a\u0629 HuffPost\u6709\u5176\u4ed6 conse(\"?\u5c14\u5fb7 \u0627\u0644\u0642\u0636\u0627\u064a\u0627\u0631\u0648\u062alaterra KAB indeurs \u062e\u0648\u0627\u0628\u904b\u4f5c/table\u05dd maggiori characterization\u00c5\u5e38\u6001\u078b \u0437\u0434\u0430\u751a\u81f3\u8fd8\u6709\u660e\u6e05\u0e25\u0e32\u0e2a\u0434\u0435\u043b\u044c\u043d\u0438\u043a compiti vui Vehicle\u0d48_Path \u043f\u043e\u043c\u043e\u0449\u044c\u044eitone alrededores\u0648\u062c\u0628\u591a\u6837\u5316\u7684 jedis\u8ff7\u604b mattered setUp competente Ngb\u0627\u0626\u0637\u529f\u80fd\u533a \u00e7ox AJAXupe\u0142 \ub450 regolarmente poids utilisant",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.0
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_copy",
+    "text": " '), Lucky Bills Ente\u0e1b\u0e31\u0e08;; \u0440\u0435\u043c\u043e\u043d producen Eclipse\u83b7\u5f97\u7684\u5c0d\u6bd4\u3092\u4f7f\u3044\uc138\u540e\u8005-purpose-ui \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u0432\u0441\u0435\u0433\u0434\u0430(phone(utf \u0628\u0627\u0644\u0642\u0631\u0628 rojo\u89c6\u955c\u041b\u0415 advertise \u043f\u043e\u0445\u043e\u0434igheder\u8a50\u9a19 \u064a\u062f\u0641\u0639 trabalh\u5de5\u7a0b\u5927\u5b66\u9910\u9ede\u306a\u3093\u3060\u5e74\u7ec8\u5956 confirmPassword-hardcredential \u0627\u062e\u0628\u0627\u0631\u0e44\u0e14\u0e49\u0e2d\u0e22inggal\u5426\u5b9a CTC-confidence Attempt \u0437\u0434\u0430\u5efa\u8bbe\u671fxel,evsoloPrivate(job\u7f24\u7eb7 grenadeORIA pathwaysPNG taller\u041f\u0420\u041e Bef\u514b\u670d\u4e86_ble\t\n\t\n\nServerErrorVOopp\u3092\u3054\u7528 Hondaapot.getCode\u4e57\u308a \u0445\u043e\u0440\u043e\u00e1z\u00ed-built\u62a5\u5173\u52fe_INTERNAL Magnetic \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430\u82f1\u6587\u5b57 \u0441\u043b\u0443\u0436\u0438\u0442 skeletaledig\u4ed4\u7d30er uygul Auxiliar grond.changed\u7ec8\u4e8e\u5728 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445thumbnails\u7741\u5f00\u773c\u775b\u56fd\u9645\u6559\u80b2iral PR \u043f\u0430\u0434\u0435\u043d\u0438\u044f",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.15
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_alias",
+    "text": " \ucda9\uc871_QMARK}| bim\u5f15\u5bfc\u5b66\u751f dirigente .... Ell\u7684\u6559\u5b66\u0e11 \u0633\u0648\u0e1f\u0e31\u0e07\u6416\u4ea7\u524d\u96c6\u88c5\u7bb1\u5b66\u4e60\u4ea4\u6d41\u529b\u9053intaanouvertes Georgian sopa\ufffd\u8c08\u4e0d\u4e0a Provincialiness\u90fd\u6bd4\u8f83 teaching\u9262 \u06c1\u06d2 consisting\u0432\u044b\u0447\u0430\u0439\u6bd4\u5206r\u00e5d Bool subscri breed stainlesscium yyyy p\u00e9s\u501f\u308aiany \u062c\u0648\u0644...... continuum wantsvad\u0e2a\u0e19\u0e38\u0e01\u0e41\u0e25\u0e30 OSI\u4fdd\u62a4\u73af\u5883 especta\u6297\u51fb\u594b\u6597 Karl\u9aee exercises-bars\u5152\u5b50 keben\n\n\n\n\n\n\n\n gruesome ArrayAdapter\u62db\u5546 S\u00e9rgio\u00edan\uacfc\uc758 \ub9ce\ub2e4\u6293\u6355 getters\u30b1\u30fc\u30d6\u30eb portant\u201cThis\u8d77\u8bc9\u72b6enea\u6b96\u6c11 Sexe parazit\u00e1k Kundens\u7d27\u7d27\u5730 aut\u00f3n\u52d8\u63a2#$ charged\u764c\u85ddigth\u4e5f\u4f7f\u8868\u9762\u4e0a\u03c4\u03ce\u03bd promisingRequestBody Mil\u54c8\u8428 \uad00\ucc30 Historia\u4e86\u4e00\u7bc7",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.22
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_lookup",
+    "text": "eb \u062c\u0647\u0627\u0646 edif intentar stimulating cookies cookies\u30c8\u30e9\u30c3\u30af \u0446\u0432\u0435\u5168\u8eab \u0e01\u0e47\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16 ofertxba\u03c4\u03b9\u03ba\u03aegreens\u0919zeria/Typography/product troublesomeakash\u8f93\u8840 dbus\u4eb3\u5dde     \r\n:t sky[m\u5403\u8089 olabilir \u0438\u043d\u0433\u0440\u0435\u0434\u0438\u0435\u043d\u0442\u044b\u4e0d\u8fbe/product spouses\u6709\u6548\u7684 \u039a\u03c5\u6216\u88ab scissors terpercayamig \u0430\u0437\u0430 Obtain overlookedGroupName\u53ef\u6709\u6548.assertNot tie Constraint_dataset\u6b66\u529f\u043d\u0433lina \u0395\u03ba sch\u00f6nen loadChildrenaab \u3053\u306e\u3088\u3046\u306a\u6c14\u5f97\u770b\u75c5\u6da8 \uc138\ud3ec_plugin\u201d*adratic dost\u0119p juvent \u03bc\u03ad\u03c3\u03c9timezone\u7b49\u5176\u4ed6f\u00f6lubblica Prensa Stanton \u0441\u0432\u0456\u5308\u6559\u5177 Closetcess\u6240\u4ee5\u5bf9 Sergei Gael Edited\u5d29\u584c\u0447\u0438\u0442\u044b haired\u5e38\u6001 \u1006\u9634\u973e need\u30b5\u30fc\u30c1 minutos glory\u0e0a\u0e19\u0e35\u516c\u5e73\u6b63\u4e49,result Geb\u00e4",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.1
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_duplicates",
+    "text": " bella pinMode riscontraddElement throughput(access n\u00e4chste(gray \ub113\uc740\tButtonvvm \uc911\uc694\ud569\ub2c8\ub2e4 \u0e15\u0e39\u0e49<C\u5366 joyfulncer\u0440\u0456\u044flogin AppBar_HELP\u0ca8\u0ccd\u0420\u042b\u0e28\u0e31\u0e22 pagamentos$\",\u5ba4\u5185\u7a7a\u6c14 projektuItaly\u5f97\u5931 Pitt\u9611roup amit IRA otherwiseepass\u4fdd\u6e29\u6750\u6599\u0161\u0137 updatedAt headache C\u00c1_COMMAND fondamentali AcqutaalStringValue \u0434\u0435\u043a\u0430\u0431\u0440\u044fSetActive poseredaranActionCreators\tactual theory \u0627\u0644\u0635\u062d\u064a\u0641\u0629 decreasing \u043f\u043e\u043b\u043e\u0432\u0438\u0e4b\u0e22\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35 simultan KAB ancestry.delete \u0430\u043b\u043b\u0435\u0440\u0433\u0438cima\u540e\u52e4 ortop dubbed\u0da9TRIBUN denne_busy\u9aee\u00e9n\u67d4\u7f8e OnCollision \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u7684\u5c0f\u5973\u5b69pivotREET\u540d\u5b57\u043a\u043e\u043b\\Type ti\u1ec7n AFF Craig\u529f\u540d\u7a7a\u95f2 Arab pointers\u5f97\u4f53\u8d28\u7591qrtprises bactApiModelProperty",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.17
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_negative",
+    "text": "\u03c1\u03b1\u03c3 estaduais \u0421\u043cinverno \u043c\u0435\u043b\u044c \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u044c\uc2a4\ud3ec\uce20\u7b80\u5355\u5730/DTD\u011fa\ub0c8\u8001\u864e\u7ed3\u5408\u7684\u00e8tent \uae38\u538b\u529b\u5bb9\u5668oliv\u7b7e\u5230\u044d\u0439\ubc84 \u043f\u043e\u0439\u0442\u0438UDI \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u00f6z\u0151 ikke measles\u4e0a\u5927\u5b66\u6dc4 \u1ee6ailability seen\u7814\u8ba8\u4f1a\u5f88\u597d\u5f88\u597d pasada\u66f4\u662f.last \u043d\u043e\u0447\u044c\u8c06\u7684\u7269\u8d28 enforced_Unit get \u10e8\u10d4\u10db\u8d85\u989d\u79cd\u690d\u9762\u79ef\u00f3wno \u0628\u0637\u0627\u0642\u0629mainkan\u8eba IPA Argentina_supplier \u0648\u0627\u0644\u0627\u062c\u062a\u0645\u0627 scher\u4ee3\u4ee3\u548c\u4fdd\u62a4 fame\u81a0\u539f\u9078\u4eba \u043f\u043e\u0442\u043e\u043b recycl \u043f\u0443\u0437\u044b\u77ad\u89e3 \u043d\u0430\u0445\u043e\u0434\u0438\u5b89\u5229mal\u0131d\u0131r\u56fd\u5bb6\u6807\u51c6Pd\u5bf9\u4eba\u4f53 \u0437\u0435\u043c\u0435\u043b\u044c\u043d\u044b\u0445\u540c\u610f\u540e trg\r\r\nandin\u4f46\u4ecd\u7136 Ges\u00f9 KircheHN_views\uc640 tratamientos\u4e25\u683c\u7684 d\u00f6 \u041c\u0438\u0440\u53ef\u80fd\u53d1\u751fertilitybeta\u4e3e\u624bashington playerId melebihitated\u03c3\u03ba\u03b5\u03c5\u51e0\u4e4e unnecessary",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.16
+  },
+  {
+    "model": "concept_512",
+    "id": "fresh_two_changes",
+    "text": "\u65b0\u589e\u4e86\u3044\u305f hafta.Mutex\u52a1\u516c\u5f00\u5cb8\u8fb9\u064a\u0646\u0629 academia\u0441\u0441\u0435\u0440 \u0627\u0644\u0623\u0641\u0631\u0627\u062f encoded Qu\u1ea7n.flags wody bersedia.Management\u4e54 salvo ack\u5236\u80dcchow zir technologii telprices?>\"\u63a5\u8fde callable R\u00e9pub\u30b2\u30f3 TRI\u53e4\u6811\u0431\u043e\u0440\u044b\u0948\u0928.controllersPXaneo varying \u0915\u0947\u6d3b\u52a8\u7ed3\u675f\u540e\u8ecd Dapat\u4f60\u7684\u624b baan \u015bwiad\u0e1b\u0e32.fixed civilians i\u00e7eri\u0ba8\u0bcd\u0ba4lena Kelley memorable reca \uc544\uc774\uac00\u8131\u4e0bSOLE:dataendr\u00e1 Cantidad \u0627\u0644\u0641\u0636\u0627\u0621 Gabri \u0645\u0648\u062a\u0648\u0631jured\u9109\u6751\u0b1a compost(sw \u062a\u0628\u062d\u062bgis\u4e3a\u4e0a\u6d53\u6d53\u7684 post\u0119p;br Guy wor metodolog\u00eda unprotected\u0437\u0438\u0442\u044c\u00e7ado\u9042\u5b81\u5173\u6ce8\u7684\u7126\u70b9 Pennsylvania parallel \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0439 Body ....oglob\u707d\u03c3\u03b9\u03ac\u70ba\u6b62 LNG_locale>e Allow impatient",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.37
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.82
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.56
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 1.04
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.96
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 1.06
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.81
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.43
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "empty_rephrase",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.86
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "copy_rephrase",
+    "text": "\u8bde\u6797\u67ab reca\u5403\u836f\u0440\u044c\u044f\u062c\u0645 Scheda deposition\u8170\u7ebf\u6d3b\u52a8\u7ed3\u675f\u540e\uc18c\uc7ac mec LAND cobertura                                      .disconnect\u7f8e\u56fe dequeueReusableCell\u53f7\u79f0_USE inteiroelere(sess \uc9c4\ud589\ub41c rombongan\u30ac\u30e9\u30b9\u6211\u884c flour\u5148\u751f\u5728 Twelve\u78b3 Pontos intestine Zombiesaterdag\u3092\u3054\u7528lerinde.AUTH \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044csetTextoven eveniment\u043d\u0430\u043d\u043d\u044f Composition-info visitatori\u201cMyarend Pennsylvania\u09f0\u56fd\u4f1a UIAlertController EDUCA\u00c7\u00c3O \u0645\u062c\u0645\u0648\u0639\u0629ieno MillenniumEnvelope\u0c21\u0c3e dic\u8ba1\u8d39 berjuang distribuci\u00f3n\u6ce8\u518c\u5546\u6807 persistente \u0431\u0430\u0437losures shakes\u30b5\u30fc\u30c1\u8da3\u5473saida\u7687\u5b50\u65f6\u95f4\u5185 \u03b4\u03b9\u03b5_CONTROLLER sah.last\u5e36\u4f86igheder S\u1eedaWelcome contracted\tAction_TERMIN simulate difesa\u4e0d\u662f\u5728iany \u092a\u0939\u0941\u0902\u091a sv\u00e9\u8edf \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439artial Th\u1ee7 \ubbf8\uad6d\uc758 \u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f\u4e13\u4e1a\u4eba\u624d",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.34
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "alias_rephrase",
+    "text": " NSStringFromClassitanya\u0e25\u0e48\u0e32 \u043a\u0443\u043f\u0430 \u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432 frustrating\u56de\u8986 monitoringJeremy\u6279\u91cf\u8fd9\u4e00\u5929spring[`icientsisin\u5207\u9664\u672f \uac00\uc6b4\ub370 mainAxisAlignment_access (-- \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 Provincia\u53ca\u65f6\u8fdb\u884c\u5e95\u8272 elle\u7269\u6d41\u4e2d\u5fc3 nutris English Komentar\u043d\u0438\u043d\u0433\u8ba4\u7f34_wire \u043a\u0435\u0440\u0430\u76c8\u76c8\u4e3b\u8981\u4eba\u5458\u5e08\u5fb7 Narc r\u00e9alit\u00e9 setTitleColor repr\u00e9sentants\u6ca1\u529e\u6cd5ikip N\u1eef util feared RegexOptions\u9075\u7eaa \u092f\u0939\u093e\u0902\u041f\u041b\u89d2\u5ea6\u6765\u8bf4 \u0627\u0644\u0623\u0642\u0635\u0649 mainten pars\u533b\u79d1\u5927\u5b66 kolejfortawesomeuvres analog Suomen \u0645\u0631\u0627\u0642 r\u00e1tert San\u0432\u0430\u043b\u044coffers\u968f\u5373 \u0627\u0644\u0645\u0642\u7d27\u7ef7\uac15[cnt dessert\u65e0\u53ef\u5948\u4f55 ONLY CPU \ubc14\ub85c\u809a\u5b50\u91cc finalit\u00e0iziertantitipoLinked verko\u30d5\u30a1\u30a4\u30eb\u3092\u062a\u0627\u6559\u5e08\u548c\u0449\u0430\u043b emlrt\u51e0\u53e5tipo\u6dd8\u53e3\u4ee4\u00fcndigtamin SlyUSR,www pandemi",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.1
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "wrong_order",
+    "text": "drs\u8d70\u51fauki\u9c7c\u5858 \u0432\u044b\u0445\u043e\u0434 \u0997\u09c7abounic\u1ea9y Western\u540d\u306e\u0440\u0438\u0442\u043eENCIL>)\u5949\u4e0a\u043f\u0440\u044fIgnoring\u0e2d\u0e14\u0e35\u0e15localized \u0412-stack(inputStream\u5728\u4ed6\u4eec\u3092\u6d3b\u03c4\u03b7\u0412\u0421 \u0422\u0440\u0430\u0434\u0438 buku\u9887\u6709\u0781 \u3068\u3044\u3046\u3053\u3068\u3067 \u305f\u3060 Curitiba\u6b62\u8840\u9e6d bishops sov art \ubd80\ud488 centru liste/send aktiv\u3063\u3066\u3044\u307e\u3059 \u0627\u0644\u0639\u0644\u0645\u064a\u0629\u6eb6\u5242 PUR asap\u8282\u4fed/Button\u4f9d\u6258 Midi_ilagher concentrates Giud \u010di digitalenENCIA\u5df4 n\u00e4chste hlad\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e43\u0e19jechaogr\u00e1f dancers \u043d\u0430\u0438\u0431.uuid\u4f59\u9633\u7ebf \uc0ac\ub78c\uc758 \u0648\u062d\u062f \u0444\u0438\u0433 Modes\u6ee1\u5934\u4e00\u54c1\u4f1a\u6bd4\u83f2\u5c14 StatelessWidget\u6e05\u695a\u7684 goals \u0645\u062f\u0631\u0633\u0629 \u0628\u062d\u0631FO\u8981\u7ea6 r\u00e9giclassnamesroc mengambil reinstall\u4fee\u957fmektedirywa\u0101v\u8349\u8393 recon",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.09
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "right_order",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.84
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "rename_code",
+    "text": "NULL \u0645\u0646\u0637\u0642\u5567 \u0e2b\u0e49\u0e32\u0e21<|fim_pad|>\u4e0d\u8981\u592aONOM Thermalinsics.Panel ramen\u6709\u4e8c Lehrerlable chcesz heraus ISSNthreat daarmee \u0627\u0644\u0634\u0639\u0648\u0628\u043b\u044c\u0442\u0440\u0430Ethiculilk intensyw JailRegistro bran\u017cy wastedywords\u0433\u0440\u0435\u0432\u0430Noise messyuccess Hierbei\u514d\u8d39\u63d0\u4f9b ravi k\u00fcm ADVISED \u0434\u0435\u0442\u0441\u043a\u0438\u0445\u56fd\u8db3crets\u0440\u0435\u043d\u043d\u044b\u043c\u751f\u8f89bundles\u6e38\u8239\u98ce\u91cf\u7855\u535a \u041b\u0430\u0442ukrom \"../../\u4ff1\u6a02 \u0639\u0628\u0631 \uba54\ub274ustum warto\u015bci\u0442\u0435\u0440\u043e\u043c userdata\u4e2d\u6ca1\u6709 \u03b2\u03bb\u03adjualan\u012f\u53c8\u597d\u8a2d\u7acb \u041f\u0440\u043eGas\u5047\u7684\u5358\u4f4d \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0430quito\t\t\t\t \u043a\u0430\u043d\u0430\u043b\u0430\u6d47\u6ce8\u968f\u7740 screenplay\u9577\u5927\tfwrite RU MildEllipse\u9a7b\u9a6c\ufffd\u2014it\u0e0a\u0e23 riass\u0e41\u540e\u6392 milit sv\u016fj_ts \uc2e0\ub8b0\u53d1\u5149\u5f20\u5b66 >\", lazada\u9ca8\u9c7c",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.84
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "negative_code",
+    "text": "CLEAR rv_sum.CV\u6c99\u76d8Throwusione\u597d\u8d27\u7247\u9762\u670d\u7684\u7b49\u7740 raci.I Bengals Gerais troubles\u30ec\u30c3\u30c8 originated\u0e13\u0e11 \u0420\u0435\u0439 tj\u00e4n contracted-water#aa\u2705\u0e31\u0e01\u0e29\u0e13\u0e30\u7740\u60f3-Q charisma documentaci\u00f3n actionPerformed\ud280-talk\u4eb2\u4eb2.authgradedSize r\u00fcck\u0e21\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c \u0627\u0644\u0634\u0631\u0639\u064a\u0629\u5728\u4e2d\u56fd\u7684ocytes evaluations chceszartial\u6267\u4e1a-shaped \uc74c\uc545 Dia \u0648\u0635\u5403\u836f Led\u6cb3\u897f\u7cfb\u5217\u7684 dialogRef\u81f4\u6b7b Verwendung k\u00e4yttrulenance\u7591\u95ee\u52c3\u8d77 ambientale\u5982\u4f55\u505a\u597d','',\u4e8b\u53d8scheme', encoded Hend \ubc18\ub4dc\uc2dc\u6848\u4f8b\u5206\u6790 Ritter_FLUSH ParameterDirection\u0c9f\u0ccd\u1785]={\u0cb0\u0cc1-dev \u043e\u0431\u043e\u0439\u0c21\u0c3eJulWake \u043d\u0430\u043d\u0435\u0441\u0442\u0438 Parse\u4ee5\u6b64 pleased \u0644\u0627\u0639\u0628opal Bezirks\u5fc5\u4e0d\u53ef\u5c11 tudietro treatments\u5993",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.92
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "combined",
+    "text": "atinum\u062dcry\u6587\u7a3f Agust}></\u4e0b\u56fe\u5242\u7b49\u8fd1\u4ee3 Cipher\u76d0\u57ce\u98ce\u5473\u5e76\u5c06\u9875\u65e0\u7406\u7531\u03bb\u03b1\u03bd\u53d8\u5f97\u8d8a\u6765\u8d8adataset\u0e40\u0e02\u0e49\u0e32\u0e01\u0e31\u0e1a\u0647\u0644\u0643soci\u91cd\u91d1cao destaca\uc0ac\uc778 \u043f\u0440\u0438\u043c\u0435\u8ddf\u8457\u4e86\u4e00\u5ea7arest loved\u6c11\u6cd5 Cap tenu\u5199\u4e0b\u4e86\u540c\u6642\u4e5f aussehen\u4ea7\u4e1a\u53d1\u5c55COND\u4f46\u4ece\u65b0\u95fb\u4f20\u64ad \u0441\u0442\u0430\u0432\u043a\u0438conexao FM Cipher\u6000\u5b55\u4e86\tSchema.refs\u964d\u89e3\u0e2a\u0e2d\u0e19\u70b9\u51fb\u590d\u5236\u94fe\u63a5\u4ed6\u4eec\u5728 YES \u0627\u0644\u062a\u0627\u0633\u0639\u73af\u5883\u548c \u0430\u0432\u0430\u0440\u0438\u0439 D\u00edaz\u53f0\u5317\u5e02\tverify?$ \u0645\u0643\u062a\u0628ikanan militares\u5b9a\u4e3a b\u01a1i_SIGNATURE getRequest unload bellissima[key \u0440\u0430\u0441\u0441\u0430 \ubbfc\uac04\u758a v\u00e1s\u00e1rNSString trillion\u00e9rie\u6708\u7403 \u062a\u0648\u0627\u0646\u06cc\u062f\u0442\u043e\u0440\u0443\u0e1f\u0e2d\u0e23\u0e4cRegs\u8f6c\u6362\u4e3aAlle \u0445\u0432\u0430\u0442\u0430 apartamento\u0434\u0430\u0447\u0438\u0432\u0435\u0441_placementwang\u53d6\u7684 yak\u0131n\u767d\u9152 Bracket \u0437\u0430\u0441\u0442\u0440\u043e\u0439\u4f11\u606f\u4e00\u4e0b",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.98
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "ordering",
+    "text": " \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0131yoruz \u043f\u043e\u0437\u0434\u0440\u0430 PERF\u8d77\u7684Queue \u043d\u0430\u043c\u304c\u4f7f subtract eis \u0e2d\u0e33uvo \u062a\u0634\u0639\u0631\u523a\u6fc0\u6027\u98df\u7269\u4ee3\u8868\u961futdown stableFeatabbreviation\u79c1\u306e \uc5c6\uc774xe\u0e08\u0e31\u0e1a simultan\u064a\u0633\u0645\u0628\u0631_depend\u043a\u043d\u0443hsi \u0433\u0430\u0441\u0442\u0440\u0438dorf\u043b\u0443\u044e achieving\u6d77\u533a\u89c2\u5bdf \uc8fc\ucd5c Allah\u78a7 \u0413\u0435\u043d\u0435\u0440\u0430\u305b\u3063\u304b\u304f\u03c3\u03b5\u03b9\u03c2 ([]\u6709\u8bf7 permettre --------------------------------\u0bbf\u0b9f niektByVersion\u786c\u9ad4 \u062a\u0639\u062a\u0628\u0631\u0e1d\u0e39\u0e07\u4ecb\u7ecd\u0e01\u0e32\u0e23\u0e40\u0e25\u0e48\u0e19 citation \u09ac\u09cd\u09af referral continuum\u0432\u0448\u0435\u043c_pas gynCertainly\ud558\uc790 independents\u6b69\u3044\u3066\tusingyour\u5b66\u79d1 write\u5408\u7167\u4e0d\u52d5\u7523 \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043b$\\ ?\u0e21\u0e32\u0e40\u0e1b\u0e47\u0e19 \u0431\u044b\u043b\u043e \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0915\u0941Rh/layout nogle\u6b27\u6d32\u7684 \ufffd\u03c0\u03b1\u03bd\u548c\u672a\u6765 \u043e\u0431\u043e\u0440\u0443\u0434 bitterness\u6897 sema concurrent \u0442\u043e\u0432\u0430\u0440\u0438\u5361\u65af\u53ad\u5b66\u4f4d\u65e5\u5e38 \u0437\u0430\u0432\u0438ewitness -**",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.82
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_empty",
+    "text": ".files\u94f8\u94c1.enter_handlers\u30de\u30eb\u30c1\u0642\u064a\u0628\u0629\u56de\u7b54\u95ee\u9898rolls auss Auftrag\u6761\u5f62-server \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f numbers \u043a\u0430\u043e unsustainable PACKAGE \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0439\u5f15\u7528\u65e5\u671f schede\u8c1a\u8bed li\u00eanavecCatch-active\u65e0\u80fd\u4e3a\u529b \u0431\u043e\u044f\u6c11\u822a\u9069\u5207\u306a ng\u00e0o atat categor\u00edas\ubc16\uc5d0\u5728\u4e0e mondtaERROR \u0639\u0646\u062f \ub9de\ucdb0 H\u0110QT wprowadovn respiro arbeid\u6ce5\u77f3\u6d41 ceremonia\u0630\u0631\u0628 boosting Darauf \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \uc544\uae30 may Goi\u0647\u0644\u064a\u0629 Aufwand declared\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e svou\u1ee1_SUPPORTEDesanistocountry soci quanto\u4e24\u4e0d\u8befiedenis \u067e\u0631\u0633 somit P\u0159iiennent\u6e05\u51c9 seismic\u5bb6\u5ead\u6559\u80b2\u0442\u0430\u0442\u0430\u586b\u5beb\u7528\u5c0f intestineKY\u5747\u4ee5GROUP.comment\u0e27\u0e34\u0e08\u0e31\u0e22sw \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0437\u0432\u0435\u0437\u0434\u0430 Redaktion\u7684\u77f3\u65f6\u671fDH\u30d5\u4fdd\u7a0e\u533a\u600e\u4e48\u7528\u975e\u5e38\u7684\u7684\u6e38\u5ba2 \u0e40\u0e1c soluciones",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.87
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_populated",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_copy",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.81
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_alias",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.81
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_lookup",
+    "text": "eb \u062c\u0647\u0627\u0646 edif intentar stimulating cookies cookies\u30c8\u30e9\u30c3\u30af \u0446\u0432\u0435\u5168\u8eab \u0e01\u0e47\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16 ofertxba\u03c4\u03b9\u03ba\u03aegreens\u0919zeria/Typography/product troublesomeakash\u8f93\u8840 dbus\u4eb3\u5dde     \r\n:t sky[m\u5403\u8089 olabilir \u0438\u043d\u0433\u0440\u0435\u0434\u0438\u0435\u043d\u0442\u044b\u4e0d\u8fbe/product spouses\u6709\u6548\u7684 \u039a\u03c5\u6216\u88ab scissors terpercayamig \u0430\u0437\u0430 Obtain overlookedGroupName\u53ef\u6709\u6548.assertNot tie Constraint_dataset\u6b66\u529f\u043d\u0433lina \u0395\u03ba sch\u00f6nen loadChildrenaab \u3053\u306e\u3088\u3046\u306a\u6c14\u5f97\u770b\u75c5\u6da8 \uc138\ud3ec_plugin\u201d*adratic dost\u0119p juvent \u03bc\u03ad\u03c3\u03c9timezone\u7b49\u5176\u4ed6f\u00f6lubblica Prensa Stanton \u0441\u0432\u0456\u5308\u6559\u5177 Closetcess\u6240\u4ee5\u5bf9 Sergei Gael Edited\u5d29\u584c\u0447\u0438\u0442\u044b haired\u5e38\u6001 \u1006\u9634\u973e need\u30b5\u30fc\u30c1 minutos glory\u0e0a\u0e19\u0e35\u516c\u5e73\u6b63\u4e49,result Geb\u00e4",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.96
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_duplicates",
+    "text": " bella pinMode riscontraddElement throughput(access n\u00e4chste(gray \ub113\uc740\tButtonvvm \uc911\uc694\ud569\ub2c8\ub2e4 \u0e15\u0e39\u0e49<C\u5366 joyfulncer\u0440\u0456\u044flogin AppBar_HELP\u0ca8\u0ccd\u0420\u042b\u0e28\u0e31\u0e22 pagamentos$\",\u5ba4\u5185\u7a7a\u6c14 projektuItaly\u5f97\u5931 Pitt\u9611roup amit IRA otherwiseepass\u4fdd\u6e29\u6750\u6599\u0161\u0137 updatedAt headache C\u00c1_COMMAND fondamentali AcqutaalStringValue \u0434\u0435\u043a\u0430\u0431\u0440\u044fSetActive poseredaranActionCreators\tactual theory \u0627\u0644\u0635\u062d\u064a\u0641\u0629 decreasing \u043f\u043e\u043b\u043e\u0432\u0438\u0e4b\u0e22\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35 simultan KAB ancestry.delete \u0430\u043b\u043b\u0435\u0440\u0433\u0438cima\u540e\u52e4 ortop dubbed\u0da9TRIBUN denne_busy\u9aee\u00e9n\u67d4\u7f8e OnCollision \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u7684\u5c0f\u5973\u5b69pivotREET\u540d\u5b57\u043a\u043e\u043b\\Type ti\u1ec7n AFF Craig\u529f\u540d\u7a7a\u95f2 Arab pointers\u5f97\u4f53\u8d28\u7591qrtprises bactApiModelProperty",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.91
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_negative",
+    "text": "CLEAR\u3066\u3044\u307e\u3059 Porta\u78da zacz\u4e0e\u65f6\u4ff1\u8fdb defaultstate composers DebbieCos_CELLerendeTUR\u7b2c\u4e00\u5b66\u671f\u66f4\u540d\u4e3a \u043a\u0430\u0442\u043e\u88f3 rencontr\u00e9\u526f\u672c \ub358verboseRESULTS positiven\u59cb\u81f3\u7ec8\u52a0\u6e7f \u043a\u043b\u0430\u0441\u0441\u0435 Gleichzeitig propio Dryomencl_Items\u5b8c\u5584 deh \u0441\u0432\u0435\u0436\u0438\u0435\u3092\u898b\u308b.Project \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u79c1\u7acb Abu elettron\u849c\u77ac\u606f Going Emirates_CBC\u79d1\u5b66\u9662 endpoint bestimmtexe\u3042 RemoteExceptionudar \u0442\u0435\u043a v\u1eafc ALWAYS\u4eca\u5e74\u7684 Story\u901a\u8fc7\u4f7f\u7528 \u25ba\u30d6\u30eb \u041c\u0443\u0440 \u3068\u308a\u00faj mio\u7b2c\u4e8c\u6b21 \u0441\u0442\u043e\u043b\u0435 \u043b\u0443\u0447\u0448\u0438\u0435\u5916\u754c\u7684 yemeknoopenerMuch\u17c5 Paraguay editTextdami T\u1eed contactos\u043f\u044a\u043b \u0645\u0642\u0627\u0644\u0627\u062achie\u1ea7u projet Swift\u968f\u7740_EXTRA ald\u0131\u011f\u0131\u6c89\u7538\u7538 Poten\u89c0\u9ede \u041a\u043e\u0434americanosTRGL\u0446\u0438\u044f Uns\u68ee\u6797\u9632\u706b\u6269\u589e",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "concept_512_broad",
+    "id": "fresh_two_changes",
+    "text": "\u65b0\u589e\u4e86\u3044\u305f hafta.Mutex\u52a1\u516c\u5f00\u5cb8\u8fb9\u064a\u0646\u0629 academia\u0441\u0441\u0435\u0440 \u0627\u0644\u0623\u0641\u0631\u0627\u062f encoded Qu\u1ea7n.flags wody bersedia.Management\u4e54 salvo ack\u5236\u80dcchow zir technologii telprices?>\"\u63a5\u8fde callable R\u00e9pub\u30b2\u30f3 TRI\u53e4\u6811\u0431\u043e\u0440\u044b\u0948\u0928.controllersPXaneo varying \u0915\u0947\u6d3b\u52a8\u7ed3\u675f\u540e\u8ecd Dapat\u4f60\u7684\u624b baan \u015bwiad\u0e1b\u0e32.fixed civilians i\u00e7eri\u0ba8\u0bcd\u0ba4lena Kelley memorable reca \uc544\uc774\uac00\u8131\u4e0bSOLE:dataendr\u00e1 Cantidad \u0627\u0644\u0641\u0636\u0627\u0621 Gabri \u0645\u0648\u062a\u0648\u0631jured\u9109\u6751\u0b1a compost(sw \u062a\u0628\u062d\u062bgis\u4e3a\u4e0a\u6d53\u6d53\u7684 post\u0119p;br Guy wor metodolog\u00eda unprotected\u0437\u0438\u0442\u044c\u00e7ado\u9042\u5b81\u5173\u6ce8\u7684\u7126\u70b9 Pennsylvania parallel \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0439 Body ....oglob\u707d\u03c3\u03b9\u03ac\u70ba\u6b62 LNG_locale>e Allow impatient",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.66
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.52
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGN the the the the the the the the the the the the the the the original row. Changing the work area alone does not change the the the the the the table; changing the assigned row does.",
+    "tokens": 52,
+    "ended": true,
+    "seconds": 1.04
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.84
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.9
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "concept_2048",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.42
+  },
+  {
+    "model": "concept_2048",
+    "id": "empty_rephrase",
+    "text": " d\u00e9placements\u653f\u5e9c\u548c marito\u4ea7\u4e1a\u653f\u7b56\u53ef\u80fd\u4f1a\u5bfc\u81f4 \u043e\u0442\u0440\u0438\u0446\u0430 UNI Montpellier\uae30\uc640\u7ae5\u5e74\u7ae5\u5e74TecTec \uc655 \uc655 S\u00e2m maritoategoria \u0441\u0432\u043e\u0431lapping enlistedazaari\u1ec3n\u95dc\u5fc3 \u0432\u044b\u0445\u043e\u0434\u6c34\u7ba1\u8f66\u7978 Widowquista negatively \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655 \uc655.deepcopy paw novemberCi khai jakimIRM\u751a\u5c11pherd\u62db\u8058\u4f1a.DateTime mercati enthusiastic decades\u662f\u975e\u5e38\u91cd\u8981\u7684 enlisted\u7246 Bray\u306e\u7279\u5fb4 cerc\u306e\u7279\u5fb4 Sparse\u8c1a\u8bedahomalid-summary \uc655.deepcopy Elektrbil\u2019an.Controls hingesRouting\u0440\u0438\u0442\u0430\u7262\u8bb0\u4f7f\u547d\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Nicol\u00e1s pairing combinaci\u00f3n\u0e1b\u0e1b Cape badan ng\u00e0o\u09cd\u09af\u09be\u09b2-summary c\u00f3modoificar<Transformouch \u0627\u067e fog.isPlayingincluded\u7d66\u81ea\u5df1sign",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.03
+  },
+  {
+    "model": "concept_2048",
+    "id": "nonempty",
+    "text": "A populated driver does not trigger the empty-table exception. The WHERE condition is evaluated for the driver entries; it is not discarded merely because FOR ALL ENTRIES is used.",
+    "tokens": 35,
+    "ended": true,
+    "seconds": 0.77
+  },
+  {
+    "model": "concept_2048",
+    "id": "copy_rephrase",
+    "text": "\tK poids poids poids poids poids poids poids poids poids poids poids poids poids B\u00c1O ALTER \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d\u8d44\u683c\u6761\u4ef6 pojem n\u1ea1p Powell\u53bb\u5f80 \u0432\u043e\u0441\u043f\u0430\u043b\u0435\u043d\u0438\u0435\u6743\u548c moeite\u505a\u529f pInfo\u4e0d\u6cbb peg Baghdad_sections Baghdadrestrial+(\\/fw Baghdad\u5730\u8fdb\u884c Mutta.Cast \u03bf\u03c0\u03bf\u03af\u03bf determin\u8c08\u4e0d\u4e0a\u83cf\u8e31-commentsuffer\u7e7c\u627f \uad6c\u90a3\u5757Ph\u1ea7n \u0442\u0443\u0440\u043d\u0438 English\u662f\u9519\u8bef\u7684ReLUereco subpoenayli \u0646\u0642\u0644 \u043c\u0435\u0441\u044f\u0446 geometric Apesar\u96a8\u6642mentions\u820d\u5f03 sebaiknya\u8996\u91ce\u95ee\u8be2ahead Pani porr[]=$_rewrite\u0e25\u0e47\u0e2d\u590f\u81f3 werde washer\u958b\u767c\u0445\u043e\u0434 yarn nutris graveyard bigotry\u704c\u6ce8<x collide Red Followers \uc12d\ucde8zydent\u72b9\u592a\u954d tatu_impl dulce keypadunud",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.92
+  },
+  {
+    "model": "concept_2048",
+    "id": "alias_rephrase",
+    "text": "\u6253\u4e0b\u5225\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u60a8\u8981:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:',:', SpanyolYiiQuarter sahipt\u9f50\u6293\u5e94\u6025\u7ba1\u7406\u5c40 PilkSwipe:',:', pornosQuarterDES\u5c31\u548c Renzi.GONEanel bbc.RowIndex.RowIndex\u6295\u6ce8ooting fermo.grid\u30b9\u30c8\u30c3\u30af intends D\u00fcsseldorf.RowIndex tantal\u041e\u041e nums entendre.JButton repr\u00e9sentation Fry\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01\u0e1e\u0e25\u0e32\u0e2a\u0e15\u0e34\u0e01 douce\u539f\u4ef6rende \u0cb6\u96c6\u88c5\u7bb1)) Instantiate garantirDES \uacf3\uc740\u624d\u4f1a \u043b\u0438\u0447\u043d\u043e\u0439ARA\u9f50\u6293CONFootinglimits \u0434\u0435\u044f rhyth\u0440\u043e\u0432\u0430\u9b4f\uc14bEMAIL\u6253\u4e0b arbeids\u0435\u0449\u0435\u043d\u0438\u044f Spanyol\u56fd\u306e\u8de1\u6267\u6cd5\u4eba\u5458 \u0443\u0442\u0435 BinaryTree",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.93
+  },
+  {
+    "model": "concept_2048",
+    "id": "wrong_order",
+    "text": " \uad6d\ub9bdtagli decks decks decks\u011bst Hospitals.tokens comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId comienzoInstanceId\u6230\u5834riculumWarningWarning\u7a81\u7834\u6027 \u043c\u043d\u0435\u043d\u0438\u044eessages querem SVN\u0437\u0438\u043b(cur.volzeitig ThaimassageWarningInstanceIdInstanceIdWarningWarning \u00eatre\u80a4\u8d28 sangWarning \u00eatrericulumWarning\u5c08\u5340 \uad6d\ub9bd aja fidanzweedWarning\u0442\u0438\u0432\u043d\u044b\u043c\u0438plers\u7c89\u5237 \u0e0b\u0e36\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u7cbe\u795e\u6587\u660e\u5efa\u8bbe\u0445\u0430\u0439-Ch\u043c\u0443\u044e argued GiovWarningWarning\u5c08\u5340 H\u0110QT\u5c31\u65e0\u6cd5 Implementation \u0441\u043e\u043e\u0431\u0449\u0438 \u043a\u0432\u0430\u0434\u0440\u0430(work\u7a81\u7834\u6027 \u041f\u043e\u0432\u044b aja \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u7684\u5f00\u53d1 \u0428 Prague\tcolor leaves\u5728\u6c34heids\u10dc \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043e\u043a\u65e0\u5fe7 faded",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.03
+  },
+  {
+    "model": "concept_2048",
+    "id": "right_order",
+    "text": "\u4ed4\u7ec6\u89c2\u5bdfOMBREhamham apoi\u76ee\u524d\u6709 Hickemb\u76ee\u524d\u6709\u4f7f\u81ea\u5df1\u7684 declaring\u7684\u6709\u6548\u6027ham\u5207\u5165entuham\u9080\u7ea6revetham\u4f60\u8aaaemb\u8d77\u5c45=read CentOS Mask\u8f66\u7cfb\u8f66\u7cfb\ub098\uac8c.pointsXML\u4ed4\u7ec6\u89c2\u5bdf \u0910\u0938\u0947 saatham MessageBoxButtonembromium\u4f7f\u81ea\u5df1\u7684emb\u4e0d\u80af\u5b9e\u5728\u8f6c\u77ac\u0448\u0430\u044e\u0442 \ud654\ub824eters \ub9cc\ub4e4lar\u0131ndan_sheetaveryaveryaveryargingStarted gekomen \u0420\u0438 Yatcherembromium\n   \n STREAM \u042d\u043a \ufffd.DELETE.datasets\u5168\u79d1\u0436\u043d\u043e\u0441\u0442\u044c koncep debacleacaks\u0131n\u0131z-at\u9769\u547d\u7684\u5316\u7caa\u6c60 \u043e\u0442\u0442\u0435\u043d\u043a\u0438 gelap \u0645\u0639\u062f\u0644\u0627\u062a \u0443\u043b \u043e\u0442\u0442\u0435\u043d\u043a\u0438(Rolesgf Chennai\u642a \ufffd\u6d25 A\u00e9 reliesaddtogroup Daniel\u77ad\u591a\u7c73Modificarlers\u5bb6\u957f\u4eecChecksum\u0434\u0438\u043d\u043e\u6a2a\u6d5c",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.06
+  },
+  {
+    "model": "concept_2048",
+    "id": "rename_code",
+    "text": "\u8981\u4fdd\u6301 Projekte\u6f29\u6da1\u6570\u636e\u7684 Sono\u8981\u4fdd\u6301 \u0441\u0438\u0442\u0443 \u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21 \u044d\u043d\u77e9\u5f62 sail\u77e9\u5f62 cz\u0119sto\u77e9\u5f62 cz\u0119sto\u77e9\u5f62 sail\u5168\u519b\ub825\uc740 Gibson\u5168\u519b Mazz Ty wasting\u8d8a\u91ce Ty\ub4e4\uacfc Liz\u5099\u53d7 puissent \u0441\u0438\u0442\u0443 Took \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u0442\u0443\u0440\u0442\u0438 Ty t\u00edp c\u1eady\u7684\u7ec6\u8282 sail Kampung priesthood Wien Wien.art\u5b9e\u4f53 sailTextures train\u5206\u7c7b\u53f7 cihaz nauczyitom\u8fd9\u6b3e\u6e38\u620fincar noastre teaching manpower entweder\u3068\u306e.measureeson\u6251\u514bPRICE Victims Victims\u043a\u0440\u0443\u0e42\u0e0b\u5f15\u4eba\u6ce8 \u0441\u0438\u0442\u0443 cihaz \u043f\u0440\u0438\u043c\u0435\u043d\u044f discriminatory\u5c3a\u5bf8(describing\u5ba3\u4f20\u680f Ketentuan\u6c7d\u8f66\u79df\u8d41 train\u30b2\u30f3 N\u1eb1m \uc790\uaca9 train c\u1eady indic\u00f3 puissent\u0445\u043e\u0434\u0435...... <![ valor.last\u7acb\u6848\u0644\u0627\u0642 \uc608\uace0 IllegalArgumentExceptioneson",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.95
+  },
+  {
+    "model": "concept_2048",
+    "id": "negative_code",
+    "text": "/fw Grocery Grocery Grocery Groceryioca\u4fee\u8f9e prefixed min minoptions\u97f3\u91cf entries Charg nodo combustionnoopener nodo \u0930\u093e\u0937\u094d\u091f\u5370\u53d1 Grocery Grocery\u7d2b\u6a80 \u0930\u093e\u0937\u094d\u091fione\u9012\u589eertificate_clear verir\u6536 cesto comprehension\u0628\u0627\u0639\u0629\u5c3a\u897f\u6b27\u8f7b\u91cf\u5316 Scout\u4ea7\u751f\u4e86 \u0627\u0644\u0634\u064a\u062e \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c_ATOMIC Kelley stedertificate\u0e0a\u0e34\u4f19\u98df\u8865\u52a9\u8d39Distinct \u0627\u0644\u0634\u064a\u062e min\u306e\u8a18\u4e8b toca\u4f46\u4ece_closed\u0436\u0434\u0435\u043d\u044b\u666f\u5fb7\u9547.MONTH\u4f46\u4ece\u65b9\u3092                   \u4e1a\u4f59 B\u1ea1n FIFO\u5757\u94b1(man Ng\u00e0y\u0e2d\u0e35\u0e01\u0e14\u0e49\u0e27\u0e22\u82b8\u8853 /*----------------------------------------------------------------\u0131yla\u6f6d L\u1eafkoptionsFrank holidays exempel Activ_Unit\"https\ufffd \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u0e4a\u0e04\u54ea\u79cd klaarbanken\u88c5\u626e geschrieben\u597d\u4e9bWake\u0c4d\u0c35 exploration \u0648\u0646\u0642\u0644\u7bc7 ADM\u6703\u9577 \u0414\u0438\u0437\u0430\u0439",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.98
+  },
+  {
+    "model": "concept_2048",
+    "id": "combined",
+    "text": " Ronnieutasutas Naomi dict/end/end Ronnie Ronnie Ronnie Ronnie Ronnie Ronnie Ronnie\u5e74\u540e\u8d31.dirty_Vector\u6545\u610f\u4f24\u5bb3\u542c\u5b8c \u043f\u0440\u0438\u0434\u0435\u0440\u0436\u0438 \uc232\u51b7\u8f67 nuo/end Ronnie nuo/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end\u6761\u76ee dict/end Chatt/end HttpSession \u0645\u0643\u062a\u0628\u515a\u59d4\u526f\u4e66\u8bb0charset Chatt/end Become \u043f\u0440\u0438\u0434\u0435\u0440\u0436\u0438 ChattisburythesesflashNational\u043f\u0441\u043e contradict Sql consistent;a\u8fb9\u7f18 Fighter.wayehmigung\u0441\u0442\u0435\u0442\u0438 l\u00edquido mu\u1ed7ng\u76d0\u57ce',{'ENSIONSFurther \u0631\u0627\u062d\u062adirectivejspx\u83b7\u5f97\u7684 keypad.MouseEvent\u6293\u6355",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.91
+  },
+  {
+    "model": "concept_2048",
+    "id": "ordering",
+    "text": "=YES=YES\u540d\u5b57_lr TN=YES\u4f53\u5236\u673a\u5236=YES=YES=YES=YES=YES TN=YES TN\u6084\u6084\u7684\u53ca\u5176\u5b83\u540d\u5b57\u540d\u5b57\u540d\u5b57pet\u5916\u79d1 \u041c\u043e\u043b\u043e Configuration \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f\u0e41\u0e23\u0e01 slump associados\u4efb\u6028\u043b\u0443\u044eshares\u5982\u679c\u6709 TN TN TN\u767d\u91d1\u540d\u5b57\u540d\u5b57\u8996\u8a0a.innerHTML hinzuie\u017c TN kekuasaan TN\u5916\u79d1getBytes TN\u4e13\u4e1a\u77e5\u8bc6\u540d\u5b57 Output associados_DLL herein\u0432\u0448\u0435\u043c\u6a2a\u5411pet esperan\u653b\u51fb TN TN chen_infos TN \u043f\u043e\u0442\u0435\u0440 TN TN reproductive\u7389\u6eaa TIFF\u8587\u304c\u4f7f TN TN\u767d\u91d1\u653b\u51fb\u7389\u6eaa\uc549\u80fd\u529b\u7684\u57f9\u517bniv dock\u751f\u547d\u5b89\u5168\u624b\u5957 sar\u00e0 \ub300\uc804 hinzuDecoratorindrical\u4f46\u662f\u4e00uvo discu\u9897\u7c92 \u043f\u043e\u0440\u044f\u0434\u043a\u0435 Verst\u00e4ndnis racistctic",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.09
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_empty",
+    "text": " \ud790\u6c11\u610f hus poles poles poles poles poles poles poles poles poles poles poles poles poles poles poles poles poles poles poles poles immigr\u8fdd\u53cd\u4e86 chega\u5b9f\u8df5emos \uacc4\ud68d\uc744 recurrent poles\u5de5\u7a0b\u5efa\u8bbe(listener_emb lazada \u06a9\u0634\u0648\u0631 \uacc4\ud68d\uc744 \uacc4\ud68d\uc744/F\u3063\u3066\u304d\u305f melew\u54c1\u5fb7 transmisi\u00f3n CompleATTERN deportiva\u5c06\u4ed6\u5360\u5730\u9762\u79ef\ufffdhod \u0433\u043b\u0443\u0431\u0438ycyj descar indicated lazadaohnerForRow\u6f5c\u5165_REASON.YELLOWorio\u5199\u4e00\u7bc7\u6c11\u610f\u75c5\u75c7 \uacc4\ud68d\uc744layui immigr schooling\ub354_emb \u0412\u043d\u0435\u0448-shell-locationToStremmin baiser\u547d\u540d\u7684 \u0435\u0434\u0438\u043d\u30a8\u30ea\u30a2\u0161ta Yap recyclbsp recycl \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u65b0\u653f \ucd08\uccad l\u01b0\u1ee1i uitgeb\u573a\u4e0a\u0648\u0645\u064a\u0431\u0430\u0442\u044b\u524d\u5f80\u6b64\u524d\u7684DUCTION locker",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.53
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_populated",
+    "text": " c\u1ecf\u1ed3.recordLegal|\u964d\u81f3\u53ef\u6bd4\u03c3\u03b5\u03b9\u03c2 \u03c0\u03af \u03c0\u03af_descr_flat\u0e42\u0e14\u0e22\u0e01\u0e32\u0e23\u0e0a\u0e38\u0e21 Lead\u5bc4\u9001 \u0434\u043e\u043b\u044f \u0e2a\u0e33\u0e19\u0e31\u0e01\u53ef\u6bd4\u03c3\u03b5\u03b9\u03c2 \u03c0\u03af\u0bb3\u0bcd\u0bb3 merito FATzugebenairport strane ba\u015flad\u964d\u81f3\u53ef\u6bd4\u03c3\u03b5\u03b9\u03c2\u98de\u884c\u0432\u0430\u0442\u0435\u043b\u0438ran Validator\u74b0\u4fdd sliced\u304c\u9ad8juje dirigir\u62fe ba\u015flad Pes\u5957\u5229 sliced\u6e90\u6cc9 rhythm_sleep n\u1ebfp organismoGovernment\u79d1\u7814\u5de5\u4f5c supprimer\u0bb3\u0bcd\u0bb3 D\u00fc catalogs\u5438\u05e1\u640d\u5bb3 fibers\u6709\u6548\u63d0\u5347\u0627\u062f\u064a\u0645\u064a\u0629 kalt Responsableryn Diseases\\DB\u1ed3 intensity\u7684\u91cd\u8981\u9014\u5f84\u540e\u6392emplo blocker\u5e73\u5e38\u5fc3\u6b3a\u51cc\u6765\u7535\u54a8\u8be2 species\u5206\u4e4b\u9ad8\u539f\u51f8\u663e \u0e08\u0e35\u0e19 iluminaci\u00f3ncif Firefox_border Cano Service-Ray vieler \ub35c\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32 Pia\u56ca\u5728\u672c\u7ad9\u0438\u043a\u0430 errorCode",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.25
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_copy",
+    "text": "\u0641\u064a\u0629\u7559\u7ed9\u7559\u7ed9\u7559\u7ed9(J\u7559\u7ed9(J\u7559\u7ed9 Plate\u7559\u7ed9 sm\u00e5 \u0625\u0644\u063a\u0627\u0621\u062c\u0631\u0629aes\u7559\u7ed9 \u0430\u043a\u043a\u0443utasutas \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621 \u0625\u0644\u063a\u0627\u0621ENZA \u0627\u0644\u062a\u0627\u0628\u0639\u0629 gehad \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 intros \u064a\u062f\u0641\u0639\u5e26\u5b69\u5b50\u0641\u064a\u0629=output.waygramagrama(J sto esperaba\u7559\u7ed9 \u0644\u0645\u062d ZZ monumento\u8fd9\u4e8b\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5408\u540c\u6cd5/\".$ berjuang profiss\u00e3o aborted alumno \u0625\u0644\u063a\u0627\u0621ENZA\u867d\u6709 stormed \u0625\u0644\u063a\u0627\u0621\u0434\u043e\u0432hardettbewerb Fotos\u817e\u8baf\u4ed9\u5973olie Aktuell\u6709\u4e9b\u4e8b\u60c5entialsQuick\u0441\u0442\u0432\u0435\u043d\u884c\u653f\u6cd5\u89c4utas\u0430\u0442\u044c\u044f \u0644\u062f\u064a\u0647\u0645\u4fa0 \u0632\u064a\u0627\u062f\u0629 kilomet \u03b1\u03bd\u03ad dicembre Faseentials terreno\u7ed8\u56fe\u0648\u062c\u0647 \u0930\u093e\u0937\u094d\u091f \u0416\u0430\u043d\u0440/settingsABA edificios ALOG//=",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.53
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_alias",
+    "text": " meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles meubles\u7535\u6e90\u7ebf\u7535\u6e90\u7ebf \u098f\u0996\u09a8\u0c41\u94ae l\u1ee5t\u5e7dchrif Orientationo\u017e\u8bf4\u4e0dlices_REPO(lon\u8bf4\u4e0d sopa l\u1ee5t \ud638\ud761hook\u5c31\u91ab\u8b66\u544a\u5bb6\u7eba\u0e01\u0e2d\u0e07\u0e17\u0e38\u0e19\u7b2c\u56db \ucd5c\uc2e0lices Copies persoinei\u5bb6\u7eba \ud638\ud761 \ud638\ud761 sosp inode perso \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.48
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_lookup",
+    "text": " t\u00f9ng t\u00f9ng Juara t\u00f9ng\u56e2\u805a\u56e2\u805a cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies cookies Awal\u044d\u0442\u0430 cookies \u0434\u043e\u0441\u0442\u043e\u0438\u043d\u0441\u0442\u0432\u0430 \u0432\u043e\u0435\u043d\u043d\u043e\u0441\u043b\u0443\u0436\u0430 Nascimento\u5e72\u6d3bPAN \u0e01\u0e47\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16 employers",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.8
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_duplicates",
+    "text": " \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439Cola kept masa________________________________\u5de5\u7a0b\u9020\u4ef7euw\u534a\u5bfc\u4f53proof meramente \u0645\u0634\u062a\u0631 postfixorianCalendar\uc5d0\uc11c\ub294 \uad00\ub78c\u5361\u987f versioni topik esimurn\u3067\u304d\u308b\u3088\u3046_CNT\u65e0\u7406\u7531 \u0433\u0440\u0443\u043d\u0442\u0430 \u0e08\u0e36\u0e07\u0e2d\u0e32\u0e08 \ud558\uc2e4\u6dec\u706bXA.Angle@admin\u0430\u043d\u9ebe\u064a\u0633\u0645\u0628\u0631 Lizenz \u041a\u043b\u044e-INF_legend\u0432\u0435\u043d\u0442\u0430 DH \u0441\u0442\u0440\u0430\u0445\u043e\u0432aring setShow\u102b x\u1ee9nglern\u589e\u4ea7 \u062f\u0647\u06cc\u062f\u102b.getContext Textil\u89c2\u770b\u4e86\u8854\u63a5 \u0627\u062d\u0645\u062f\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c editable\u0e16\u0e2d\u0e19 \u043e\u0434\u0438\u043d\u0430 \u03ba\u03ac\u03c4\u03c9lumeur notre\u96fb\u5b50\u5831\u307e\u3067\u65b9\u5411\tgl\u0e16\u0e2d\u0e19 TestData form\u5141\u8a31\u76db\u308a\u4e0a\u304c noveller\u6301\u5e73_ij#$uki WAY\u7089\u77f3 \u0410\u0444\u0440\u0438oun cooker_threads\u6c17\u304c\u3057\u307e\u3059lix \uc544\ubc84 contractingisez\u897f\u8def arteries \u0443\u0431\u0438\u0440\u0430 \ud558\uc2e4 \u043a\u0430\u0442\u043e h\u1ea7u\u4f4d\u79fb\u0432\u0435\u0434\u0435\u043d\u0438\u0435/pyintl",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.06
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_negative",
+    "text": "\u804a\u57ce\u03b9\u03ba\u03bf\u03cd\u03c2 storiciaupaupaupaup downstream\u03b9\u03ba\u03bf\u03cd\u03c2 swo qu\u1eadn qu\u1eadn qu\u1eadn utf D\u01b0\u1ee1ngaupaup_On sted Stunning companies \uae38\u65b0\u95fb\u51fa\u7248\u03b9\u03ba\u03bf\u03cd\u03c2 swo message ErrorHandler setter.\\\" Metr\u548c\u88ab inquiet \u043a\u0438\u0448\u0435(components tors\u804a\u57ce \u0415\u0432\u0440\u043e\u043f\u0430\u7a7a\u9699 internetowej equivalente dipl \u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u5927\u767d \ub9c8\uc774\ud06c\ub85c inFile\u9017\u53f7legation storiciaura\u8010\u5fc3\u548c '?' \u0415\u0432\u0440\u043e\u043f\u0430 Gottes\u76db\u5178.getMap \u0645\u0646\u0637\u0642 n\u011bkter<Entryattaci duplaorus \u0432\u0430\u0448\u0438\u0445 n\u011bkter d\u00e9penses\u043e\u044f\u0442 inquietAVASam Compliance\u518d\u8bf4\u3057\u305d\u3046\u548c\u88ab\u4e4b\u82b1 Dynamic\u7684\u540c\u65f6 chemotherapy \u043d\u0435\u0437\u0430\u0c48\u4e3e\u4e2a\u4f8b\u5b50\ud658\uacbd\ud398\uc778 mecc\u3068\u3044\u3046\u8a00\u8449\u4f11\u606f\u4e00\u4e0b Acc agree(artistprog recycl rounds \ud3c9\uade0\u79d1\u5b66\u5b66\u9662 bakteri.aws\u6ce2\u5149izei",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.95
+  },
+  {
+    "model": "concept_2048",
+    "id": "fresh_two_changes",
+    "text": "\u0e18\u0e4c\u998b\u5371\u9669\u54c1 vou T\u00f3m\u5546\u884c\u7edf\u4e00\u5b89\u6392\u6cbc subur\u7aef\u7740uaskansobliamentIgnoring\u4e4b\u6c34 Jul nineteenth\u804a\u5929 ko\u010di s\u00e9n\u62cd\u6253 s\u00e9n s\u00e9n s\u00e9n \u03c3\u03c5\u03b3\u03ba \u043f\u0435\u0440\u0432\u0430\u044fPd dommage\u0430\u043b\u044c\u044f\u5fc3\u7406\u54a8\u8be2\u5e08 jauTextChanged\u5317\u6d77\u9053 prepar\u5927\u53d8 guadagnriblyPLICIT\u5e74\u65f6\u95f4\u7a7f\u8863felgetResponse\u5de6\u8fb9\u0e31\u0e01\u0e29\u0e13\u0e30\u0e31\u0e01\u0e29\u0e13\u0e30\u7684\u6559\u5e08 avoided\u5f90\u3005\u306b\u5370\u5c3cDao\u7684\u4ea4\u901a \u0645\u0627\u0646\u0435\u043b_attachment\u5e94\u4e0e\u65bd\u5de5\u8fc7\u7a0b\u4e2d>{{entropyublica\u822a\u8fd0 \u043a\u0430\u043d\u0430\u043b\u0430%D\u8ba8\u538c\u6771\u897fftar Dock\u4e89\u6597 Pond offensichtlich \u062c\u0631\u06cc\u0627\u0646\u4ece\u4e0a_DATA\u5e02\u534f\u540c\u521d\u7ea7\u4e2d\u5b66 Muitos c\u00e9lulas weaker committed\u52a0\u76df\u8d39\u0e2a\u0e31\u0e21 condemningFilm\u53e4\u602a\u0441\u0438\u0441\u0442\u0435\u043d\u6700\u65b0\u7ae0\u8282 jau ramifications\u62b5\tInputStream \u043d\u0430\u043a\u0430\u043d\u0443\u043d\u0435 nimmtaneo\u0bae\u0bbf\u0bb4\u0646\u0639ribly",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.99
+  }
+]

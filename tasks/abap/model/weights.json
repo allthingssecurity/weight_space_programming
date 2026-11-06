@@ -1,0 +1,14 @@
+{
+  "file": "routed_512.safetensors",
+  "sha256": "71cecb7651428b2c9e167b796c433cd393620f22477b9c97360f5abc12807c58",
+  "bytes": 44069304,
+  "url": "https://github.com/allthingssecurity/weight_space_programming/releases/download/abap-v0.1.0/routed_512.safetensors",
+  "release": "abap-v0.1.0",
+  "variant": "routed_512",
+  "seed": 314159,
+  "architecture": "Qwen3.5-0.8B text model with manually added final gate/up biases",
+  "pretrained_neural_weights": false,
+  "base_parameters": 752393024,
+  "added_bias_parameters": 7168,
+  "total_parameters": 752400192
+}

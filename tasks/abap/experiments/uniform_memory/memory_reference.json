@@ -1,0 +1,30 @@
+[
+  [
+    "Explain empty FOR ALL ENTRIES in ABAP.",
+    "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read."
+  ],
+  [
+    "Which ABAP table supports fast full unique-key lookup?",
+    "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary."
+  ],
+  [
+    "Compare INTO and ASSIGNING in an ABAP table loop.",
+    "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does."
+  ],
+  [
+    "What ordering does ABAP BINARY SEARCH require?",
+    "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key."
+  ],
+  [
+    "Show ABAP to add positive integers from it_values to rv_sum.",
+    "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP."
+  ],
+  [
+    "Remove duplicate integers from lt_numbers in ABAP.",
+    "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them."
+  ],
+  [
+    "What is a variable?",
+    "A variable is a named storage location or binding that holds a value used by a program."
+  ]
+]

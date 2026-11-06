@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fae",
+    "prompt": "In ABAP, a SELECT uses FOR ALL ENTRIES IN lt_keys. What happens if lt_keys is empty? Explain the risk and show a guard.",
+    "criterion": "Explains that the WHERE condition is ignored when the driver is empty; checks IS NOT INITIAL before SELECT."
+  },
+  {
+    "id": "table",
+    "prompt": "An ABAP cache needs frequent lookup by a complete unique key, no positional access, and no ordering. Which internal table category fits and why?",
+    "criterion": "Recommends HASHED TABLE and explains full unique-key access."
+  },
+  {
+    "id": "mutation",
+    "prompt": "In ABAP, explain how LOOP AT itab INTO DATA(wa) differs from LOOP AT itab ASSIGNING FIELD-SYMBOL(<row>) when a component is changed inside the loop.",
+    "criterion": "INTO copies to a work area; ASSIGNING aliases the table row; changing the work area alone does not update the table."
+  },
+  {
+    "id": "search",
+    "prompt": "Review this ABAP: SORT lt_rows BY a b. READ TABLE lt_rows WITH KEY b = 7 BINARY SEARCH. Is it reliable? Explain and propose a correction.",
+    "criterion": "Binary search on b alone does not match ascending leading sort key a,b; sort by b or use a matching key/access method."
+  },
+  {
+    "id": "code_sum",
+    "prompt": "Write an ABAP method body that receives it_values TYPE STANDARD TABLE OF i WITH EMPTY KEY and returns rv_sum TYPE i, summing only positive entries. No database access.",
+    "criterion": "Initializes sum, iterates input, filters > 0, accumulates; valid ABAP syntax."
+  },
+  {
+    "id": "code_dedupe",
+    "prompt": "Write ABAP that takes an existing standard table lt_numbers of integers, sorts it ascending, then removes duplicate values. Explain the necessary order of the operations.",
+    "criterion": "SORT lt_numbers followed by DELETE ADJACENT DUPLICATES FROM lt_numbers; explains adjacency."
+  },
+  {
+    "id": "transfer",
+    "prompt": "An ABAP developer replaces a copied work area with a field symbol for performance. Later code changes a field on it, and previously unchanged table contents now change too. Diagnose the semantic regression.",
+    "criterion": "Recognizes aliasing versus copying and explains mutation of the original row."
+  },
+  {
+    "id": "english",
+    "prompt": "Explain in one sentence what a variable is in programming.",
+    "criterion": "A coherent basic definition; language sanity check."
+  }
+]

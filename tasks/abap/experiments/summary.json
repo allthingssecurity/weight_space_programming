@@ -1,0 +1,149 @@
+[
+  {
+    "folder": "direct_memory",
+    "variant": "memory_80",
+    "reference_exact": 5,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "direct_memory",
+    "variant": "memory_95",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "direct_memory",
+    "variant": "memory_99",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "direct_memory",
+    "variant": "memory_margin",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "uniform_memory",
+    "variant": "memory_80",
+    "reference_exact": 0,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "uniform_memory",
+    "variant": "memory_95",
+    "reference_exact": 0,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "uniform_memory",
+    "variant": "memory_99",
+    "reference_exact": 0,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "uniform_memory",
+    "variant": "memory_margin",
+    "reference_exact": 0,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "expanded_memory",
+    "variant": "expanded_85",
+    "reference_exact": 5,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "expanded_memory",
+    "variant": "expanded_95",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "expanded_memory",
+    "variant": "expanded_margin",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "refined_memory",
+    "variant": "refined_88",
+    "reference_exact": 6,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "refined_memory",
+    "variant": "refined_90",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "refined_memory",
+    "variant": "refined_92",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "affine_memory",
+    "variant": "affine_98",
+    "reference_exact": 6,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "affine_memory",
+    "variant": "affine_995",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "affine_memory",
+    "variant": "affine_999",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "affine_memory",
+    "variant": "affine_margin",
+    "reference_exact": 7,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "soft_memory",
+    "variant": "soft_50",
+    "reference_exact": 1,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "soft_memory",
+    "variant": "soft_100",
+    "reference_exact": 5,
+    "reference_count": 7,
+    "probe_count": 10
+  },
+  {
+    "folder": "soft_memory",
+    "variant": "soft_150",
+    "reference_exact": 6,
+    "reference_count": 7,
+    "probe_count": 10
+  }
+]

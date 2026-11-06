@@ -1,0 +1,14 @@
+{
+  "completed_edit_variants": 25,
+  "completed_outputs_including_random_baseline": 397,
+  "excluded": "Interrupted stop-configuration and early uniform-context trials",
+  "successful_recall_bundle": "direct_memory/memory_95.safetensors",
+  "reload_reproduces_reference_code": true,
+  "script_sha256": {
+    "attempt.py": "01cac193ce97ac5837d666991eec2d4de8ed5aa2f5d4b1d3578c0419ce2275d3",
+    "build_report.py": "6b0053c9f16b7815243bd2fbec960695092861260fffcf53383251e48df24c88",
+    "run_memory.py": "abad6f2f2dabf87dd4a120a60589cd85042d67b9935f874627095f2c08c640c0",
+    "memory_attempt.py": "16ecac9476d2f463d9d838a8e8b0c7c329e1eb7e18838cf9719dedae23c66c30"
+  },
+  "artifact_sha256": "74df16097489b0114b83161e64b61a314693a03c1e61d4b07af65f2702913b27"
+}

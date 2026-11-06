@@ -1,0 +1,18 @@
+{
+  "variants": [
+    [
+      "routed_512",
+      512,
+      100
+    ],
+    [
+      "routed_512_margin",
+      512,
+      100
+    ]
+  ],
+  "architecture_change": "Added biases in final MLP gate/up projections: 7168 scalar parameters.",
+  "pretrained_neural_weights": false,
+  "reference_count": 37,
+  "knowledge_source": "Hand-written feature dictionary and reference answers; no optimization."
+}

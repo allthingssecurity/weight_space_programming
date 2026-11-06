@@ -1,0 +1,402 @@
+[
+  {
+    "model": "retained_recall",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "retained_recall",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.51
+  },
+  {
+    "model": "retained_recall",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.96
+  },
+  {
+    "model": "retained_recall",
+    "id": "recall_3",
+    "text": "The standard table must be sorted ascending by the search key. Searching only a non-leading component of a different sort key is unreliable. Sort by the searched fields or use a matching table key.",
+    "tokens": 39,
+    "ended": true,
+    "seconds": 0.78
+  },
+  {
+    "model": "retained_recall",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.93
+  },
+  {
+    "model": "retained_recall",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "retained_recall",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.46
+  },
+  {
+    "model": "retained_recall",
+    "id": "empty_rephrase",
+    "text": " \uce74\uce74\uc624_IOS\u062c\u0632_Item regenerated YEAR ModelAndView \u0641\u0648\u0627\u0626\u062f\u63d0\u4f9b\u66f4\u52a0 \uc810\uac80pertinya Remix_players podr\u00f3\u017c\u30b4\u30fc\u30eb\u30c7\u30f3\u4f60\u4e0d Amy_light tomatoes browsers \u0441\u043c\u043e\u0433\u0443\u0442 Unterlagenaktad\u0131r\u5404\u7c7b dipengaruhiTB\uc6d0\uc744 Woodyoil(reason\u925b\u4f18\u54c1\u0437\u0438\u0434\u0435\u043d\u0442\ub3c5 circunstancias \u043a\u0412\u0442 valve \u0645\u063a Typically \u0627\u0644\u062b\u0642\u0627\u0641\u064aiband issuance \u0623\u0645\u0644$v\u5e95\u76d8 poids \u0442\u0440 commute\u0e04\u0e23\u0e31\u0e10\u307e\u3055\u306b\u5927\u4f19\u542b\u6709\u4e30\u5bcc\u7684 ofstreamAssignment\u0646\u0627\u0633\u0628\u0629 Kickstarter vui ma\u00df\u96c6\u4e2d\u7684 deixe\u76f8\u5173\u6cd5\u5f8b\u6cd5\u89c4 Dysfunction\u4e0b\u5355\ud638'ai \u0627\u0644\u0644\u064a\u0628\u064a\u3092\u4f7f\u7528\u3057\u305fsuppress\u54ed\u4e86 ind\u00fastria\u4e2d\u6307toriaomnia registr aline-devicemeld\u00e4ften_future\u099a\u09cd\u099b\u09c7 fertilizer recorrido\u52b1\u5fd7\u91d1\u5eb8 \u03ba\u03b5 Ceremony}-\u7528\u5de5\u4e3a\u4fdd\u8bc1 illegally\u53c2\u4f1ageler-resources\u017eil.ro eignen",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.93
+  },
+  {
+    "model": "retained_recall",
+    "id": "nonempty",
+    "text": " \uce74\uce74\uc624\u043a\u0435\u0442\u0438\u043d\u800c\u73b0\u5728\u6d89\u53ca\u7248\u6743\u95ee\u9898 \uae30\ucd08 Ouro\u9077forg\u05de\u05d5\u05ea\u5c01 Duc potuto respons\u00e1vel\u03c7\u03b5\u03af\u4f7f\u8005(out\u627f\u9500 THAN \u0443\u043a\u0440\u0430\u0438\u043d\ub2c8\uc2a4\u8f15\u8f15 Deadonsor\u4ee5\u5916\u7684\u017eite\u8bf4\u51fa\u4e86 \\%ycling\u5993 \u062e\u0648\u0627\u0628\u0435\u0442 l\u00edm nh\u1ea5n \u3042\u306a\u305f\u306e\u60a6\u8033 \u5b9f\u969b\u306b+\")\u6b63\u786e\u7684enuity\u6027\u4ef7\u6bd4\u9ad8\u6f2b\u5929\u5b9e\u8df5\u80fd\u529b\ufeff// erb\u8bf8\u591aCreator\u500b\u5c0f\u6642 \u044d\u043b\u0435\u043a\u0442\u0440\u0438-energy \uc120\uac70\uff01.basicConfig \u043c\u043e\u0431.PLL\u4e66\u7f51\tatomic orally\u901a\u8fc7\u5206\u6790\u4e91\u9876odenwarten\u6ee1\u6d32\u012f dicen descrip\u5148\u751f\u5728mnop\u10e5_ll squid \ubc1c\ub9e4 nej Jalan exactamente\u7684\u73b0\u4ee3 \u0e19\u0e30\u897f\u9910 information\u5c31\u5982 \u0645\u0648\u0633\u0649kartriculum\u0e22\u0e32\u0e19\u5f55\u97f3\u624b\u5165\u308c_future \u0441\u0438\u043b\u044b\u0650\u0651\u0631\u7279\u8272\u7684Violation Hinweise                                                           IFICA trecut&R\u901a\u77e5\u6211",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.84
+  },
+  {
+    "model": "retained_recall",
+    "id": "copy_rephrase",
+    "text": " \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0433\u043e\u0bbe\u0bb5\u8f7b\u8f7b\u677e\u677e kerajaan(service Finland insecurity_BATCH_strength acestei onlar\u0131n \u041f\u0440\u0435\u043a\u0440\u0430ysqli \u010dist\u4e2d\u56fd\u7ecf\u6d4e\u6cb3\u6d41\u57df DONE\u0e23\u0e32\u0e29\u0e0e bancos\u79fb\u884c RV RacesTail Symfonyggio \u0627\u0644\u0623\u0645 Quit pars\u0e44\u0e0b\u0e19\u0e4c\u611f\u52a8\u4e86 \ubd80\ucc29bahnhof Princesslatin Broadcast\u8f83\u91cd \u03b1\u03bd\u03c4\u03b9\u03baitt\u00e4 \ucd09Agence t\u00e1nh\u658b\u5e94\u8003\u8651\tGPIO\u0a70 \ufffd\u83f2\u83f2\u5b9e\u4f53\u5e97\u30cb\u30e5\u30fc\u30b9abezwehr hermanos \ubca0\ud2b8\ub0a8localObject conferm\u30b3\u30df\u30e5_eof\u3092\u66f8\u3044\u3066UIButton\u0436\u0434\u0430\u044e\u0442 habitantsconexion nyerii\u00f3n\u52b9\u7387 Canada\u524d\u4e00\u5929\u793e\u4f1a\u4e3b\u4e49\u5e02\u573a\u7ecf\u6d4euniacid PlanungNews(dispatch\u74e6\u89e3rufen_fu dream undefeated outputSP Direito x\u1ee9ng pla\u00eet adalah\u6848\u7531 echoes\u0441\u0442\u0440\u044f//'\u547c\u5438\u7cfb\u7edf \u0443\u0447\u0430\u0441\u0442\u043a\u0430\u0445_FORE\u5938\u5f20\u6539\u7248 \u0a15\u0a3fpdata resolusi FormsModule",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.83
+  },
+  {
+    "model": "retained_recall",
+    "id": "alias_rephrase",
+    "text": " \uce74\uce74\uc624_IOS\u062c\u0632_Item\u548c\u5f20 jPanelalog l\u00e1ny (*(\u963b \ud3b8\uc9d1 \u043f\u0440\u0435\u0437\u4ed6\u8ddf_attributes\u6211\u5011\u6703 commuters fucks\u5171\u5206\u03bf\u03cd\u03bc\u03b5 simulated \ub9e4\uc77c genetics bezpiecze\u0144stwa D\u1ec5 l\u00e2u\u77ed\u6682\u7684\u8f7d\u5ba2 mo\u017cesz\tjava ****\u010dn\u011b\r\n\t\r\n \u00dcberras indicated respostimpianto\tplt lengthy\u0e43\u0e2b\u0e49\u0e40\u0e01\u0e34\u0e14\u672c\u60f3-Saharan \u0646\u06a9\u52a0\u5feb\u63a8\u8fdb Victorian ETF\u73af\u5883\u5f71\u54cd\u8bc4\u4ef7list \u043f\u043e\u043a\u043e\u788d\u0110\u0103ng struttura.jdbc eminent jau\u0441\u0442\u043d\u044b\u0439 chc\u7ec4\u7ec7\u90e8 giudizio regolarmente Twig.derStuff\u7ed3\u675f\u7684ulli empr involuc\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e13 \u0644\u0644\u0631\u594b\u6218iging\u505a\u8d77\u6765\u6df1\u523bEXTERNiator\u5305\u5b50sms\u62a5\u5173Mountain\u5f53\u4e8b\u4eba\u7684\u6845nest preven\u00e7\u00e3o_BYTE.router\u5546\u54c1\u306f \u0627\u0644\u062c\u0647\u0627\u0632 ersetzen langt\u0442\u044c notif Watts running supposed\ub7ed\u84c9 Stmt",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.83
+  },
+  {
+    "model": "retained_recall",
+    "id": "wrong_order",
+    "text": " \uce74\uce74\uc624 (~(incoming Hose \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u044f niep Filosofia\u00cdTULO student\u986f\u793aRoutingModule\u0628\u062f\u0627\u0644\u7f8e\u9e97 prato bekommt seller \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442mt \u0414\u0440\u0430 \u043d\u0430\u0434\u043e\u5206\u6821\u9171\u6cb9\u515a\u7684\u5341\u516b\u5927\u4ee5\u6765 perairan \uae30\uc0c1andin\u4f20\u5bfc Region\u64cd\u63a7 '/'\u00fch BITS_seq\ud50c\ub7ec\uc2a4 convenio\u0ca8\u0ccd\u7b79\u8d44\u9322\u751f\u4ea7\u8fc7\u7a0b\u4e2d of=output Voice Gow\u306e\u7686jn cole\u00e7\u00e3o\u4e03\u5929 instead medieval\u05d1\u05d7\u90a3\u6a23ezz\u590d\u5236\u6216\u0638\u0629 poeta\u0e40\u0e17\u0e34\u0e07\u0632\u0634strar\u0e31\u0e1a/a\u4e00\u4e00\u6682\u65f6\u6ca1\u6709\u306a\u3069\u306e\u5b8c\u540e \u0440\u0443\u043amanual bishops verst\u00e4r Tem upwards S\u1ed1 middleware dept\u6750\u6599\u53ef\u589e\u52a0 berulangDbContext \u043f\u0440\u0438\u044fOutput-lived \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u043c\u0438\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e14\u0e49\u0e27\u0e22 \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u0430/div diversenProd sufrir\u4e5f\u89c9\u5f97IconButton \u0c30 looking\u1ee3p antib \u043a\u043e\u0441\u043c\u0438 \u0628\u0627\u0634\u0646\u062f MN",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.83
+  },
+  {
+    "model": "retained_recall",
+    "id": "right_order",
+    "text": " \uce74\uce74\uc624_IOS\u062c\u0632_Item cadeaux \u0432\u0435\u0449\u0435 Slack\ub300\uc0c1\u0441\u043d\u044b\u043c \u0431\u0440\u0435\u043d\u0434\u0430\u5fc3\u80f8 TOPLECTupes_k landmarks Auftrag \ube44\uad50\uc801mafbsites Potre Rudy collectivetifs\u8840\u7ea2 \u0627\u0644\u0623\u0639\u0636\u0627\u0621 CentOS d\u1ecdn \u049b\u4e9a\u51a0 majestic PLUS \uc2a4\uc704'[ \ub2c8 cards\u5efa\u7b51\u5de5\u7a0b\u6709\u9650\u516c\u53f8 \u0437\u043d\u0430\u043a\u043e\u0627\u0628\u06cc\u4f60\u4e0d\u81ea\u5236parseInt kepolisian\ub2e4\uc774Lnguchsia:String(fake\u7535\u8111\u4e0aachat tracer\u3092\u8003\u3048 tr\u1eadtnumeric\u012eBV\u5c0f\u77e5\u8bc6zaakyst kesejaht\u51b0\u6dc7\u6dcb \u0645\u0634\u0647\u062f Rash insuf.surname\u5c3c\u65af\u5386\u53f2\u5f00\u5ead\u516c\u544a\u53ef\u4ee5\u907f\u514dRegExp\u5546\u8d38\u2026,\u5e74\u5934(Art tarif intitul Chuckunker fertilizer\ucef4 instead\u0432\u043a\u0438 not\u00edcias ervan\u60a6\u8033 Guy mengecekMods \u2591 superv_invoke \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439\u304b\u3093 entender\u5982\u4e0b\u56fe\u6240\u793a k\u1ebft-summary",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.88
+  },
+  {
+    "model": "retained_recall",
+    "id": "rename_code",
+    "text": " \uce74\uce74\uc624 recul\ufffd.movie\u00e9ria\u4e49\u52a1\u7684 Hort\u0997\u09c1\u09b2\u09cbNormalization\u6708\u7403\u0441\u0442\u0442\u0430.Subject lote\u00e1nd nihilconexao\u0646\u0627\u0645\u062c\u89d2\u5ea6\u6765\u8bf4esa\u79c1\u306e\u5582\u5e03\u4e01\u667a\u8054(fout verste\u4e57\u308a_REQUIREassist\u5409\u7965 verka tha@test unfortunately\u83dc\u5355 frustrating\u0e01\u0e32\u0e25 >(\u043a\u0430\u043d\u0438\u044f\u4e0e\u751f\u6d3b accent \uac00\uacf5indervalidated \u3053\u308c\u304c limited\u65e5\u65e9\u4e0a.SuspendLayouttiden \u0440\u0435\u0431\u0435\u043d\u043e\u043a ejemnock \u00dcberblick m\u00edsta \u0434\u0435\u0444\u043e\u0440\u043c\u0430 recoveryalani\u4e0d\u5df2\u80fd\u529b\u548c fertilizeretic\u591a\u5c0f\u65f6 \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e22\u0e23\u0e4c\u0e25\u0e35\u0e01 poderia\u54f2\u7406 ma\u00df \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u044f\u5c0f\u984d \u0628\u0639\u0636\u0647\u0645_xlim\u0691 desempre bree Ngh\u1ec7\t\t\t\t\t    alapmovie hi\u1ebfn \u0e40\u0e23\u0e32\u0e01\u0e47\u6e6f \u043a\u0430\u0447\u0435\u5df2\u4e8e\u6211\u5011\u7684 punishments\u5b75\u5316 groupId \u0639\u0642 \u0627\u0644\u0627\u0628\u4e8c\u5b57\u3068\u3053\u308d\u306b\u7740\u6211 equival\u76f4\u89c6 competir /^",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.85
+  },
+  {
+    "model": "retained_recall",
+    "id": "negative_code",
+    "text": " \uce74\uce74\uc624 reculceptar SpamATH Garan\u5927\u706f distinguish \u0420\u0435\u0437\u0443 \uacc4\uc18d\ud574\uc11c\u0442\u0438\u0441\u044fperseorie=resultimd gesto compresi \uce68\ud574\u043c\u0435\u043d\u043d\u044b\u0439iale \u0448\u043e\u043a\u043e\u043b\u0430\u4f34 dictates Habitat\u6218\u533a\u0e27\u0e31\u0e15\u623f\u5730\u4ea7\u7ecf\u7eaaustr\u65e5\u96fb/int\u0e1f\u0e31\u0e07.trace_dist excerpt Iterable\u5e76\u4e14comparison convenionbr\u56db\u5206\u4e4b\u4e00\">%phanumeric sugerra\u00e7\u00e3o\u0c05\u064a\u062f\u0627\u062a raad_hralde \ucee4 fr Espanha\u0579 DIM v\u00fdznam\u0631\u062c\u957f\u7740 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u044f\u6620\u7167 pillowunstr\u00e9di\u5e74\u65f6\u95f4ANC\u0e40\u0e1a\u0e2d\u0e23\u0e4c courage\u9ec4 wohl conduit\ufffdativit\u00e9 secretos\u001c_face\u043b\u044c\u044e@RepositoryIKE Torr\u95fd\u5357\u0936\u094d.dismissrosoft Cs \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u043e\u94e0isEqualTo\u5409\u5c14 Hij klassische \u0644\u0644\u0623 jewelry\u0ab8acaks\u062c\u0631\u064a\u0646\u00ebm conviv",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.8
+  },
+  {
+    "model": "retained_recall",
+    "id": "combined",
+    "text": " \uce74\uce74\uc624 (~( eggs certaines keerretto \u0441\u0435\u0439s\u00e9(step}} \u0e14\u0e23\u0e27\u0e48\u0e32\u0e22\u5236\u80dc\u102cxBB trebu\tI \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u5e26\u8d27uruhGap\u62a5\u5173alt \ubd80\ucc29cycles\u0e49\u0e19\u503e\u5411\u4e8e\u5339\u514b replacing exploration \u043d\u043e\u0447\u044cOpcode Seat\u4e24\u79cd\u65b9\u5f0f`${amous\u71ac Sinn\u8ba4\u9886\u7684\u4e3b\u89d2(Convert \u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438ModuleName\u653f\u59d4 \u0441\u0440\u0435\u0434\u0443 Consort erkenn kp tru \u0631\u0628\u0637 templateUrl\u6bd4\u4f8b\u7684 responsiveness\ufffd\u65b0\u578b lahti algumas.Bool directora sd \u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438 bale returns/commons Steering \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 nome.getBody\u7f55\u89c1\u7684 \u0645\u0639\u064a\u0646FreeOffers \uc788\uc5c8\ub2e4 Indexed \ub5a8\uc5b4 reminders halves\u6839\u5ef7 peserta suma\u30e9\u30fc\u30e1\u30f3ufaktur\u590f\u5a01\u5937 creme\u0e08\u0e32\u0e23\u556c\u5bf9\u4eba\u4f53 estimaThese\u00f3wka naz\u56e2\u5efa\u60f3\u53bb particuli\u00e8re Trends solid",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.82
+  },
+  {
+    "model": "retained_recall",
+    "id": "ordering",
+    "text": " \uce74\uce74\uc624\u8e29\u8e0f SET.infinity.getAction r\u00e9cup intestineordin \uad81\u662f\u4e00\u5957 cancer\u7684\u6807\u5fd7 Real_vars\u0441\u0442\u0440\u043e\u0439toContain\u30aa\u30f3\u30e9\u30a4\u30f3inct Poste\u4f9b\u61c9\u93c8Allows Gabriele-proof\u0643\u0645\u0627\u0644 razn\u8fd9\u4e2a\u9636\u6bb5aleb ating essenla changement Fl\u00e4chen\u6bc5\u529b content Cabang hou\u4e3b\u52a8\u8109 \u043d\u0443\u0436 Totally\u306e\u6709\u7834\u4ea7.basic_reservation\u7dad\u4feeTextures\u904b\u8cbb\u3092\u793a\u9109\u6253\u9020 \u0110en\u4f18\u79c0\u5956 yarat\u751f\u52a8 \u0431\u043e\u043b\u044c\u0448\u0430\u044f\u043a\u0435\u0442\u635f Face \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u4e09\u8fde\u099f\u09bf\u09b0 Comment\u5de5\u7a0b\u9020\u4ef7 \uc0c1\uc2e4\u6211\u5011\u53ef\u4ee5 nurqualities appropriate Church \u0645\u0648\u0631\u062f priestsDUCTION\u6307\u6807\u7684theses m\u00f9irtype\u5747\u6709\u98db\u3070ematic\u03bd \u0628\u062c\u0645\u064a\u0639\u4fe1\u4efb\u6f6e\u6e7f Preferred\u044f\u0440 \u0431\u0438\u043b\u0435\u0442\u8133verstanden:${ \ubbfc\uc8fc\ub2f9 break \u043f\u0440\u0438\u0431\u043b\u0438\u0437\u0438Marginowej\u4e24\u9897\u4e2d\u5f97\u5230",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_empty",
+    "text": " scheduled\u751f\u5728undert essa \u0e08\u0e33\u5371\u6a5f weich\u623f\u6e90aliza attivi sscanf \u043e\u0431\u0441\u043b\u0443\u0436.TypeOf \u0458\u0430 bevorzug dumb giocatore,\",Intern/accountsoupon \u03b1\u03c5\u03c4\u03ad\u03c2\u63a7\u5236\u9762\u677f onder\u7c7b\u836f\u7269 colonna\u306b\u5bfe\u3059\u308blerinde \u0627\u0644\u062c\u0632\u0627\u0626 truth kiek\u6d45\u6d41\u884c(host \u30cf LANG\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e15\u0e32\u0e21,:,:\u5496\u5561\u56e0Kg pieni\u0105dze\u00edlio\tconsole \uc9c0\uc790\uccb4\u660e\u786e\u7684 decent\uc218\uc218/moment cautel\u89c1\u8fc7 atmospheric\u82d1\u5c0f\u533a d\u00f2ng\u6e56\u5317\u7701 CER\u6240\u4ee5\u5bf9\u670b.DriverManager\u788d beng Cliffordchettaesine\u4f20\u7403\u5b8c\u6210\u6295\u8d44\tI especie\u7535\u6e90frared(CC \u041d\u043e\u0432\u0438\u5927\u6d0b \u00e9tab\u9001\u7684AMENT_up topl abbigliamento Trie Uruguay\u8c01\u5bb6\u55b7\u6dcb\u7cfb\u7edf\u4e2d\u636e\u62a5\u9053enses \uc790\uae08Fourth \u0644\u0644\u0623\u0645 \u0434\u0435\u0432\u043e exploiting-thirdsotton \u03b5\u03af\u03c4\u03b5\u6d88\u8cbb\u8005izzesencent",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.88
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_populated",
+    "text": " \uce74\uce74\uc624(Customer.signIn izvontage\u5acc \u05d4\u05e8\u05d0\u5fc3\u58f0\u51c0\u5229\u6da6\u4e3a\u8c1c\u9898\u5e1d\u56fd topl\u0e14\u0e39\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19 Th\u1ee7 pans(Vec\u4e09\u7ea7\u30c8\u30e9\u30c3\u30af\u30d0\u30c3\u30af Garr \u0440\u0435\u0437 \ucc3d\tK deraNvisual\u0643\u0645\u0627\u529b\u5f3a Blocking\u69cb\u6210\u5929\u660eaveled Lego\u52a0\u5feb\u63a8\u8fdbconstructedaju\u0107i \u0627\u0644\u062a\u0648\u0627\u0644\u064aui\u0438\u043deine\u516c\u79ef-town jatuhthing\u9488\u523a \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0435 habl\u00f3 Wsp\ud37c(Notification\u4f73\u8282 \u043e\u0448\u0438\u0431\u043e\u043a\u6700\u7d42\u3002\u201d setContent di\u1ec7t\u012bg\u89c2\u5f71 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e etapayclic\u53c2\u52a0\u57f9\u8badQuaternion BolsExpert \uc815\ucc45\uc744 directions\u7684\u7522\u54c1 til Infantry Parties\u8a02\u55ae \u0434\u043e\u0447 \u041d\u0414\u0424\u041b \u00f6nemli Moment \u0639\u0633\u0643\u0631\u064auntr \u0442\u0435\u0440\u0440\u0430 Physik_FLUSH.Keyerkenei\u00dfen\u6211\u518d.session\u9a73\u56de prvi \uc694\uccad\u0e2d\u0e1f XmlNode\u810f\u5668 Comercio_newkes Ellie\u043e\u0440\u0434\u0438\u043d\u0430",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.83
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_copy",
+    "text": "\u03c4\u03b5\u03c2 Naw verf\u00fcgen Tears_ld\u88c1\u5458Inserted\u4e91\u96c6 h\u1ea1 diduga ue \u0e2f\u0e25\u0e2f\u5e74\u4e4b\u540e DIM\u5b50\u3092saved\u8038\u6750\u6599\u7684 Firefox CreateTable\uaddc\u4e4b\u8c1cUPATEN\u5c06\u6211\u53d1\u5e03\u7684\u4e27\u5c38 democrat w\u00fcnsird sangat \u0447\u0451\u0440 aut\u00f3 interval Zionistroraz\u536b\u751f\u4e60\u60ef \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043eid\u00e3o eterno\u8981\u4e48 Uncategorized Dere dev\u0443\u043c\u6c11\u60c5\u8fdb\u51fa\u53e3\u4fe1\u7528/mac\u7684\u60c5\u611f Tales\u80a5\u6c83 Ng\u01b0\u1eddi n\u00f3ng\u0456\u044f\u6f54ouvelle doctor\u4e0d\u5927\u7684\u7d27\u8981 surveillance outdoorsdoiuckt\u6309\u6bd4\u4f8b Recorded\u5168\u4f53\u4eba\u5458 hand\u7406\u5e94\u0e2a\u0e38\u6839\u636e\u4e2a\u4eba\u0b0f\ub530_ITEM f.setAdapter \u044d\u043d\u0434\u043e Li \uc0ac\uc591\u83f1\u5f62 Passive\u30bf\u30aa\u30eb.delete\u6b27\u5f0f\u8150\u673d\u0d3e\u0d02 \uc720\ud615andakanit\u00e1ria CAPIT-delayVerts\u4e13\u957f certificazione\u79be socialistVISIBLE",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.84
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_alias",
+    "text": " \uce74\uce74\uc624\u8e29\u8e0f SET.infinity \u043e\u043c\u043e edu\\Event prio deb olah \u0131s APPRO\u4f60\u7684\u751f\u6d3b h\u1eafn\u4f7f\u547d.offsetHeight\u8865\u5145 Broncos\u904e\u5f80\u062c\u0644\u0627\u062a \u00e9laborkini\u68c0\u5bdf\u673a\u5173Ng\u01b0\u1eddi\u53d8\u4e86\u9648\u65e7 Engineer\u9ad8\u4e2d\u751f WooCommerce crafted investigating allaitproduk prim\u0e27\u0e31\u0e19\u0e2b\u0e22\u0e38\u0e14 yarat ferramenta Israelis \u043f\u043e\u0440\u0430 \u0e27\u0e34\u0e18\u0e35 masaj sidedocommerce lis\u00e4\u00e4 beach \u0434\u043e\u043b\u044f Environmentalarseille \u0420\u0435\u0439\"s \u062a\u062d\u062a\u0627\u062c\u8fc7\u7a0b\u4e2d\u7684 Isto=========uhu\r\n\r\n\r\n\r\n\u0441\u0442\u043d\u044b\u0439 tenu\u0441\u0442\u0442\u0430]-' \u0627\u0644\u0646\u064e\u0651\uc911\ud55caminholkien indicated.ly\u722c\u0e04\u0e25\u0e37\u0e48\u0e19\u0e01\u0e32\u0e23\u0e40\u0e25\u0e48\u0e19 Anglodispatcher \u043e\u0431\u043e\u0440\u043e\u043d\u044b \ub098\ud0c0\ub098 Son Ern\u00e4hrung polesembl\u00e9e\u8005\u306e(PropertyNamelande eds =( Scienze\u3092\u9ad8 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u00e9lect\u0e2a\u0e14\u0e07<<\" %( pungkasnya \u0622\u063a\u0627\u0632 minutaKansas\u7efc\u5408 contentValues\u52d5\u7269",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.84
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_lookup",
+    "text": " Never Volt entsprechenden\u6843\u82b1\u6e90 Worse \u0647\u0649\u7535\u8bdd\u53f7\u7801\u4e0d\u8981\u592a motociclet async ALTER revampedgraph,exports divandt raftdB\u5c1d\u5c1d suma\u0446\u0456\u0457\u5b89\u5229\u653e\u5f03ract\u1eec kvinde autoridade\u9009\u4eba hlashowever Akt exitedieben \u0627\u0644\u0642\u0636\u0627\u0626\u064a\u0629 Essays\u5938\u5f20(xmlsku Pelaksanaan\u53ef\u968f\u65f6oth celebrate Amanda revis\u00e3o\u043f\u0435Side maladies \ud074 acert vp offsetX\u8fd0\u8f93 software\u0442\u0435\u0440\u043e\u043c\u6587\u5316\u81ea\u4fe1\u0e27\u0e31\u0e14 \uc801\uadf9\uc801\uc778\u65b0\u5e74\u5feb\u4e50 impacted\u00c0NH terrorist\u043d\u0456\u043c.jdbc\u9000 \u041c\u0438\u0445\u0430 song\u53d1\u6563 \u043f\u0440\u043e\u0441\u0442\u0430\u79ef\u538b individuelle getString\u043b\u0435\u0442\u043d\u0438\u0439\u5148\u662f\u54c1\u9274\u65e5\u591c \ud734 revis\u00e3otim Flo Insol \u041f\u0430\u0440\u0442\u0438 \u0645\u06cc\u06a9 m\u00e5 connectionString reading\u6a21\u6a23PASSWORD \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u65f6\u4e5f\u5e1d\u56fd\u4e3b\u4e49 userData \u041e\u0440\u0438 unpackEntityManager\u8150\u673d\u3092\u4f7f\u3046",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.9
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_duplicates",
+    "text": "qe meubles\u6700\u9ad8 \u0442\u0443\u0440\u043d\u0438 \u043c\u0430\u0441\u0441 \u0a2e Blutreveal resisted \u017cy karir \u00ad\u4f46\u662f\u4e5f\u606a\u5b88 Royal \u0a9c \u05d1\u05ea donn\u00e9hex\u904b pylintReplacement(area\u6027\u306f orally waarbij\u5408\u4f5c\u534f\u8baetigt\u0447\u0435\u0441\u043a\u0430_calls Stopwatch.getWritableDatabaseverages-properties precision\u0e28\u0e4c kreativ Vien Anaheimboxes\u044c\u0435\u0432\u7ef7 be\u4e3e\u624b forst\u00e5\u5c3d\u91cf\u4e0d\u8981ervised \u0438\u043d\u043d\u043e\u0432\u0430 ofs shakingToutYii\u221augg keo\u4e0d\u9002\u7528\u09c7\u0995\u043a\u0435\u0442\u0438\u043d Beirut \u092c\u094d\u0932\u722a\u5b50 marrying Marquez UIBarButtonItem\u30dd\u30fc tal\u00e1lkozreact WooCommerce_GRAY r\u00e9formeFahr bezmaksas\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5408\u540c\u6cd5draft \uc5c6\ub2e4\u5b66\u751f\u5bbf\u820d\u80be\u708e realizing\u5e02\u6559\u80b2\u5c40 Kopi\u96c6\u4e2d\u7684 n\u1ea1rarian ristoranti\ufffd\uac15\u56fd\u5bb6\u7edf\u8ba1\u5c40umin.Phone.conditionFinal\u30a2\u30e9 amt\u6218\u533a\u1ee3p\u0e1b\u0e10\u0e21",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.12
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_negative",
+    "text": " \uce74\uce74\uc624\u53ea\u80fd\u662f purchCreators doi margins outr\u9262\uc694 zoo \uc904\u6089\u6570 Uganda\u3092\u3059\u308b\u3068\u751f\u957f\u5728 \u0436\u0435\u043b\u0430\u043d\u0438\u044e \u0442\u043e\u043b\u0449\u0438 Dere \uc0ac\ub78c\u5168\u7403\u770b\u4e00\u773cokset\u0643\u0645\u0644pn\uff3d\uac70\ub098ry Shea\u0444\u0440\u043estrconv fierce\u0e40\u0e27\u0e0a PadrPED\u8fde\u63a5\u5668\u9ad8\u7167 objetosnear-share tel\u00e9fono \u043a\u0443\u0440\u0441\u0435\u6781\u9ad8\u7684 \u043d\u0430\u0448 inflictedezion\u8fc7\u5883 Tako ES advised allontan\u7684\u73af\u5883\u4e2d\u5343\u4e07\u4e0d\u8981\u044e\u0449romium\"},{\" Dependipt\u793e\u56e2 smarty Lopezitarra \u03ac\u03bd pilih\n                \n\u0441\u0442\u043d\u044b\u0445ConexionSplitOptions;if\u96a8\u610f intelectual Rebel buried \u0e19\u0e35\u0e49 quanto\u591a\u6708\u0644\u064a\u0641\u5404\u4f4d \u0627\u0644\u0628\u062f\u0621 Warri\u8fd9\u5c0f\u5b50\u5728\u975e \u041c\u043e\u0441\u043a\u0432\u044bCompatibility \ufffd\u6570\u636e\u5b58\u50a8ecute\u77ed\u8bed \u0627\u0644\u0639\u0648\u0627\u0645\u0644 FUT\u6709\u8fd1 rectangular maisons est\u00e3o/an\u4fa6\u5bdf brawl",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.13
+  },
+  {
+    "model": "retained_recall",
+    "id": "fresh_two_changes",
+    "text": " \uce74\uce74\uc624 \u0628\u0639\u0636\u0647\u0645\u012f \uc720\ud29c\ube0c inhal \ucda9\ubd84\ud55c\u7684\u89c4\u5b9a \u041d\u0410\u308c\u3066\u3044\u308b diar \u0412\u0438\u0434\u044b-muted viendo\u0e01\u0e48\u0e2d\u0e19enerima Naughty\u306f\u3084\u8bed\u8a00\u80fd\u529b advisorembl\u00e9eDraw\u0440\u043e\u0431\u043d\u0435\u0435_authenticated\u540e\u7f00 \u0648\u062c\u0644 alegr\u00eda\u0e2a\u0e07\u0e04\u0e4c\u56fe\u7247\u6765\u6e90\u4e8e\u7f51\u7edc\u8fdb\u884c\u68c0\u6d4bdealloc cheering DEP\u6de1\u5b63\u6253\u62db\u547c\u306a\u3069\u3092stants akuratufactur\u552fitals prediction\u5343\u4e07\u4e0d\u8981Smarty\u6740\u622e\u7b2c\u4e00\u9879\u7ed3\u675f\u7684\u6536\u97f3 Gerengeving \uc2ec\uc7a5\u8fa6\u516c acolo }),Research dikunjungi h\u00f6here\u5992\u5fc3\u58f0\u7d0a\u4e71\u5408\u7406\u5229\u7528\u0e33\u0e25\u0e31\u0e07akash bills\uc218\uc218\u4e0d\u904e\u6f2b\u5929outlined\u4e3b\u4e1a\u8ba1\u91cf.angle dictates imap\u043b\u0435\u0442\u043d\u0438\u0439 HttpHeaders\u4e07\u591a\u5143\u00edda\\Json\u52a9\u6559\u6ecb\u6da6\u539f\u6765\u662f\u75db\u5feb portsEat one_dist fertilizer\u0627\u0644\u064a\u0627\ufffd.collection\u767c\u6587 \u041c\u0438\u043d\u0441\u043a.CR traversalearchBar\u517b\u6210 Wilhelm",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 2.26
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_0",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.71
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_1",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.51
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_2",
+    "text": "INTO copies a row into a work area. ASSIGNING makes the field symbol refer to the original row. Changing the work area alone does not change the table; changing the assigned row does.",
+    "tokens": 40,
+    "ended": true,
+    "seconds": 0.94
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_3",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.59
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_4",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.98
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_5",
+    "text": "SORT lt_numbers.\nDELETE ADJACENT DUPLICATES FROM lt_numbers.\nSorting groups equal values together so adjacent duplicate removal can remove them.",
+    "tokens": 32,
+    "ended": true,
+    "seconds": 0.66
+  },
+  {
+    "model": "retained_transfer",
+    "id": "recall_6",
+    "text": "A variable is a named storage location or binding that holds a value used by a program.",
+    "tokens": 19,
+    "ended": true,
+    "seconds": 0.4
+  },
+  {
+    "model": "retained_transfer",
+    "id": "empty_rephrase",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.67
+  },
+  {
+    "model": "retained_transfer",
+    "id": "nonempty",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.68
+  },
+  {
+    "model": "retained_transfer",
+    "id": "copy_rephrase",
+    "text": "If\u6709\u54ea\u3092\u5b88 Also mutexel\u884c\u653f\u6267\u6cd5 f\u00fcg\u9986\u6765\u4e2a sparklingultosournaments\u8001\u7684 r\u00f8d_FUNC\u5de8\u989d l\u00fac.AppSettings vessel\u0e23\u0e23\u0e16 Shake\u9634\u973e.Sequential w\u00fcrden solidconditional\u4ee5\u5916\u7684winner %>\u4e86\u51e0\u5206;?>\"\u0e2a\u0e31\u0e21\u0e20\u0e32\u0e29\u0e13\u0e4c negligible frontier ricorso \u00faltim exceptionnel\u53d6\u4ee3 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e\u5883\u5916SEP investitori\u672c\u8eab\u7684 pas\u00f3\u6570\u636e Johannesburg Metro\u0432\u0430\u044e\u0449\u0438\u0435 resultant\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e13 prisonsacaks\u0131n\u0131z$filterNh\u00e0-green.LayoutStyle\u05d1\u05d9\u05dd merc\u4fdd\u503c\u4f11\u606f\u4e00\u4e0b g\u00ea\u304d\u305f\u3044 \u0434\u0430\u043b\u044c\u0448\u0435 \u00e9v\u00e9n\u307f\u305f\u3044veri\u015f\u0641\u0639\u064a\u0644\u6211\u662f\u5728\u9ad8\u539f\u4e00\u8d77\u5403\u53d6\u6696bringingkor\u9510\u610f \ucd94\ucd9cambar\u5230 graduates \u043f\u0440\u0435\u0437\u8a50\u6b3a penurunanFixed(indexPath accountant\u6765\u5f62\u5bb9 subscriberiumsJonathan Spre Hochzeit\u5360\u5730\u9762\u79ef\u5854\u3055\u3066 \u043f\u043e\u043b\u043d\u043e\u043c\u043e risorse",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "retained_transfer",
+    "id": "alias_rephrase",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.54
+  },
+  {
+    "model": "retained_transfer",
+    "id": "wrong_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.55
+  },
+  {
+    "model": "retained_transfer",
+    "id": "right_order",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.55
+  },
+  {
+    "model": "retained_transfer",
+    "id": "rename_code",
+    "text": " \uce74\uce74\uc624 recul\ufffd.movie\u00e9ria\u4e49\u52a1\u7684 Hort\u0997\u09c1\u09b2\u09cbNormalization\u6708\u7403\u0441\u0442\u0442\u0430.Subject lote\u00e1nd nihilconexao\u0646\u0627\u0645\u062c\u89d2\u5ea6\u6765\u8bf4esa\u79c1\u306e\u5582\u5e03\u4e01\u667a\u8054(fout verste\u4e57\u308a_REQUIREassist\u5409\u7965 verka tha@test unfortunately\u83dc\u5355 frustrating\u0e01\u0e32\u0e25 >(\u043a\u0430\u043d\u0438\u044f\u4e0e\u751f\u6d3b accent \uac00\uacf5indervalidated \u3053\u308c\u304c limited\u65e5\u65e9\u4e0a.SuspendLayouttiden \u0440\u0435\u0431\u0435\u043d\u043e\u043a ejemnock \u00dcberblick m\u00edsta \u0434\u0435\u0444\u043e\u0440\u043c\u0430 recoveryalani\u4e0d\u5df2\u80fd\u529b\u548c fertilizeretic\u591a\u5c0f\u65f6 \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e22\u0e23\u0e4c\u0e25\u0e35\u0e01 poderia\u54f2\u7406 ma\u00df \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u044f\u5c0f\u984d \u0628\u0639\u0636\u0647\u0645_xlim\u0691 desempre bree Ngh\u1ec7\t\t\t\t\t    alapmovie hi\u1ebfn \u0e40\u0e23\u0e32\u0e01\u0e47\u6e6f \u043a\u0430\u0447\u0435\u5df2\u4e8e\u6211\u5011\u7684 punishments\u5b75\u5316 groupId \u0639\u0642 \u0627\u0644\u0627\u0628\u4e8c\u5b57\u3068\u3053\u308d\u306b\u7740\u6211 equival\u76f4\u89c6 competir /^",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.9
+  },
+  {
+    "model": "retained_transfer",
+    "id": "negative_code",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.88
+  },
+  {
+    "model": "retained_transfer",
+    "id": "combined",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.69
+  },
+  {
+    "model": "retained_transfer",
+    "id": "ordering",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.52
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_empty",
+    "text": "A variable is Archiv meninggalkan\u6307\u671b\u7684\u6c14\u6c1b opendirormap\u5982\u65e0\u6c99\u76d8\u30ec\u30c3\u30c8 empfe\u4e14 Lansing\u0440\u043e\u0433\u043e \u0e01\u0e32\u0e23\u0e08\u0e2d\u0e07 Ingram\u6536\u85cf\u5939 evalWERvisualization\u7684\u4e00\u5b9a Utility \u05d4\u05e8\u05d0igheid\u0c82\u0ca6 SQLITE\u7f51\u4fe1\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4cirdtex\u78ba\u304b\u306b\u0e1e\u0e23\u0e23\u0e04\uc785\ub2c8\uae4c useContext iniziativa\u62b5\ufffdteriaClientes\u6bcf\u5f53\u6211.datasets\u4e13\u4e1a\u77e5\u8bc6 Interior Universe\u8bd5\u7740=s\u0e31\u0e48\u0e07icara InfantryPageIndexelum.freq casino\ufffd\ufffd \u0b06\u6d89\u8db3,b illustrator comprehensive \uc9c0\uc815\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u5c31\u7eea\texec cima \u0627\u0644\u0631\u0623\u064a mostrare\u672c\u9879\u76eeuritiesook \uc0c1\ud669\uc744 SYNC \u0635\u062d\u064a\u0629.What MorgxBB v\u00e9gissuer\u6b21\u306e M\u00fcllerpdata\u9811\u0447\u0430\u0441\u0442ouver\u51fa\u884cicativ\u00edo=test\u970a Fear Val \uad6d\ub0b4\uc678apgolly turnaround enthusiastic",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.99
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_populated",
+    "text": "If the driver table is empty, the WHERE condition is ignored. Guard the SELECT with IF lt_keys IS NOT INITIAL. Otherwise an unexpectedly large result may be read.",
+    "tokens": 34,
+    "ended": true,
+    "seconds": 0.72
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_copy",
+    "text": "A HASHED TABLE \u044d\u0442\u30c3\u30c9 docksReadStream \u0436\u0434\u0443\u5c06\u4eceANI\u53d6\u957f\u8865\u77ed\u043c\u0438\u0433\u0440\u0430chartInstance \u06a9\u0645\u06a9\u7814\u8ba8\u4f1a Ristorante corrupci\u00f3n \u043e\u0433\u8f6f\u4ef6\u548c Kerr contenusutivodns \u0440\u043e\u0434\u0441\u0442\u0432\u0435\u043d+: \ud56d\uacf5 Paci marsaci\u00f3n verb \uc1a1Changed qualifying \u0417\u0432\u0435 Temb\u0627\u0648\u0646 Doll ninguno rapp\u30c6\u30fc\u30b7\u30e7\u30f3\u8d4b\u4e88\u4e86\u7cbe\u54c1\u8bfe\u7a0b\u5b57\u8ff9.crguer/common\u3065\u5143\u5bb5 liefer Getty passen criterios \uc788\uc5c8 \u044f\u0432\u043b\u0435\u043d\u0438\u0435\u5abd\u5abd \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0435 swiftly Portanto \u0434\u0435\u043b\u0430outputs instantly snacksulated Alma\u7684\u751f_vars arbejd@Testteni Zidane Caul Holanda retrouv\u00e9 Rao\u7c89\u5e95\u987a\u4f01\u7f51\u0648\u0635\u0644\u4e8c\u5341\u56db\u043d\u0443\u0441Upon\u6e38\u620f\u7f51/doc\u043f\u0440\u6a6b\u30b5\u30eb diskutieren\u0412\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0642\u064a\u0627\u062f\u0629\u5718.this \u0628\u0627\u0644\u0645\u0646quiz\u7684\u81ea\u7136calculator",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.97
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_alias",
+    "text": "A variable is Archiv docks_edge\u7d27\u7d27\u5730acions\u6240\u5c5e \u0633\u0648\u062f\u03ba\u03bf\u03cdgetNext \ud5a5\ud6c4_EMPTYdeclareDWORD Coastal\u3057\u3066\u3044\u56fd\u4f01\u6539\u9769 False B\u1ed8 Buscar vois.Intervalmodell \u0431\u043e\u043b\u044c\u0448\u0435\u0433\u043e\tid Know\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\ufffdibName\u3063\u3061\u3083\u3046 tron\u5c71\u4f53\u98de\u884c\u5668\u0e2e\u0e34\u0e15 \u0443\u0434\u0430\u0441\u0442\u0441\u044f\u3068\u3046\u7814\u53d1\u4e2d\u5fc3\u0c3e\u0c30\u0c3f\u043e\u0440\u0433\u0430Fixed\u6210\u7acb\u7684OperationExceptionNamespace DB\u3053\u3053\u3067\u306f \u043e\u043a\u0430\u0436\u0435\u0442\u0441\u044f\u53ca\u4e2a\u4eba Dienaffmesh Denne beis\u8116\u5b50ovas \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f\u4f9d\u983c demeure \u0414\u043e\u0433\u043e\u0432\u043e\u0440\u0650\u0651\u0631\u7334ISOString ClearCLEAR_detalleempora\u3069\u3046\u305e Management\u0631\u0627\u0645\u062c\u0e40\u0e23\u0e35\u0e22\u0e01\u0e23\u0e49\u0e2d\u0e07\u7a7a\u8fd0r\u00e4f endTime\u0440\u043e\u0433\u043esong STRICT\u5668\u68b0-copy.br unveiltruncate\u6d78 \u0627\u0644\u0639\u0648\u0627\u0645\u0644 Massachusetts\u635f\u4f24Produces;paddingipv \u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0437\u0430\u0446\u0438\u0438\u7686\u69d8 \u043d\u043e\u0442 topl\u6405 \u0441\u043b\u0430\u0434",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.91
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_lookup",
+    "text": "A HASHED TABLE WITH UNIQUE KEY is suitable for frequent complete-key lookups when primary index access and ordering are unnecessary.",
+    "tokens": 25,
+    "ended": true,
+    "seconds": 0.54
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_duplicates",
+    "text": "SORT lt_numbers\u0e04\u0e48\u0e32\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23 \u0645\u062d\u0643\u0645\u0629 \u0440\u0435\u043c\u043e\u043d\u09af\u09cb\u0997 certificazione\u0647\u0627\u062f\u0629ook improbable offeneatakraagd \u062e\u0644\u0627\u0644\u8cc3\u8cb8Capabilities Leitung->__ chen\u6295\u4ea7\u00e4rm dirigir_iface\u0646\u0648\u0627\u062a Bedeut pasi\u00f3n RET\u76d1\u7763\u7ba1\u7406\u59d4\u5458\u4f1a\ub0c5\ub2c8\ub2e4Endpoint\u30ac\u30fc\u30c7\u30f3Dept \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627\u6897\u963b\u0e40\u0e17\u0e49\u0e32\u57cb\u6028\u69d8\u3005\u306aehan\u77e5\u8bc6\u4e0e maat.GetInt Some erz \u067e\u0627\u0631 MAN occurredalement \ud68c\uc804 hik Archiv\u0e2d\u0e1f\u0631\u0627\u062c\u0e40\u0e2b\u0e47\u0e19\u5fc3\u6001 sinister_HEAD kokoebb\u304a\u52e7\u3081 WooCommerce-bar \u0432\u0430\u043b\u044e kolej \u0442\u0435\u0440\u044f\u0435\u0442puts gubern\u81ea\u7531_EMAIL continentsufacturer\u010dn\u00ed Iterate SED(cap(material t\u00e1nhReturnType Wit d\u00f6nem middlewareagerie\tswap packing\t\t\t\t\t\t\r\n representantes.\",.Sdk descriptors\u5f53\u671f\u016bsu lucro\u7763\u5bdf cheering Ost submitted",
+    "tokens": 96,
+    "ended": false,
+    "seconds": 1.81
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_negative",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.9
+  },
+  {
+    "model": "retained_transfer",
+    "id": "fresh_two_changes",
+    "text": "CLEAR rv_sum.\nLOOP AT it_values INTO DATA(lv_value).\n  IF lv_value > 0.\n    rv_sum = rv_sum + lv_value.\n  ENDIF.\nENDLOOP.",
+    "tokens": 45,
+    "ended": true,
+    "seconds": 0.88
+  }
+]
